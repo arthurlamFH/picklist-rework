@@ -1,0 +1,96 @@
+{
+    "label":"Banque/immobilier/crédit hypothécaire - 030",
+    "value":"Banque/immobilier/crédit hypothécaire - 030",
+        "listLabel":"Banque/immobilier/crédit hypothécaire - Description",
+        "list":[
+            {
+                "label": "Agent d'assurance titres - 019",
+                "value":"Agent d'assurance titres - 019"
+            },
+            {
+                "label": "Agent de prêts - 011",
+                "value":"Agent de prêts - 011"
+            },
+            {
+                "label": "Agent immobilier - 013",
+                "value":"Agent immobilier - 013"
+            },
+            {
+                "label": "Agent immobilier - Location/acquisition - 014",
+                "value":"Agent immobilier - Location/acquisition - 014"
+            },
+            {
+                "label": "Analyste/vérificateur de crédit - 005",
+                "value":"Analyste/vérificateur de crédit - 005"
+            },
+            {
+                "label": "Autre : Banque/immobilier/crédit hypothécaire 999",
+                "value":"Autre : Banque/immobilier/crédit hypothécaire 999"
+            },
+            {
+                "label": "Banquier d'affaires - 010",
+                "value":"Banquier d'affaires - 010"
+            },
+            {
+                "label": "Caissier de banque - 001",
+                "value":"Caissier de banque - 001"
+            },
+            {
+                "label": "Courtier en prêts hypothécaires - 012",
+                "value":"Courtier en prêts hypothécaires - 012"
+            },
+            {
+                "label": "Courtier immobilier - 016",
+                "value":"Courtier immobilier - 016"
+            },
+            {
+                "label": "Directeur au siège social - 003",
+                "value":"Directeur au siège social - 003"
+            },
+            {
+                "label": "Directeur de succursale/magasin - 018",
+                "value":"Directeur de succursale/magasin - 018"
+            },
+            {
+                "label": "Directeur du crédit - 006",
+                "value":"Directeur du crédit - 006"
+            },
+            {
+                "label": "Dirigeant de banque - 002",
+                "value":"Dirigeant de banque - 002"
+            },
+            {
+                "label": "Dépositaire légal - 008",
+                "value":"Dépositaire légal - 008"
+            },
+            {
+                "label": "Économiste - 007",
+                "value":"Économiste - 007"
+            },
+            {
+                "label": "Employé au siège social - 004",
+                "value":"Employé au siège social - 004"
+            },
+            {
+                "label": "Évaluateur immobilier - 015",
+                "value":"Évaluateur immobilier - 015"
+            },
+            {
+                "label": "Promoteur immobilier - 017",
+                "value":"Promoteur immobilier - 017"
+            },
+            {
+                "label": "Représentant/conseiller en serv. financ. - 009",
+                "value":"Représentant/conseiller en serv. financ. - 009"
+            },
+            {
+                "label": "Souscripteur - 020",
+                "value":"Souscripteur - 020"
+            }
+                
+        ]
+}
+
+
+
+

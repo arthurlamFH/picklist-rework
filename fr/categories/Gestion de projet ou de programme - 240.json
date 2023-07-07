@@ -1,0 +1,32 @@
+{
+    "label":"Gestion de projet ou de programme - 240",
+    "value":"Gestion de projet ou de programme - 240",
+        "listLabel":"Gestion de projet ou de programme - Description",
+        "list":[
+            {
+                "label": "Autre : Gestion de projet ou de programme - 999",
+                "value":"Autre : Gestion de projet ou de programme - 999"
+            },
+            {
+                "label": "Consultant en gestion - 002",
+                "value":"Consultant en gestion - 002"
+            },
+            {
+                "label": "Coordonnateur d'événements - 001",
+                "value":"Coordonnateur d'événements - 001"
+            },
+            {
+                "label": "Gestionnaire de programme - 004",
+                "value":"Gestionnaire de programme - 004"
+            },
+            {
+                "label": "Gestionnaire de projet de TI - 003",
+                "value":"Gestionnaire de projet de TI - 003"
+            }
+                
+        ]
+}
+       
+
+
+

@@ -1,0 +1,120 @@
+{
+    "label":"Comptabilité/finance/assurance - 010",
+    "value":"Comptabilité/finance/assurance - 010",
+        "listLabel":"Comptabilité/finance/assurance - Description",
+        "list":[
+            {
+                "label": "Actuaire ou analyste en actuariat - 004",
+                "value":"Actuaire ou analyste en actuariat - 004"
+            },
+            {
+                "label": "Agent de recouvrement - 009",
+                "value":"Agent de recouvrement - 009"
+            },
+            {
+                "label": "Agent d'imposition et de recouvrement - 028",
+                "value":"Agent d'imposition et de recouvrement - 028"
+            },
+            {
+                "label": "Analyste des valeurs/recherchiste - 026",
+                "value":"Analyste des valeurs/recherchiste - 026"
+            },
+            {
+                "label": "Analyste en placements - 019",
+                "value":"Analyste en placements - 019"
+            },
+            {
+                "label": "Analyste financier/recherchiste - 012",
+                "value":"Analyste financier/recherchiste - 012"
+            },
+            {
+                "label": "Auditeur - 006",
+                "value":"Auditeur - 006"
+            },
+            {
+                "label": "Autre : Comptabilité/finance/assurance 999",
+                "value":"Autre : Comptabilité/finance/assurance 999"
+            },
+            {
+                "label": "Commis aux comptes fournisseurs/clients - 003",
+                "value":"Commis aux comptes fournisseurs/clients - 003"
+            },
+            {
+                "label": "Comptable - 001",
+                "value":"Comptable - 001"
+            },
+            {
+                "label": "Comptable de fonds - 017",
+                "value":"Comptable de fonds - 017"
+            },
+            {
+                "label": "Comptable fiscaliste - 027",
+                "value":"Comptable fiscaliste - 027"
+            },
+            {
+                "label": "Comptable/analyste en finances - 011",
+                "value":"Comptable/analyste en finances - 011"
+            },
+            {
+                "label": "Conseiller en comptabilité - 002",
+                "value":"Conseiller en comptabilité - 002"
+            },
+            {
+                "label": "Conseiller en placement - 023",
+                "value":"Conseiller en placement - 023"
+            },
+            {
+                "label": "Contrôleur financier - 013",
+                "value":"Contrôleur financier - 013"
+            },
+            {
+                "label": "Courtier d’assurance - 021",
+                "value":"Courtier d’assurance - 021"
+            },
+            {
+                "label": "Courtier en placements - 020",
+                "value":"Courtier en placements - 020"
+            },
+            {
+                "label": "Courtier en valeurs mobilières - 022",
+                "value":"Courtier en valeurs mobilières - 022"
+            },
+            {
+                "label": "Directeur financier - 010",
+                "value":"Directeur financier - 010"
+            },
+            {
+                "label": "Évaluateur d'assurances - 005",
+                "value":"Évaluateur d'assurances - 005"
+            },
+            {
+                "label": "Expert en sinistres - 008",
+                "value":"Expert en sinistres - 008"
+            },
+            {
+                "label": "Gestionnaire de placements - 018",
+                "value":"Gestionnaire de placements - 018"
+            },
+            {
+                "label": "Gestionnaire de risques/conformité - 025",
+                "value":"Gestionnaire de risques/conformité - 025"
+            },
+            {
+                "label": "Gestionnaire financier - 016",
+                "value":"Gestionnaire financier - 016"
+            },
+            {
+                "label": "Planificateur financier - 014",
+                "value":"Planificateur financier - 014"
+            },
+            {
+                "label": "Représentant/courtier en prod. financ. - 015",
+                "value":"Représentant/courtier en prod. financ. - 015"
+            },
+            {
+                "label": "Tarificateur - 024",
+                "value":"Tarificateur - 024"
+            }
+                
+        ]
+}

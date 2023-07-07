@@ -1,0 +1,47 @@
+
+{
+    "label":"Ressources humaines - 150",
+    "value":"Ressources humaines - 150",
+        "listLabel":"Ressources humaines - Description",
+        "list":[
+
+{
+	"label": "Administrateur des ressources humaines - 004",
+	"value":"Administrateur des ressources humaines - 004"
+},
+{
+	"label": "Administrateur paie et avantages sociaux - 007",
+	"value":"Administrateur paie et avantages sociaux - 007"
+},
+{
+	"label": "Autre : Ressources humaines - 999",
+	"value":"Autre : Ressources humaines - 999"
+},
+{
+	"label": "Conseiller en ressources humaines - 005",
+	"value":"Conseiller en ressources humaines - 005"
+},
+{
+	"label": "Formateur en perfectionnement professionnel - 002",
+	"value":"Formateur en perfectionnement professionnel - 002"
+},
+{
+	"label": "Recruteur - 008",
+	"value":"Recruteur - 008"
+},
+{
+	"label": "Spécialiste diversité/équité/conformité - 003",
+	"value":"Spécialiste diversité/équité/conformité - 003"
+},
+{
+	"label": "Spécialiste en ressources humaines - 006",
+	"value":"Spécialiste en ressources humaines - 006"
+},
+{
+	"label": "Spécialiste en rémunération/avant. sociaux - 001",
+	"value":"Spécialiste en rémunération/avant. sociaux - 001"
+}
+                
+        ]
+}
+       

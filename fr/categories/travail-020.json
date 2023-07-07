@@ -1,0 +1,61 @@
+{
+"label":"Travail de bureau - 020",
+"value":"Travail de bureau - 020",
+    "listLabel":"Travail de bureau - Description",
+    "list":[
+        {
+            "label": "Adjoint administratif - 001",
+            "value":"Adjoint administratif - 001"
+        },
+        {
+            "label": "Adjoint de direction - 005",
+            "value":"Adjoint de direction - 005"
+        },
+        {
+            "label": "Autre : Travail de bureau 999",
+            "value":"Autre : Travail de bureau 999"
+        },
+        {
+            "label": "Chef de bureau - 007",
+            "value":"Chef de bureau - 007"
+        },
+        {
+            "label": "Commis à la saisie des données/commandes - 004",
+            "value":"Commis à la saisie des données/commandes - 004"
+        },
+        {
+            "label": "Commis au soutien administratif - 002",
+            "value":"Commis au soutien administratif - 002"
+        },
+        {
+            "label": "Gestionnaire immobilier - 008",
+            "value":"Gestionnaire immobilier - 008"
+        },
+        {
+            "label": "Préposé à la gestion des documents - 006",
+            "value":"Préposé à la gestion des documents - 006"
+        },
+        {
+            "label": "Préposé à la salle de courrier - 012",
+            "value":"Préposé à la salle de courrier - 012"
+        },
+        {
+            "label": "Préposé à la transcription - 011",
+            "value":"Préposé à la transcription - 011"
+        },
+        {
+            "label": "Préposé aux demandes de règlement - 003",
+            "value":"Préposé aux demandes de règlement - 003"
+        },
+        {
+            "label": "Réceptionniste/standardiste - 009",
+            "value":"Réceptionniste/standardiste - 009"
+        },
+        {
+            "label": "Secrétaire - 010",
+            "value":"Secrétaire - 010"
+        }
+    ]
+}
+
+

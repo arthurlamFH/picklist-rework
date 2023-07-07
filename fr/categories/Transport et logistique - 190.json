@@ -1,0 +1,102 @@
+{
+    "label":"Transport et logistique - 190",
+    "value":"Transport et logistique - 190",
+        "listLabel":"Transport et logistique - Description",
+        "list":[
+            {
+                "label": "Acheteur - 014",
+                "value":"Acheteur - 014"
+            },
+            {
+                "label": "Acheteur/planificateur de marchandises - 009",
+                "value":"Acheteur/planificateur de marchandises - 009"
+            },
+            {
+                "label": "Admin/exploitant de transport public - 013",
+                "value":"Admin/exploitant de transport public - 013"
+            },
+            {
+                "label": "Administrateur import/export - 006",
+                "value":"Administrateur import/export - 006"
+            },
+            {
+                "label": "Autre : Transport et logistique 999",
+                "value":"Autre : Transport et logistique 999"
+            },
+            {
+                "label": "Chauffeur d'autobus/de fourgonnette/d'automobile - 001",
+                "value":"Chauffeur d'autobus/de fourgonnette/d'automobile - 001"
+            },
+            {
+                "label": "Chauffeur de camion - 021",
+                "value":"Chauffeur de camion - 021"
+            },
+            {
+                "label": "Chauffeur de taxi - 017",
+                "value":"Chauffeur de taxi - 017"
+            },
+            {
+                "label": "Chauffeur de train - 019",
+                "value":"Chauffeur de train - 019"
+            },
+            {
+                "label": "Commis d'entrepôt expédition/réception - 015",
+                "value":"Commis d'entrepôt expédition/réception - 015"
+            },
+            {
+                "label": "Conseiller en voyages - 020",
+                "value":"Conseiller en voyages - 020"
+            },
+            {
+                "label": "Évaluateur des coûts - 003",
+                "value":"Évaluateur des coûts - 003"
+            },
+            {
+                "label": "Facteur - 008",
+                "value":"Facteur - 008"
+            },
+            {
+                "label": "Gestionnaire de fournisseurs - 016",
+                "value":"Gestionnaire de fournisseurs - 016"
+            },
+            {
+                "label": "Gestionnaire et planificateur de stocks - 007",
+                "value":"Gestionnaire et planificateur de stocks - 007"
+            },
+            {
+                "label": "Manutentionnaire cargaisons et bagages - 002",
+                "value":"Manutentionnaire cargaisons et bagages - 002"
+            },
+            {
+                "label": "Manutentionnaire de matières dangereuses - 005",
+                "value":"Manutentionnaire de matières dangereuses - 005"
+            },
+            {
+                "label": "Messager - 010",
+                "value":"Messager - 010"
+            },
+            {
+                "label": "Opérateur de chariot élévateur ou grue - 004",
+                "value":"Opérateur de chariot élévateur ou grue - 004"
+            },
+            {
+                "label": "Opérateur/chauffeur de transport public - 012",
+                "value":"Opérateur/chauffeur de transport public - 012"
+            },
+            {
+                "label": "Pilote d'avion et maritime - 011",
+                "value":"Pilote d'avion et maritime - 011"
+            },
+            {
+                "label": "Répartiteur de véhicules - 022",
+                "value":"Répartiteur de véhicules - 022"
+            },
+            {
+                "label": "Répartiteur ou administrateur de taxis - 018",
+                "value":"Répartiteur ou administrateur de taxis - 018"
+            }
+                
+        ]
+}
+
+

@@ -1,0 +1,31 @@
+{
+"label":"Armée - 230",
+"value":"Armée - 230",
+    "listLabel":"Armée - Description",
+    "list":[
+        {
+            "label": "Autre : Armée - 999",
+            "value":"Autre : Armée - 999"
+        },
+        {
+            "label": "Militaire du rang- 001",
+            "value":"Militaire du rang- 001"
+        },
+        {
+            "label": "Officier- 003",
+            "value":"Officier- 003"
+        },
+        {
+            "label": "Officier supérieur (général ou amiral)- 004",
+            "value":"Officier supérieur (général ou amiral)- 004"
+        },
+        {
+            "label": "Soldat combattant- 002",
+            "value":"Soldat combattant- 002"
+        }
+            
+    ]
+}
+
+
+

@@ -1,0 +1,53 @@
+{
+    "label":"Divertissement/sports - 110",
+    "value":"Divertissement/sports - 110",
+        "listLabel":"Divertissement/sports - Description",
+        "list":[
+            {	
+                "label": "Acteur - 001",
+                "value":"Acteur - 001"
+            },
+            {	
+                "label": "Agent - 002",
+                "value":"Agent - 002"
+            },
+            {	
+                "label": "Agent de publicité - 007",
+                "value":"Agent de publicité - 007"
+            },
+            {	
+                "label": "Annonceur/diffuseur - 003",
+                "value":"Annonceur/diffuseur - 003"
+            },
+            {	
+                "label": "Athlète - 004",
+                "value":"Athlète - 004"
+            },
+            {	
+                "label": "Autre : Divertissement/sports 999",
+                "value":"Autre : Divertissement/sports 999"
+            },
+            {	
+                "label": "Danseur/chorégraphe - 009",
+                "value":"Danseur/chorégraphe - 009"
+            },
+            {	
+                "label": "Instructeur - 005",
+                "value":"Instructeur - 005"
+            },
+            {	
+                "label": "Musicien/chanteur - 010",
+                "value":"Musicien/chanteur - 010"
+            },
+            {	
+                "label": "Producteur/réalisateur - 006",
+                "value":"Producteur/réalisateur - 006"
+            },
+            {	
+                "label": "Rédacteur/éditeur - 008",
+                "value":"Rédacteur/éditeur - 008"
+            }
+                
+        ]
+}
+

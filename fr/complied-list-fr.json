@@ -1,0 +1,1978 @@
+
+{
+    "listLabel":"occupation List - FR",
+    "List":[
+
+            {
+                "label":"Affaires juridiques - 180",
+                "value":"Affaires juridiques - 180",
+                    "listLabel":"Affaires juridiques - Description",
+                    "list":[
+
+            {
+                "label": "Autre : Affaires juridiques - 999",
+                "value":"Autre : Affaires juridiques - 999"
+            },
+            {
+                "label": "Avocat conformité à la réglementation - 012",
+                "value":"Avocat conformité à la réglementation - 012"
+            },
+            {
+                "label": "Avocat criminaliste - 002",
+                "value":"Avocat criminaliste - 002"
+            },
+            {
+                "label": "Avocat en pratique privée - 003",
+                "value":"Avocat en pratique privée - 003"
+            },
+            {
+                "label": "Avocat en propriété intellectuelle - 010",
+                "value":"Avocat en propriété intellectuelle - 010"
+            },
+            {
+                "label": "Avocat fiscaliste - 013",
+                "value":"Avocat fiscaliste - 013"
+            },
+            {
+                "label": "Avocat spécialisé en contrats - 005",
+                "value":"Avocat spécialisé en contrats - 005"
+            },
+            {
+                "label": "Avocat spécialisé en droit du travail - 006",
+                "value":"Avocat spécialisé en droit du travail - 006"
+            },
+            {
+                "label": "Avocat spécialisé en droit immobilier - 011",
+                "value":"Avocat spécialisé en droit immobilier - 011"
+            },
+            {
+                "label": "Avocat/conseiller juridique d'entreprise - 001",
+                "value":"Avocat/conseiller juridique d'entreprise - 001"
+            },
+            {
+                "label": "Avocat/procureur du gouvernement - 004",
+                "value":"Avocat/procureur du gouvernement - 004"
+            },
+            {
+                "label": "Juge - 014",
+                "value":"Juge - 014"
+            },
+            {
+                "label": "Secrétaire juridique - 008",
+                "value":"Secrétaire juridique - 008"
+            },
+            {
+                "label": "Spécialiste ou expert juridique - 007",
+                "value":"Spécialiste ou expert juridique - 007"
+            },
+            {
+                "label": "Technicien juridique - 009",
+                "value":"Technicien juridique - 009"
+            }
+                            
+                    ]
+},
+{
+    "label":"Agriculture - 120",
+    "value":"Agriculture - 120",
+        "listLabel":"Agriculture - Description",
+        "list":[
+            {
+                "label": "Agriculteur-cultivateur - 011",
+                "value":"Agriculteur-cultivateur - 011"
+            },
+            {
+                "label": "Agrofournisseur/propriétaire de coop - 009",
+                "value":"Agrofournisseur/propriétaire de coop - 009"
+            },
+            {
+                "label": "Autre : Agriculture 999",
+                "value":"Autre : Agriculture 999"
+            },
+            {
+                "label": "Chasseur/trappeur - 005",
+                "value":"Chasseur/trappeur - 005"
+            },
+            {
+                "label": "Éleveur de bétail - 010",
+                "value":"Éleveur de bétail - 010"
+            },
+            {
+                "label": "Exploitant de verger/vigne/serre - 007",
+                "value":"Exploitant de verger/vigne/serre - 007"
+            },
+            {
+                "label": "Inspecteur agricole - 001",
+                "value":"Inspecteur agricole - 001"
+            },
+            {
+                "label": "Pisciculteur - 004",
+                "value":"Pisciculteur - 004"
+            },
+            {
+                "label": "Polyculteur-éleveur - 003",
+                "value":"Polyculteur-éleveur - 003"
+            },
+            {
+                "label": "Producteur d'oeufs - 008",
+                "value":"Producteur d'oeufs - 008"
+            },
+            {
+                "label": "Producteur de céréales - 012",
+                "value":"Producteur de céréales - 012"
+            },
+            {
+                "label": "Producteur en culture hydroponique - 006",
+                "value":"Producteur en culture hydroponique - 006"
+            },
+            {
+                "label": "Producteur laitier - 013",
+                "value":"Producteur laitier - 013"
+            },
+            {
+                "label": "Sélectionneur d'animaux - 002",
+                "value":"Sélectionneur d'animaux - 002"
+            }
+                
+        ]
+},
+{
+    "label":"Armée - 230",
+    "value":"Armée - 230",
+        "listLabel":"Armée - Description",
+        "list":[
+            {
+                "label": "Autre : Armée - 999",
+                "value":"Autre : Armée - 999"
+            },
+            {
+                "label": "Militaire du rang- 001",
+                "value":"Militaire du rang- 001"
+            },
+            {
+                "label": "Officier- 003",
+                "value":"Officier- 003"
+            },
+            {
+                "label": "Officier supérieur (général ou amiral)- 004",
+                "value":"Officier supérieur (général ou amiral)- 004"
+            },
+            {
+                "label": "Soldat combattant- 002",
+                "value":"Soldat combattant- 002"
+            }
+                
+        ]
+    },
+    {
+        "label":"Banque/immobilier/crédit hypothécaire - 030",
+        "value":"Banque/immobilier/crédit hypothécaire - 030",
+            "listLabel":"Banque/immobilier/crédit hypothécaire - Description",
+            "list":[
+                {
+                    "label": "Agent d'assurance titres - 019",
+                    "value":"Agent d'assurance titres - 019"
+                },
+                {
+                    "label": "Agent de prêts - 011",
+                    "value":"Agent de prêts - 011"
+                },
+                {
+                    "label": "Agent immobilier - 013",
+                    "value":"Agent immobilier - 013"
+                },
+                {
+                    "label": "Agent immobilier - Location/acquisition - 014",
+                    "value":"Agent immobilier - Location/acquisition - 014"
+                },
+                {
+                    "label": "Analyste/vérificateur de crédit - 005",
+                    "value":"Analyste/vérificateur de crédit - 005"
+                },
+                {
+                    "label": "Autre : Banque/immobilier/crédit hypothécaire 999",
+                    "value":"Autre : Banque/immobilier/crédit hypothécaire 999"
+                },
+                {
+                    "label": "Banquier d'affaires - 010",
+                    "value":"Banquier d'affaires - 010"
+                },
+                {
+                    "label": "Caissier de banque - 001",
+                    "value":"Caissier de banque - 001"
+                },
+                {
+                    "label": "Courtier en prêts hypothécaires - 012",
+                    "value":"Courtier en prêts hypothécaires - 012"
+                },
+                {
+                    "label": "Courtier immobilier - 016",
+                    "value":"Courtier immobilier - 016"
+                },
+                {
+                    "label": "Directeur au siège social - 003",
+                    "value":"Directeur au siège social - 003"
+                },
+                {
+                    "label": "Directeur de succursale/magasin - 018",
+                    "value":"Directeur de succursale/magasin - 018"
+                },
+                {
+                    "label": "Directeur du crédit - 006",
+                    "value":"Directeur du crédit - 006"
+                },
+                {
+                    "label": "Dirigeant de banque - 002",
+                    "value":"Dirigeant de banque - 002"
+                },
+                {
+                    "label": "Dépositaire légal - 008",
+                    "value":"Dépositaire légal - 008"
+                },
+                {
+                    "label": "Économiste - 007",
+                    "value":"Économiste - 007"
+                },
+                {
+                    "label": "Employé au siège social - 004",
+                    "value":"Employé au siège social - 004"
+                },
+                {
+                    "label": "Évaluateur immobilier - 015",
+                    "value":"Évaluateur immobilier - 015"
+                },
+                {
+                    "label": "Promoteur immobilier - 017",
+                    "value":"Promoteur immobilier - 017"
+                },
+                {
+                    "label": "Représentant/conseiller en serv. financ. - 009",
+                    "value":"Représentant/conseiller en serv. financ. - 009"
+                },
+                {
+                    "label": "Souscripteur - 020",
+                    "value":"Souscripteur - 020"
+                }
+                    
+            ]
+    },
+    {
+        "label":"Comptabilité/finance/assurance - 010",
+        "value":"Comptabilité/finance/assurance - 010",
+            "listLabel":"Comptabilité/finance/assurance - Description",
+            "list":[
+                {
+                    "label": "Actuaire ou analyste en actuariat - 004",
+                    "value":"Actuaire ou analyste en actuariat - 004"
+                },
+                {
+                    "label": "Agent de recouvrement - 009",
+                    "value":"Agent de recouvrement - 009"
+                },
+                {
+                    "label": "Agent d'imposition et de recouvrement - 028",
+                    "value":"Agent d'imposition et de recouvrement - 028"
+                },
+                {
+                    "label": "Analyste des valeurs/recherchiste - 026",
+                    "value":"Analyste des valeurs/recherchiste - 026"
+                },
+                {
+                    "label": "Analyste en placements - 019",
+                    "value":"Analyste en placements - 019"
+                },
+                {
+                    "label": "Analyste financier/recherchiste - 012",
+                    "value":"Analyste financier/recherchiste - 012"
+                },
+                {
+                    "label": "Auditeur - 006",
+                    "value":"Auditeur - 006"
+                },
+                {
+                    "label": "Autre : Comptabilité/finance/assurance 999",
+                    "value":"Autre : Comptabilité/finance/assurance 999"
+                },
+                {
+                    "label": "Commis aux comptes fournisseurs/clients - 003",
+                    "value":"Commis aux comptes fournisseurs/clients - 003"
+                },
+                {
+                    "label": "Comptable - 001",
+                    "value":"Comptable - 001"
+                },
+                {
+                    "label": "Comptable de fonds - 017",
+                    "value":"Comptable de fonds - 017"
+                },
+                {
+                    "label": "Comptable fiscaliste - 027",
+                    "value":"Comptable fiscaliste - 027"
+                },
+                {
+                    "label": "Comptable/analyste en finances - 011",
+                    "value":"Comptable/analyste en finances - 011"
+                },
+                {
+                    "label": "Conseiller en comptabilité - 002",
+                    "value":"Conseiller en comptabilité - 002"
+                },
+                {
+                    "label": "Conseiller en placement - 023",
+                    "value":"Conseiller en placement - 023"
+                },
+                {
+                    "label": "Contrôleur financier - 013",
+                    "value":"Contrôleur financier - 013"
+                },
+                {
+                    "label": "Courtier d’assurance - 021",
+                    "value":"Courtier d’assurance - 021"
+                },
+                {
+                    "label": "Courtier en placements - 020",
+                    "value":"Courtier en placements - 020"
+                },
+                {
+                    "label": "Courtier en valeurs mobilières - 022",
+                    "value":"Courtier en valeurs mobilières - 022"
+                },
+                {
+                    "label": "Directeur financier - 010",
+                    "value":"Directeur financier - 010"
+                },
+                {
+                    "label": "Évaluateur d'assurances - 005",
+                    "value":"Évaluateur d'assurances - 005"
+                },
+                {
+                    "label": "Expert en sinistres - 008",
+                    "value":"Expert en sinistres - 008"
+                },
+                {
+                    "label": "Gestionnaire de placements - 018",
+                    "value":"Gestionnaire de placements - 018"
+                },
+                {
+                    "label": "Gestionnaire de risques/conformité - 025",
+                    "value":"Gestionnaire de risques/conformité - 025"
+                },
+                {
+                    "label": "Gestionnaire financier - 016",
+                    "value":"Gestionnaire financier - 016"
+                },
+                {
+                    "label": "Planificateur financier - 014",
+                    "value":"Planificateur financier - 014"
+                },
+                {
+                    "label": "Représentant/courtier en prod. financ. - 015",
+                    "value":"Représentant/courtier en prod. financ. - 015"
+                },
+                {
+                    "label": "Tarificateur - 024",
+                    "value":"Tarificateur - 024"
+                }
+                    
+            ]
+    },
+    {
+        "label":"Construction de bâtiments - 040",
+        "value":"Construction de bâtiments - 040",
+            "listLabel":"Construction de bâtiments - Description",
+            "list":[
+                {
+                    "label": "Arpenteur - 011",
+                    "value":"Arpenteur - 011"
+                },
+                {
+                    "label": "Autre : Construction de bâtiments 999",
+                    "value":"Autre : Construction de bâtiments 999"
+                },
+                {
+                    "label": "Charpentier - 002",
+                    "value":"Charpentier - 002"
+                },
+                {
+                    "label": "Couvreur - 008",
+                    "value":"Couvreur - 008"
+                },
+                {
+                    "label": "Entrepreneur en construction - 001",
+                    "value":"Entrepreneur en construction - 001"
+                },
+                {
+                    "label": "Installateur de systèmes de CVC - 006",
+                    "value":"Installateur de systèmes de CVC - 006"
+                },
+                {
+                    "label": "Maçon - 003",
+                    "value":"Maçon - 003"
+                },
+                {
+                    "label": "Opérateur de grue et d'équipement lourd - 005",
+                    "value":"Opérateur de grue et d'équipement lourd - 005"
+                },
+                {
+                    "label": "Ouvrier - 013",
+                    "value":"Ouvrier - 013"
+                },
+                {
+                    "label": "Paysagiste - 007",
+                    "value":"Paysagiste - 007"
+                },
+                {
+                    "label": "Peintre/poseur de plancher - 004",
+                    "value":"Peintre/poseur de plancher - 004"
+                },
+                {
+                    "label": "Plombier - 014",
+                    "value":"Plombier - 014"
+                },
+                {
+                    "label": "Soudeur - 012",
+                    "value":"Soudeur - 012"
+                },
+                {
+                    "label": "Surveillant de chantier - 010",
+                    "value":"Surveillant de chantier - 010"
+                },
+                {
+                    "label": "Tireur de joints et plâtrier - 009",
+                    "value":"Tireur de joints et plâtrier - 009"
+                }
+                    
+            ]
+    },
+    {
+        "label":"Créatique - 060",
+        "value":"Créatique - 060",
+            "listLabel":"Créatique - Description",
+            "list":[
+                {
+                    "label": "Animateur/programmeur multimédia - 004",
+                    "value":"Animateur/programmeur multimédia - 004"
+                },
+                {
+                    "label": "Architecte/décorateur d'intérieur - 002",
+                    "value":"Architecte/décorateur d'intérieur - 002"
+                },
+                {
+                    "label": "Artiste - 003",
+                    "value":"Artiste - 003"
+                },
+                {
+                    "label": "Autre : Créatique 999",
+                    "value":"Autre : Créatique 999"
+                },
+                {
+                    "label": "Concepteur industriel - 008",
+                    "value":"Concepteur industriel - 008"
+                },
+                {
+                    "label": "Créateur de mode et d'accessoires - 006",
+                    "value":"Créateur de mode et d'accessoires - 006"
+                },
+                {
+                    "label": "Directeur artistique/conseiller - 005",
+                    "value":"Directeur artistique/conseiller - 005"
+                },
+                {
+                    "label": "Décorateur d'intérieur - 009",
+                    "value":"Décorateur d'intérieur - 009"
+                },
+                {
+                    "label": "Graphiste/dessinateur - 007",
+                    "value":"Graphiste/dessinateur - 007"
+                },
+                {
+                    "label": "Photographe/vidéaste - 010",
+                    "value":"Photographe/vidéaste - 010"
+                },
+                {
+                    "label": "Rédacteur publicitaire (création) - 001",
+                    "value":"Rédacteur publicitaire (création) - 001"
+                }
+                    
+            ]
+        },
+        {
+            "label":"Divertissement/sports - 110",
+            "value":"Divertissement/sports - 110",
+                "listLabel":"Divertissement/sports - Description",
+                "list":[
+                    {	
+                        "label": "Acteur - 001",
+                        "value":"Acteur - 001"
+                    },
+                    {	
+                        "label": "Agent - 002",
+                        "value":"Agent - 002"
+                    },
+                    {	
+                        "label": "Agent de publicité - 007",
+                        "value":"Agent de publicité - 007"
+                    },
+                    {	
+                        "label": "Annonceur/diffuseur - 003",
+                        "value":"Annonceur/diffuseur - 003"
+                    },
+                    {	
+                        "label": "Athlète - 004",
+                        "value":"Athlète - 004"
+                    },
+                    {	
+                        "label": "Autre : Divertissement/sports 999",
+                        "value":"Autre : Divertissement/sports 999"
+                    },
+                    {	
+                        "label": "Danseur/chorégraphe - 009",
+                        "value":"Danseur/chorégraphe - 009"
+                    },
+                    {	
+                        "label": "Instructeur - 005",
+                        "value":"Instructeur - 005"
+                    },
+                    {	
+                        "label": "Musicien/chanteur - 010",
+                        "value":"Musicien/chanteur - 010"
+                    },
+                    {	
+                        "label": "Producteur/réalisateur - 006",
+                        "value":"Producteur/réalisateur - 006"
+                    },
+                    {	
+                        "label": "Rédacteur/éditeur - 008",
+                        "value":"Rédacteur/éditeur - 008"
+                    }
+                        
+                ]
+        },
+        {
+            "label":"Édition/rédaction - 080",
+            "value":"Édition/rédaction - 080",
+                "listLabel":"Édition/rédaction - Description",
+                "list":[
+                    {
+                        "label": "Autre : Édition/rédaction - 999",
+                        "value":"Autre : Édition/rédaction - 999"
+                    },
+                    {
+                        "label": "Créateur de contenu numérique - 001",
+                        "value":"Créateur de contenu numérique - 001"
+                    },
+                    {
+                        "label": "Journaliste - 004",
+                        "value":"Journaliste - 004"
+                    },
+                    {
+                        "label": "Rédacteur technique - 002",
+                        "value":"Rédacteur technique - 002"
+                    },
+                    {
+                        "label": "Rédacteur/correcteur d'épreuves - 003",
+                        "value":"Rédacteur/correcteur d'épreuves - 003"
+                    },
+                    {
+                        "label": "Traducteur ou interprète - 005",
+                        "value":"Traducteur ou interprète - 005"
+                    }
+                        
+                ]
+        },
+        {
+            "label":"Éducation/formation - 090",
+            "value":"Éducation/formation - 090",
+                "listLabel":"Éducation/formation - Description",
+                "list":[
+                    {
+                        "label": "Administrateur d'école ou de collège - 012",
+                        "value":"Administrateur d'école ou de collège - 012"
+                    },
+                    {
+                        "label": "Aide-enseignant - 008",
+                        "value":"Aide-enseignant - 008"
+                    },
+                    {
+                        "label": "Autre : Éducation/formation 999",
+                        "value":"Autre : Éducation/formation 999"
+                    },
+                    {
+                        "label": "Bibliothécaire - 010",
+                        "value":"Bibliothécaire - 010"
+                    },
+                    {
+                        "label": "Consultant en formation - 005",
+                        "value":"Consultant en formation - 005"
+                    },
+                    {
+                        "label": "Directeur d'école - 013",
+                        "value":"Directeur d'école - 013"
+                    },
+                    {
+                        "label": "Docteur (Ph. D.) - 011",
+                        "value":"Docteur (Ph. D.) - 011"
+                    },
+                    {
+                        "label": "Éducateur en services de garde - 002",
+                        "value":"Éducateur en services de garde - 002"
+                    },
+                    {
+                        "label": "Enseignant au primaire - 007",
+                        "value":"Enseignant au primaire - 007"
+                    },
+                    {
+                        "label": "Enseignant au secondaire - 009",
+                        "value":"Enseignant au secondaire - 009"
+                    },
+                    {
+                        "label": "Enseignant d'école privée - 001",
+                        "value":"Enseignant d'école privée - 001"
+                    },
+                    {
+                        "label": "Enseignant en éducation permanente - 003",
+                        "value":"Enseignant en éducation permanente - 003"
+                    },
+                    {
+                        "label": "Enseignant spécialisé - 014",
+                        "value":"Enseignant spécialisé - 014"
+                    },
+                    {
+                        "label": "Formateur perfectionnement professionnel - 004",
+                        "value":"Formateur perfectionnement professionnel - 004"
+                    },
+                    {
+                        "label": "Professeur de collège ou d'université - 016",
+                        "value":"Professeur de collège ou d'université - 016"
+                    },
+                    {
+                        "label": "Spécialiste de la petite enfance - 006",
+                        "value":"Spécialiste de la petite enfance - 006"
+                    },
+                    {
+                        "label": "Traducteur - 015",
+                        "value":"Traducteur - 015"
+                    }
+                        
+                ]
+        },
+        {
+            "label":"Fabrication et production - 200",
+            "value":"Fabrication et production - 200",
+                "listLabel":"Fabrication et production - Description",
+                "list":[
+                    {
+                        "label": "Administrateur/gestionnaire de télécom - 015",
+                        "value":"Administrateur/gestionnaire de télécom - 015"
+                    },
+                    {
+                        "label": "Agronome - 001",
+                        "value":"Agronome - 001"
+                    },
+                    {
+                        "label": "Autre : Fabrication et production 999",
+                        "value":"Autre : Fabrication et production 999"
+                    },
+                    {
+                        "label": "Blanchisseur - 006",
+                        "value":"Blanchisseur - 006"
+                    },
+                    {
+                        "label": "Couturier ou tailleur - 014",
+                        "value":"Couturier ou tailleur - 014"
+                    },
+                    {
+                        "label": "Éboueur - 016",
+                        "value":"Éboueur - 016"
+                    },
+                    {
+                        "label": "Ferblantier ou soudeur - 009",
+                        "value":"Ferblantier ou soudeur - 009"
+                    },
+                    {
+                        "label": "Gestionnaire d'usine - 011",
+                        "value":"Gestionnaire d'usine - 011"
+                    },
+                    {
+                        "label": "Imprimeur ou relieur - 007",
+                        "value":"Imprimeur ou relieur - 007"
+                    },
+                    {
+                        "label": "Manutentionnaire de matières dangereuses - 005",
+                        "value":"Manutentionnaire de matières dangereuses - 005"
+                    },
+                    {
+                        "label": "Mouleur et couleur de fonderie - 010",
+                        "value":"Mouleur et couleur de fonderie - 010"
+                    },
+                    {
+                        "label": "Opérateur d'équipement - 004",
+                        "value":"Opérateur d'équipement - 004"
+                    },
+                    {
+                        "label": "Planificateur production/opérations - 012",
+                        "value":"Planificateur production/opérations - 012"
+                    },
+                    {
+                        "label": "Spécialiste production tech/scientifique - 013",
+                        "value":"Spécialiste production tech/scientifique - 013"
+                    },
+                    {
+                        "label": "Tech machine-outil à commande numérique - 008",
+                        "value":"Tech machine-outil à commande numérique - 008"
+                    },
+                    {
+                        "label": "Techn radio/télédiffusion/postproduction - 003",
+                        "value":"Techn radio/télédiffusion/postproduction - 003"
+                    },
+                    {
+                        "label": "Travailleur à la chaîne - 002",
+                        "value":"Travailleur à la chaîne - 002"
+                    }
+                        
+                ]
+        },
+        {
+            "label":"Génie et architecture - 100",
+            "value":"Génie et architecture - 100",
+                "listLabel":"Génie et architecture - Description",
+                "list":[
+                    {
+                        "label": "Architecte - 001",
+                        "value":"Architecte - 001"
+                    },
+                    {
+                        "label": "Architecte naval ou ingénieur maritime - 012",
+                        "value":"Architecte naval ou ingénieur maritime - 012"
+                    },
+                    {
+                        "label": "Autre : Génie et architecture - 999",
+                        "value":"Autre : Génie et architecture - 999"
+                    },
+                    {
+                        "label": "Bio-ingénieur - 003",
+                        "value":"Bio-ingénieur - 003"
+                    },
+                    {
+                        "label": "Ingénieur aéronautique/avionique - 002",
+                        "value":"Ingénieur aéronautique/avionique - 002"
+                    },
+                    {
+                        "label": "Ingénieur chimiste - 004",
+                        "value":"Ingénieur chimiste - 004"
+                    },
+                    {
+                        "label": "Ingénieur électricien/électronicien - 007",
+                        "value":"Ingénieur électricien/électronicien - 007"
+                    },
+                    {
+                        "label": "Ingénieur en environnement/géologue - 009",
+                        "value":"Ingénieur en environnement/géologue - 009"
+                    },
+                    {
+                        "label": "Ingénieur industriel/fabrication - 010",
+                        "value":"Ingénieur industriel/fabrication - 010"
+                    },
+                    {
+                        "label": "Ingénieur mécanicien - 011",
+                        "value":"Ingénieur mécanicien - 011"
+                    },
+                    {
+                        "label": "Ingénieur nucléaire/énergie - 008",
+                        "value":"Ingénieur nucléaire/énergie - 008"
+                    },
+                    {
+                        "label": "Ingénieur radio fréquence sans fil - 013",
+                        "value":"Ingénieur radio fréquence sans fil - 013"
+                    },
+                    {
+                        "label": "Ingénieur systèmes/ingénieur procédés - 014",
+                        "value":"Ingénieur systèmes/ingénieur procédés - 014"
+                    },
+                    {
+                        "label": "Technicien graphiste/CAD - 005",
+                        "value":"Technicien graphiste/CAD - 005"
+                    }
+                        
+                ]
+            },
+            {
+                "label":"Gestion de projet ou de programme - 240",
+                "value":"Gestion de projet ou de programme - 240",
+                    "listLabel":"Gestion de projet ou de programme - Description",
+                    "list":[
+                        {
+                            "label": "Autre : Gestion de projet ou de programme - 999",
+                            "value":"Autre : Gestion de projet ou de programme - 999"
+                        },
+                        {
+                            "label": "Consultant en gestion - 002",
+                            "value":"Consultant en gestion - 002"
+                        },
+                        {
+                            "label": "Coordonnateur d'événements - 001",
+                            "value":"Coordonnateur d'événements - 001"
+                        },
+                        {
+                            "label": "Gestionnaire de programme - 004",
+                            "value":"Gestionnaire de programme - 004"
+                        },
+                        {
+                            "label": "Gestionnaire de projet de TI - 003",
+                            "value":"Gestionnaire de projet de TI - 003"
+                        }
+                            
+                    ]
+            },
+            {
+                "label":"Gestion des affaires - 050",
+                "value":"Gestion des affaires - 050",
+                    "listLabel":"Gestion des affaires - Description",
+                    "list":[
+                        {
+                            "label": "Administrateur d'hôpital ou de clinique - 007",
+                            "value":"Administrateur d'hôpital ou de clinique - 007"
+                        },
+                        {
+                            "label": "Administrateur de services de santé pub. - 013",
+                            "value":"Administrateur de services de santé pub. - 013"
+                        },
+                        {
+                            "label": "Administrateur municipal/planificateur - 017",
+                            "value":"Administrateur municipal/planificateur - 017"
+                        },
+                        {
+                            "label": "Analyste de rapports - 002",
+                            "value":"Analyste de rapports - 002"
+                        },
+                        {
+                            "label": "Analyste de recherche - 003",
+                            "value":"Analyste de recherche - 003"
+                        },
+                        {
+                            "label": "Analyste financier - 001",
+                            "value":"Analyste financier - 001"
+                        },
+                        {
+                            "label": "Autre : Gestion des affaires 999",
+                            "value":"Autre : Gestion des affaires 999"
+                        },
+                        {
+                            "label": "Conseiller en fusions et acquisitions - 010",
+                            "value":"Conseiller en fusions et acquisitions - 010"
+                        },
+                        {
+                            "label": "Conseiller en gestion - 009",
+                            "value":"Conseiller en gestion - 009"
+                        },
+                        {
+                            "label": "Conseiller en planification stratégique - 016",
+                            "value":"Conseiller en planification stratégique - 016"
+                        },
+                        {
+                            "label": "Directeur de magasin ou de succursale - 015",
+                            "value":"Directeur de magasin ou de succursale - 015"
+                        },
+                        {
+                            "label": "Directeur de service - 004",
+                            "value":"Directeur de service - 004"
+                        },
+                        {
+                            "label": "Directeur financier - 011",
+                            "value":"Directeur financier - 011"
+                        },
+                        {
+                            "label": "Gestionnaire d'hôtel - 008",
+                            "value":"Gestionnaire d'hôtel - 008"
+                        },
+                        {
+                            "label": "Gestionnaire de maison de jeux/casino - 006",
+                            "value":"Gestionnaire de maison de jeux/casino - 006"
+                        },
+                        {
+                            "label": "Gérant de restaurant - 014",
+                            "value":"Gérant de restaurant - 014"
+                        },
+                        {
+                            "label": "Propriétaire de franchise - 005",
+                            "value":"Propriétaire de franchise - 005"
+                        },
+                        {
+                            "label": "Président/dirigeant - 012",
+                            "value":"Président/dirigeant - 012"
+                        },
+                        {
+                            "label": "Urbaniste - 018",
+                            "value":"Urbaniste - 018"
+                        }
+                            
+                    ]
+            },
+
+{
+    "label":"Gouvernement et diplomatie - 140",
+    "value":"Gouvernement et diplomatie - 140",
+        "listLabel":"Gouvernement et diplomatie - Description",
+        "list":[
+            {
+                "label": "Ambassadeur - 002",
+                "value":"Ambassadeur - 002"
+            },
+            {
+                "label": "Autre : Gouvernement et diplomatie 999",
+                "value":"Autre : Gouvernement et diplomatie 999"
+            },
+            {
+                "label": "Chef de bande autochtone - 001",
+                "value":"Chef de bande autochtone - 001"
+            },
+            {
+                "label": "Chef d’un organisme gouvernemental - 006",
+                "value":"Chef d’un organisme gouvernemental - 006"
+            },
+            {
+                "label": "Chef d’État ou chef de gouvernement - 007",
+                "value":"Chef d’État ou chef de gouvernement - 007"
+            },
+            {
+                "label": "Chef ou président d'un parti politique - 008",
+                "value":"Chef ou président d'un parti politique - 008"
+            },
+            {
+                "label": "Conseiller municipal - 012",
+                "value":"Conseiller municipal - 012"
+            },
+            {
+                "label": "Diplomate (incl. attachés/conseillers) - 004",
+                "value":"Diplomate (incl. attachés/conseillers) - 004"
+            },
+            {
+                "label": "Député - 009",
+                "value":"Député - 009"
+            },
+            {
+                "label": "Fonctionnaire - 013",
+                "value":"Fonctionnaire - 013"
+            },
+            {
+                "label": "Maire - 011",
+                "value":"Maire - 011"
+            },
+            {
+                "label": "Membre du Conseil exécutif - 005",
+                "value":"Membre du Conseil exécutif - 005"
+            },
+            {
+                "label": "Président société d'État/banque centrale - 010",
+                "value":"Président société d'État/banque centrale - 010"
+            },
+            {
+                "label": "Sous-ministre (ou rang équivalent) - 003",
+                "value":"Sous-ministre (ou rang équivalent) - 003"
+            }
+                
+        ]
+},
+{
+    "label":"Marketing et produit - 210",
+    "value":"Marketing et produit - 210",
+        "listLabel":"Marketing et produit - Description",
+        "list":[
+            {
+                "label": "Agent de marketing direct - 003",
+                "value":"Agent de marketing direct - 003"
+            },
+            {
+                "label": "Autre : Marketing et produit 999",
+                "value":"Autre : Marketing et produit 999"
+            },
+            {
+                "label": "Concepteur-rédacteur ou éditeur - 002",
+                "value":"Concepteur-rédacteur ou éditeur - 002"
+            },
+            {
+                "label": "Gestionnaire de produits - 010",
+                "value":"Gestionnaire de produits - 010"
+            },
+            {
+                "label": "Rep. Média/Public/Investisseur - 005",
+                "value":"Rep. Média/Public/Investisseur - 005"
+            },
+            {
+                "label": "Spécialiste communications commerciales - 007",
+                "value":"Spécialiste communications commerciales - 007"
+            },
+            {
+                "label": "Spécialiste des études de marché - 006",
+                "value":"Spécialiste des études de marché - 006"
+            },
+            {
+                "label": "Spécialiste du télémarketing - 012",
+                "value":"Spécialiste du télémarketing - 012"
+            },
+            {
+                "label": "Spécialiste en affichage de produits - 013",
+                "value":"Spécialiste en affichage de produits - 013"
+            },
+            {
+                "label": "Spécialiste en événements promotionnels - 004",
+                "value":"Spécialiste en événements promotionnels - 004"
+            },
+            {
+                "label": "Spécialiste en marketing produit/marque - 001",
+                "value":"Spécialiste en marketing produit/marque - 001"
+            },
+            {
+                "label": "Spécialiste en production commerciale - 008",
+                "value":"Spécialiste en production commerciale - 008"
+            },
+            {
+                "label": "Spécialiste en relations publiques - 011",
+                "value":"Spécialiste en relations publiques - 011"
+            },
+            {
+                "label": "Spécialiste planification média et achat - 009",
+                "value":"Spécialiste planification média et achat - 009"
+            }
+                
+        ]
+},
+{
+    "label":"Médecine et santé - 220",
+    "value":"Médecine et santé - 220",
+        "listLabel":"Médecine et santé - Description",
+        "list":[
+            {
+                "label": "Administrateur de services de santé pub. 026",
+                "value":"Administrateur de services de santé pub. 026"
+            },
+            {
+                "label": "Aide-soignant 006",
+                "value":"Aide-soignant 006"
+            },
+            {
+                "label": "Aide-vétérinaire 030",
+                "value":"Aide-vétérinaire 030"
+            },
+            {
+                "label": "Autre : Médecine et santé 999",
+                "value":"Autre : Médecine et santé 999"
+            },
+            {
+                "label": "Chiropraticien 001",
+                "value":"Chiropraticien 001"
+            },
+            {
+                "label": "Commis de pharmacie ou aide-pharmacien 022",
+                "value":"Commis de pharmacie ou aide-pharmacien 022"
+            },
+            {
+                "label": "Dentiste 003",
+                "value":"Dentiste 003"
+            },
+            {
+                "label": "Diététicien 016",
+                "value":"Diététicien 016"
+            },
+            {
+                "label": "Hygiéniste dentaire 002",
+                "value":"Hygiéniste dentaire 002"
+            },
+            {
+                "label": "Infirmier ou infirmière 015",
+                "value":"Infirmier ou infirmière 015"
+            },
+            {
+                "label": "Infirmier praticien spécialisé 023",
+                "value":"Infirmier praticien spécialisé 023"
+            },
+            {
+                "label": "Massothérapeute ou masseur 008",
+                "value":"Massothérapeute ou masseur 008"
+            },
+            {
+                "label": "Médecin 004",
+                "value":"Médecin 004"
+            },
+            {
+                "label": "Médecin praticien 010",
+                "value":"Médecin praticien 010"
+            },
+            {
+                "label": "Opthamologiste 017",
+                "value":"Opthamologiste 017"
+            },
+            {
+                "label": "Opticien 018",
+                "value":"Opticien 018"
+            },
+            {
+                "label": "Optométriste 019",
+                "value":"Optométriste 019"
+            },
+            {
+                "label": "Pharmacien 021",
+                "value":"Pharmacien 021"
+            },
+            {
+                "label": "Physiothérapeute 024",
+                "value":"Physiothérapeute 024"
+            },
+            {
+                "label": "Préposé aux services de soutien à la personne 020",
+                "value":"Préposé aux services de soutien à la personne 020"
+            },
+            {
+                "label": "Psychologue 025",
+                "value":"Psychologue 025"
+            },
+            {
+                "label": "Sage-femme 014",
+                "value":"Sage-femme 014"
+            },
+            {
+                "label": "Spécialiste de la santé mentale 013",
+                "value":"Spécialiste de la santé mentale 013"
+            },
+            {
+                "label": "Spécialiste en imagerie médicale 009",
+                "value":"Spécialiste en imagerie médicale 009"
+            },
+            {
+                "label": "Spécialiste en médecine sportive 028",
+                "value":"Spécialiste en médecine sportive 028"
+            },
+            {
+                "label": "Technicien ambulancier paramédical 005",
+                "value":"Technicien ambulancier paramédical 005"
+            },
+            {
+                "label": "Technicien de laboratoire/en pathologie 007",
+                "value":"Technicien de laboratoire/en pathologie 007"
+            },
+            {
+                "label": "Technicien médical 012",
+                "value":"Technicien médical 012"
+            },
+            {
+                "label": "Thérapeute médical/en réadaptation 011",
+                "value":"Thérapeute médical/en réadaptation 011"
+            },
+            {
+                "label": "Travailleur social 027",
+                "value":"Travailleur social 027"
+            },
+            {
+                "label": "vétérinaire 029",
+                "value":"vétérinaire 029"
+            }
+                
+        ]
+},
+
+{
+    "label":"",
+    "value":"",
+        "listLabel":"",
+        "list":[
+            {
+                "label": "Autre : Métiers spécialisés - 999",
+                "value":"Autre : Métiers spécialisés - 999"
+            },
+            {
+                "label": "Bûcheron - 012",
+                "value":"Bûcheron - 012"
+            },
+            {
+                "label": "Charpentier - 004",
+                "value":"Charpentier - 004"
+            },
+            {
+                "label": "Concierge/tech entretien ménager - 023",
+                "value":"Concierge/tech entretien ménager - 023"
+            },
+            {
+                "label": "Débosseleur - 001",
+                "value":"Débosseleur - 001"
+            },
+            {
+                "label": "Électricien - 005",
+                "value":"Électricien - 005"
+            },
+            {
+                "label": "Employé/directeur de services funéraires - 008",
+                "value":"Employé/directeur de services funéraires - 008"
+            },
+            {
+                "label": "Fabricant d'outils et de matrices/opér. CNC - 015",
+                "value":"Fabricant d'outils et de matrices/opér. CNC - 015"
+            },
+            {
+                "label": "Ferronnier ou transformateur de métaux - 011",
+                "value":"Ferronnier ou transformateur de métaux - 011"
+            },
+            {
+                "label": "Fleuriste - 007",
+                "value":"Fleuriste - 007"
+            },
+            {
+                "label": "Forgeron - 002",
+                "value":"Forgeron - 002"
+            },
+            {
+                "label": "Jardinier paysagiste - 018",
+                "value":"Jardinier paysagiste - 018"
+            },
+            {
+                "label": "Mineur - 013",
+                "value":"Mineur - 013"
+            },
+            {
+                "label": "Mécanicien d'entretien - 016",
+                "value":"Mécanicien d'entretien - 016"
+            },
+            {
+                "label": "Opérateur d'équipement lourd - 010",
+                "value":"Opérateur d'équipement lourd - 010"
+            },
+            {
+                "label": "Ouvrier - 009",
+                "value":"Ouvrier - 009"
+            },
+            {
+                "label": "Peintre - 026",
+                "value":"Peintre - 026"
+            },
+            {
+                "label": "Plombier - 017",
+                "value":"Plombier - 017"
+            },
+            {
+                "label": "Pêcheur - 006",
+                "value":"Pêcheur - 006"
+            },
+            {
+                "label": "Resp services generaux/tech entretien - 021",
+                "value":"Resp services generaux/tech entretien - 021"
+            },
+            {
+                "label": "Serrurier - 024",
+                "value":"Serrurier - 024"
+            },
+            {
+                "label": "Soudeur - 014",
+                "value":"Soudeur - 014"
+            },
+            {
+                "label": "Tech inst/entr/rep d'equipement - 020",
+                "value":"Tech inst/entr/rep d'equipement - 020"
+            },
+            {
+                "label": "Tech inst/entr/rep forage ou pipel petr - 025",
+                "value":"Tech inst/entr/rep forage ou pipel petr - 025"
+            },
+            {
+                "label": "Tech inst/entr/rep telecom/electron/ordi - 019",
+                "value":"Tech inst/entr/rep telecom/electron/ordi - 019"
+            },
+            {
+                "label": "Tech inst/rep fils/câbles - 028",
+                "value":"Tech inst/rep fils/câbles - 028"
+            },
+            {
+                "label": "Tech rep/entretien CVAC - 022",
+                "value":"Tech rep/entretien CVAC - 022"
+            },
+            {
+                "label": "Technicien graphiste/CAD - 003",
+                "value":"Technicien graphiste/CAD - 003"
+            },
+            {
+                "label": "Tuyauteur - 027",
+                "value":"Tuyauteur - 027"
+            }
+                
+        ]
+},
+{
+    "label":"Religion - 260",
+    "value":"Religion - 260",
+        "listLabel":"Religion - Description",
+        "list":[
+            {
+                "label": "Autre : Religion - 999",
+                "value":"Autre : Religion - 999"
+            },
+            {
+                "label": "Chef religieux - 001",
+                "value":"Chef religieux - 001"
+            },
+            {
+                "label": "Missionnaire/travailleur humanitaire - 002",
+                "value":"Missionnaire/travailleur humanitaire - 002"
+            },
+            {
+                "label": "Religieux - 003",
+                "value":"Religieux - 003"
+            }
+                
+        ]
+    },
+
+{
+    "label":"Ressources humaines - 150",
+    "value":"Ressources humaines - 150",
+        "listLabel":"Ressources humaines - Description",
+        "list":[
+
+            {
+            "label": "Administrateur des ressources humaines - 004",
+            "value":"Administrateur des ressources humaines - 004"
+            },
+            {
+                "label": "Administrateur paie et avantages sociaux - 007",
+                "value":"Administrateur paie et avantages sociaux - 007"
+            },
+            {
+                "label": "Autre : Ressources humaines - 999",
+                "value":"Autre : Ressources humaines - 999"
+            },
+            {
+                "label": "Conseiller en ressources humaines - 005",
+                "value":"Conseiller en ressources humaines - 005"
+            },
+            {
+                "label": "Formateur en perfectionnement professionnel - 002",
+                "value":"Formateur en perfectionnement professionnel - 002"
+            },
+            {
+                "label": "Recruteur - 008",
+                "value":"Recruteur - 008"
+            },
+            {
+                "label": "Spécialiste diversité/équité/conformité - 003",
+                "value":"Spécialiste diversité/équité/conformité - 003"
+            },
+            {
+                "label": "Spécialiste en ressources humaines - 006",
+                "value":"Spécialiste en ressources humaines - 006"
+            },
+            {
+                "label": "Spécialiste en rémunération/avant. sociaux - 001",
+                "value":"Spécialiste en rémunération/avant. sociaux - 001"
+            }
+                
+        ]
+},
+{
+    "label":"Restauration/maison de jeux/hôtellerie - 130",
+    "value":"Restauration/maison de jeux/hôtellerie - 130",
+        "listLabel":"Restauration/maison de jeux/hôtellerie - Description",
+        "list":[
+            {
+                "label": "Administrateur de casino/gérant - 004",
+                "value":"Administrateur de casino/gérant - 004"
+            },
+            {
+                "label": "Agent course de chevaux/pari hors piste - 007",
+                "value":"Agent course de chevaux/pari hors piste - 007"
+            },
+            {
+                "label": "Agent de sécurité dans un casino - 006",
+                "value":"Agent de sécurité dans un casino - 006"
+            },
+            {
+                "label": "Autre : Restauration/jeux/hôtellerie - 999",
+                "value":"Autre : Restauration/jeux/hôtellerie - 999"
+            },
+            {
+                "label": "Barman - 001",
+                "value":"Barman - 001"
+            },
+            {
+                "label": "Caissier de casino - 005",
+                "value":"Caissier de casino - 005"
+            },
+            {
+                "label": "Caissier/barista/serveur de boissons et de repas - 009",
+                "value":"Caissier/barista/serveur de boissons et de repas - 009"
+            },
+            {
+                "label": "Chef cuisinier - 002",
+                "value":"Chef cuisinier - 002"
+            },
+            {
+                "label": "Concierge - 012",
+                "value":"Concierge - 012"
+            },
+            {
+                "label": "Cuisinier - 010",
+                "value":"Cuisinier - 010"
+            },
+            {
+                "label": "Exploitant de casino ou croupier - 003",
+                "value":"Exploitant de casino ou croupier - 003"
+            },
+            {
+                "label": "Gouvernant - 018",
+                "value":"Gouvernant - 018"
+            },
+            {
+                "label": "Guide touristique - 013",
+                "value":"Guide touristique - 013"
+            },
+            {
+                "label": "Gérant de restaurant - 015",
+                "value":"Gérant de restaurant - 015"
+            },
+            {
+                "label": "Hôte et hôtesse - 014",
+                "value":"Hôte et hôtesse - 014"
+            },
+            {
+                "label": 
+                "laveur de vaisselle - 019",
+                "value":
+                "laveur de vaisselle - 019"
+            },
+            {
+                "label": "Planificateur d'événement - 008",
+                "value":"Planificateur d'événement - 008"
+            },
+            {
+                "label": "Pâtissier - 020",
+                "value":"Pâtissier - 020"
+            },
+            {
+                "label": "Réceptionniste - 011",
+                "value":"Réceptionniste - 011"
+            },
+            {
+                "label": "Serveur - 016",
+                "value":"Serveur - 016"
+            },
+            {
+                "label": "Sommelier - 017",
+                "value":"Sommelier - 017"
+            }
+                
+        ]
+},
+
+{
+    "label":"Science et technologie - 280",
+    "value":"Science et technologie - 280",
+        "listLabel":"Science et technologie - Description",
+        "list":[
+            {
+                "label": "Analyste recherche et développement de produits - 010",
+                "value":"Analyste recherche et développement de produits - 010"
+            },
+            {
+                "label": "Autre : Science et technologie - 999",
+                "value":"Autre : Science et technologie - 999"
+            },
+            {
+                "label": "Biologiste - 001",
+                "value":"Biologiste - 001"
+            },
+            {
+                "label": "Chercheur clinique - 003",
+                "value":"Chercheur clinique - 003"
+            },
+            {
+                "label": "Chercheur médical - 007",
+                "value":"Chercheur médical - 007"
+            },
+            {
+                "label": "Chercheur pharmaceutique - 008",
+                "value":"Chercheur pharmaceutique - 008"
+            },
+            {
+                "label": "Chimiste - 002",
+                "value":"Chimiste - 002"
+            },
+            {
+                "label": "Géoscientifique et écologiste - 004",
+                "value":"Géoscientifique et écologiste - 004"
+            },
+            {
+                "label": "Mathématicien ou statisticien - 006",
+                "value":"Mathématicien ou statisticien - 006"
+            },
+            {
+                "label": "Physicien - 009",
+                "value":"Physicien - 009"
+            },
+            {
+                "label": "Sociologue ou anthropologue - 011",
+                "value":"Sociologue ou anthropologue - 011"
+            },
+            {
+                "label": "Technicien de laboratoire - 005",
+                "value":"Technicien de laboratoire - 005"
+            }
+                            
+        ]
+},
+{
+    "label":"Sécurité et assurance de la qualité - 250",
+    "value":"Sécurité et assurance de la qualité - 250",
+        "listLabel":"Sécurité et assurance de la qualité - Description",
+        "list":[
+            {
+                "label": "Agent de certification ISO - 004",
+                "value":"Agent de certification ISO - 004"
+            },
+            {
+                "label": "Agent de la santé et sécurité au travail - 005",
+                "value":"Agent de la santé et sécurité au travail - 005"
+            },
+            {
+                "label": "Assureur de la qualité de la production - 006",
+                "value":"Assureur de la qualité de la production - 006"
+            },
+            {
+                "label": "Assureur de la qualité des logiciels - 007",
+                "value":"Assureur de la qualité des logiciels - 007"
+            },
+            {
+                "label": "Autre: Sécurité et assurance de la qualité 999",
+                "value":"Autre: Sécurité et assurance de la qualité 999"
+            },
+            {
+                "label": "Inspecteur de véhicules - 008",
+                "value":"Inspecteur de véhicules - 008"
+            },
+            {
+                "label": "Inspecteur en bâtiment - 001",
+                "value":"Inspecteur en bâtiment - 001"
+            },
+            {
+                "label": "Inspecteur en sécurité alimentaire - 003",
+                "value":"Inspecteur en sécurité alimentaire - 003"
+            },
+            {
+                "label": "Spécialiste environnement/conservation - 002",
+                "value":"Spécialiste environnement/conservation - 002"
+            }
+                
+        ]
+},
+{
+    "label":"Service à la clientèle - 070",
+    "value":"Service à la clientèle - 070",
+        "listLabel":"Service à la clientèle - Description",
+        "list":[
+            {
+                "label": "Agent au service clientèle de détail - 008",	
+                "value":"Agent au service clientèle de détail - 008"
+            },
+            {
+                "label": "Agent de centre d’appels - 002",	
+                "value":"Agent de centre d’appels - 002"
+            },
+            {
+                "label": "Agent de réservations/billets - 007",	
+                "value":"Agent de réservations/billets - 007"
+            },
+            {
+                "label": "Agent technique au service clientèle - 009",	
+                "value":"Agent technique au service clientèle - 009"
+            },
+            {
+                "label": "Autre : Service à la clientèle 999",	
+                "value":"Autre : Service à la clientèle 999"
+            },
+            {
+                "label": "Coiffeur styliste - 005",	
+                "value":"Coiffeur styliste - 005"
+            },
+            {
+                "label": "Directeur de comptes (sans commission) - 001",	
+                "value":"Directeur de comptes (sans commission) - 001"
+            },
+            {
+                "label": "Esthéticien - 003",	
+                "value":"Esthéticien - 003"
+            },
+            {
+                "label": "Gouvernant/gardien d'enfants - 006",	
+                "value":"Gouvernant/gardien d'enfants - 006"
+            },
+            {
+                "label": "Représentant du service à la clientèle - 004",	
+                "value":"Représentant du service à la clientèle - 004"
+            }
+                
+        ]
+    },
+
+{
+    "label":"Services de sécurité/urgence/protection - 290",
+    "value":"Services de sécurité/urgence/protection - 290",
+        "listLabel":"Services de sécurité/urgence/protection - 290",
+        "list":[
+            {
+            "label": "Agent correctionnel - 003",
+            "value":"Agent correctionnel - 003"
+            },
+            {
+                "label": "Agent de contrôle et sécurité d'aéroport - 001",
+                "value":"Agent de contrôle et sécurité d'aéroport - 001"
+            },
+            {
+                "label": "Agent de sécurité dans un magasin - 009",
+                "value":"Agent de sécurité dans un magasin - 009"
+            },
+            {
+                "label": "Agent des douanes - 004",
+                "value":"Agent des douanes - 004"
+            },
+            {
+                "label": "Analyste du renseignement de sécurité - 008",
+                "value":"Analyste du renseignement de sécurité - 008"
+            },
+            {
+                "label": "Autre : Services de sécurité/urgence/protection - 999",
+                "value":"Autre : Services de sécurité/urgence/protection - 999"
+            },
+            {
+                "label": "Contrôleur aérien - 002",
+                "value":"Contrôleur aérien - 002"
+            },
+            {
+                "label": "Gardien de sécurité - 007",
+                "value":"Gardien de sécurité - 007"
+            },
+            {
+                "label": "Policier - 006",
+                "value":"Policier - 006"
+            },
+            {
+                "label": "Pompier et secouriste - 005",
+                "value":"Pompier et secouriste - 005"
+            }
+                
+        ]
+},
+
+{
+    "label":"TI et conception de logiciel - 170",
+    "value":"TI et conception de logiciel - 170",
+        "listLabel":"TI et conception de logiciel - Description",
+        "list":[
+
+                {
+                    "label": "Administrateur de réseau et de serveur - 006",
+                    "value":"Administrateur de réseau et de serveur - 006"
+                },
+                {
+                    "label": "Autre : TI et conception de logiciel - 999",
+                    "value":"Autre : TI et conception de logiciel - 999"
+                },
+                {
+                    "label": "Concepteur de systèmes logiciels - 007",
+                    "value":"Concepteur de systèmes logiciels - 007"
+                },
+                {
+                    "label": "Concepteur/administrateur de bases de données - 002",
+                    "value":"Concepteur/administrateur de bases de données - 002"
+                },
+                {
+                    "label": "Conseiller en TI - 003",
+                    "value":"Conseiller en TI - 003"
+                },
+                {
+                    "label": "Développeur/programmeur en TI - 010",
+                    "value":"Développeur/programmeur en TI - 010"
+                },
+                {
+                    "label": "Gestionnaire de projet de TI - 004",
+                    "value":"Gestionnaire de projet de TI - 004"
+                },
+                {
+                    "label": "Gestionnaire/administrateur de télécommunications - 009",
+                    "value":"Gestionnaire/administrateur de télécommunications - 009"
+                },
+                {
+                    "label": "Spécialiste en technologie de l'info. - 005",
+                    "value":"Spécialiste en technologie de l'info. - 005"
+                },
+                {
+                    "label": "Technicien en TI/assistant technique - 001",
+                    "value":"Technicien en TI/assistant technique - 001"
+                },
+                {
+                    "label": "Technicien TI - 008",
+                    "value":"Technicien TI - 008"
+                }
+                
+        ]
+},
+{
+    "label":"Transport et logistique - 190",
+    "value":"Transport et logistique - 190",
+        "listLabel":"Transport et logistique - Description",
+        "list":[
+            {
+                "label": "Acheteur - 014",
+                "value":"Acheteur - 014"
+            },
+            {
+                "label": "Acheteur/planificateur de marchandises - 009",
+                "value":"Acheteur/planificateur de marchandises - 009"
+            },
+            {
+                "label": "Admin/exploitant de transport public - 013",
+                "value":"Admin/exploitant de transport public - 013"
+            },
+            {
+                "label": "Administrateur import/export - 006",
+                "value":"Administrateur import/export - 006"
+            },
+            {
+                "label": "Autre : Transport et logistique 999",
+                "value":"Autre : Transport et logistique 999"
+            },
+            {
+                "label": "Chauffeur d'autobus/de fourgonnette/d'automobile - 001",
+                "value":"Chauffeur d'autobus/de fourgonnette/d'automobile - 001"
+            },
+            {
+                "label": "Chauffeur de camion - 021",
+                "value":"Chauffeur de camion - 021"
+            },
+            {
+                "label": "Chauffeur de taxi - 017",
+                "value":"Chauffeur de taxi - 017"
+            },
+            {
+                "label": "Chauffeur de train - 019",
+                "value":"Chauffeur de train - 019"
+            },
+            {
+                "label": "Commis d'entrepôt expédition/réception - 015",
+                "value":"Commis d'entrepôt expédition/réception - 015"
+            },
+            {
+                "label": "Conseiller en voyages - 020",
+                "value":"Conseiller en voyages - 020"
+            },
+            {
+                "label": "Évaluateur des coûts - 003",
+                "value":"Évaluateur des coûts - 003"
+            },
+            {
+                "label": "Facteur - 008",
+                "value":"Facteur - 008"
+            },
+            {
+                "label": "Gestionnaire de fournisseurs - 016",
+                "value":"Gestionnaire de fournisseurs - 016"
+            },
+            {
+                "label": "Gestionnaire et planificateur de stocks - 007",
+                "value":"Gestionnaire et planificateur de stocks - 007"
+            },
+            {
+                "label": "Manutentionnaire cargaisons et bagages - 002",
+                "value":"Manutentionnaire cargaisons et bagages - 002"
+            },
+            {
+                "label": "Manutentionnaire de matières dangereuses - 005",
+                "value":"Manutentionnaire de matières dangereuses - 005"
+            },
+            {
+                "label": "Messager - 010",
+                "value":"Messager - 010"
+            },
+            {
+                "label": "Opérateur de chariot élévateur ou grue - 004",
+                "value":"Opérateur de chariot élévateur ou grue - 004"
+            },
+            {
+                "label": "Opérateur/chauffeur de transport public - 012",
+                "value":"Opérateur/chauffeur de transport public - 012"
+            },
+            {
+                "label": "Pilote d'avion et maritime - 011",
+                "value":"Pilote d'avion et maritime - 011"
+            },
+            {
+                "label": "Répartiteur de véhicules - 022",
+                "value":"Répartiteur de véhicules - 022"
+            },
+            {
+                "label": "Répartiteur ou administrateur de taxis - 018",
+                "value":"Répartiteur ou administrateur de taxis - 018"
+            }
+                
+        ]
+},
+{
+    "label":"Travail de bureau - 020",
+    "value":"Travail de bureau - 020",
+        "listLabel":"Travail de bureau - Description",
+        "list":[
+            {
+                "label": "Adjoint administratif - 001",
+                "value":"Adjoint administratif - 001"
+            },
+            {
+                "label": "Adjoint de direction - 005",
+                "value":"Adjoint de direction - 005"
+            },
+            {
+                "label": "Autre : Travail de bureau 999",
+                "value":"Autre : Travail de bureau 999"
+            },
+            {
+                "label": "Chef de bureau - 007",
+                "value":"Chef de bureau - 007"
+            },
+            {
+                "label": "Commis à la saisie des données/commandes - 004",
+                "value":"Commis à la saisie des données/commandes - 004"
+            },
+            {
+                "label": "Commis au soutien administratif - 002",
+                "value":"Commis au soutien administratif - 002"
+            },
+            {
+                "label": "Gestionnaire immobilier - 008",
+                "value":"Gestionnaire immobilier - 008"
+            },
+            {
+                "label": "Préposé à la gestion des documents - 006",
+                "value":"Préposé à la gestion des documents - 006"
+            },
+            {
+                "label": "Préposé à la salle de courrier - 012",
+                "value":"Préposé à la salle de courrier - 012"
+            },
+            {
+                "label": "Préposé à la transcription - 011",
+                "value":"Préposé à la transcription - 011"
+            },
+            {
+                "label": "Préposé aux demandes de règlement - 003",
+                "value":"Préposé aux demandes de règlement - 003"
+            },
+            {
+                "label": "Réceptionniste/standardiste - 009",
+                "value":"Réceptionniste/standardiste - 009"
+            },
+            {
+                "label": "Secrétaire - 010",
+                "value":"Secrétaire - 010"
+            }
+        ]
+    },
+    {
+        "label":"Vente et expansion des affaires - 270",
+        "value":"Vente et expansion des affaires - 270",
+            "listLabel":"Vente et expansion des affaires - Description",
+            "list":[
+                {
+                    "label": "Acheteur et planificateur de produits - 010",
+                    "value":"Acheteur et planificateur de produits - 010"
+                },
+                {
+                    "label": "Agent de soutien aux ventes - 015",
+                    "value":"Agent de soutien aux ventes - 015"
+                },
+                {
+                    "label": "Agent de voyages ou agent de billets - 020",
+                    "value":"Agent de voyages ou agent de billets - 020"
+                },
+                {
+                    "label": "Agent ou courtier d'assurance vie - 006",
+                    "value":"Agent ou courtier d'assurance vie - 006"
+                },
+                {
+                    "label": "Autre : Expansion des affaires 999",
+                    "value":"Autre : Expansion des affaires 999"
+                },
+                {
+                    "label": "Bijoutier ou courtier en métaux précieux - 008",
+                    "value":"Bijoutier ou courtier en métaux précieux - 008"
+                },
+                {
+                    "label": "Caissier/commis/vendeur commerce de détail - 014",
+                    "value":"Caissier/commis/vendeur commerce de détail - 014"
+                },
+                {
+                    "label": "Collecteur de fonds - 005",
+                    "value":"Collecteur de fonds - 005"
+                },
+                {
+                    "label": "Courtier en publicité et médias - 009",
+                    "value":"Courtier en publicité et médias - 009"
+                },
+                {
+                    "label": "Courtier ou agent de produits financiers - 004",
+                    "value":"Courtier ou agent de produits financiers - 004"
+                },
+                {
+                    "label": "Courtier ou agent immobilier - 013",
+                    "value":"Courtier ou agent immobilier - 013"
+                },
+                {
+                    "label": "Directeur de comptes (à la commission) - 001",
+                    "value":"Directeur de comptes (à la commission) - 001"
+                },
+                {
+                    "label": "Directeur de comptes/expansion des affaires - 002",
+                    "value":"Directeur de comptes/expansion des affaires - 002"
+                },
+                {
+                    "label": "Directeur de magasin ou de succursale - 017",
+                    "value":"Directeur de magasin ou de succursale - 017"
+                },
+                {
+                    "label": "Gestionnaire ou analyste de produit - 012",
+                    "value":"Gestionnaire ou analyste de produit - 012"
+                },
+                {
+                    "label": "Prêteur sur gage - 011",
+                    "value":"Prêteur sur gage - 011"
+                },
+                {
+                    "label": "Proprietaire/Exploitant de Commerce - 023",
+                    "value":"Proprietaire/Exploitant de Commerce - 023"
+                },
+                {
+                    "label": "Représentant des ventes internationales - 007",
+                    "value":"Représentant des ventes internationales - 007"
+                },
+                {
+                    "label": "Représentant des ventes sur le terrain - 003",
+                    "value":"Représentant des ventes sur le terrain - 003"
+                },
+                {
+                    "label": "Spécialiste en affichage de produits - 021",
+                    "value":"Spécialiste en affichage de produits - 021"
+                },
+                {
+                    "label": "Superviseur des ventes - 016",
+                    "value":"Superviseur des ventes - 016"
+                },
+                {
+                    "label": "Télévendeur/spécialiste du télémarketing - 019",
+                    "value":"Télévendeur/spécialiste du télémarketing - 019"
+                },
+                {
+                    "label": "vendeur en gros ou revendeur - 022",
+                    "value":"vendeur en gros ou revendeur - 022"
+                },
+                {
+                    "label": "vendeur/agent soutien technique prévente - 018",
+                    "value":"vendeur/agent soutien technique prévente - 018"
+                }
+    
+                    
+            ]
+    }
+    ]
+}

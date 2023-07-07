@@ -1,0 +1,136 @@
+{
+    "label":"Médecine et santé - 220",
+    "value":"Médecine et santé - 220",
+        "listLabel":"Médecine et santé - Description",
+        "list":[
+            {
+                "label": "Administrateur de services de santé pub. 026",
+                "value":"Administrateur de services de santé pub. 026"
+            },
+            {
+                "label": "Aide-soignant 006",
+                "value":"Aide-soignant 006"
+            },
+            {
+                "label": "Aide-vétérinaire 030",
+                "value":"Aide-vétérinaire 030"
+            },
+            {
+                "label": "Autre : Médecine et santé 999",
+                "value":"Autre : Médecine et santé 999"
+            },
+            {
+                "label": "Chiropraticien 001",
+                "value":"Chiropraticien 001"
+            },
+            {
+                "label": "Commis de pharmacie ou aide-pharmacien 022",
+                "value":"Commis de pharmacie ou aide-pharmacien 022"
+            },
+            {
+                "label": "Dentiste 003",
+                "value":"Dentiste 003"
+            },
+            {
+                "label": "Diététicien 016",
+                "value":"Diététicien 016"
+            },
+            {
+                "label": "Hygiéniste dentaire 002",
+                "value":"Hygiéniste dentaire 002"
+            },
+            {
+                "label": "Infirmier ou infirmière 015",
+                "value":"Infirmier ou infirmière 015"
+            },
+            {
+                "label": "Infirmier praticien spécialisé 023",
+                "value":"Infirmier praticien spécialisé 023"
+            },
+            {
+                "label": "Massothérapeute ou masseur 008",
+                "value":"Massothérapeute ou masseur 008"
+            },
+            {
+                "label": "Médecin 004",
+                "value":"Médecin 004"
+            },
+            {
+                "label": "Médecin praticien 010",
+                "value":"Médecin praticien 010"
+            },
+            {
+                "label": "Opthamologiste 017",
+                "value":"Opthamologiste 017"
+            },
+            {
+                "label": "Opticien 018",
+                "value":"Opticien 018"
+            },
+            {
+                "label": "Optométriste 019",
+                "value":"Optométriste 019"
+            },
+            {
+                "label": "Pharmacien 021",
+                "value":"Pharmacien 021"
+            },
+            {
+                "label": "Physiothérapeute 024",
+                "value":"Physiothérapeute 024"
+            },
+            {
+                "label": "Préposé aux services de soutien à la personne 020",
+                "value":"Préposé aux services de soutien à la personne 020"
+            },
+            {
+                "label": "Psychologue 025",
+                "value":"Psychologue 025"
+            },
+            {
+                "label": "Sage-femme 014",
+                "value":"Sage-femme 014"
+            },
+            {
+                "label": "Spécialiste de la santé mentale 013",
+                "value":"Spécialiste de la santé mentale 013"
+            },
+            {
+                "label": "Spécialiste en imagerie médicale 009",
+                "value":"Spécialiste en imagerie médicale 009"
+            },
+            {
+                "label": "Spécialiste en médecine sportive 028",
+                "value":"Spécialiste en médecine sportive 028"
+            },
+            {
+                "label": "Technicien ambulancier paramédical 005",
+                "value":"Technicien ambulancier paramédical 005"
+            },
+            {
+                "label": "Technicien de laboratoire/en pathologie 007",
+                "value":"Technicien de laboratoire/en pathologie 007"
+            },
+            {
+                "label": "Technicien médical 012",
+                "value":"Technicien médical 012"
+            },
+            {
+                "label": "Thérapeute médical/en réadaptation 011",
+                "value":"Thérapeute médical/en réadaptation 011"
+            },
+            {
+                "label": "Travailleur social 027",
+                "value":"Travailleur social 027"
+            },
+            {
+                "label": "vétérinaire 029",
+                "value":"vétérinaire 029"
+            }
+                
+        ]
+}
+       
+
+
+

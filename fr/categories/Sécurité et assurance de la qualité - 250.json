@@ -1,0 +1,48 @@
+{
+    "label":"Sécurité et assurance de la qualité - 250",
+    "value":"Sécurité et assurance de la qualité - 250",
+        "listLabel":"Sécurité et assurance de la qualité - Description",
+        "list":[
+            {
+                "label": "Agent de certification ISO - 004",
+                "value":"Agent de certification ISO - 004"
+            },
+            {
+                "label": "Agent de la santé et sécurité au travail - 005",
+                "value":"Agent de la santé et sécurité au travail - 005"
+            },
+            {
+                "label": "Assureur de la qualité de la production - 006",
+                "value":"Assureur de la qualité de la production - 006"
+            },
+            {
+                "label": "Assureur de la qualité des logiciels - 007",
+                "value":"Assureur de la qualité des logiciels - 007"
+            },
+            {
+                "label": "Autre: Sécurité et assurance de la qualité 999",
+                "value":"Autre: Sécurité et assurance de la qualité 999"
+            },
+            {
+                "label": "Inspecteur de véhicules - 008",
+                "value":"Inspecteur de véhicules - 008"
+            },
+            {
+                "label": "Inspecteur en bâtiment - 001",
+                "value":"Inspecteur en bâtiment - 001"
+            },
+            {
+                "label": "Inspecteur en sécurité alimentaire - 003",
+                "value":"Inspecteur en sécurité alimentaire - 003"
+            },
+            {
+                "label": "Spécialiste environnement/conservation - 002",
+                "value":"Spécialiste environnement/conservation - 002"
+            }
+                
+        ]
+}
+       
+
+
+
