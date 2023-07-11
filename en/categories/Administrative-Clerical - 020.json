@@ -1,0 +1,151 @@
+{
+    "label": "Administrative/Clerical",
+    "value": "Administrative/Clerical - 020",
+       "listLabel": "Administrative/Clerical - Description",
+       "list": [
+           {
+              "label": "Administrative Assistant",
+              "value": "Administrative Assistant - 001"
+           },
+            {
+              "label": "Claims Processer",
+              "value": "Claims Processer - 003"
+           },
+            {
+              "label": "Executive Assistant",
+              "value": "Executive Assistant - 005"
+           },
+           {
+                "label": "Administrative Officer",
+                "value": "Administrative Officer - 020"
+           },
+           {
+                "label": "Advertising/Marketing/PR, Professional",
+                "value": "Advertising/Marketing/PR, Professional - 030"
+           },
+           {
+                "label": "Conference/Event Planner",
+                "value": "Conference/Event Planner - 040"
+            },
+            {
+                "label": "Correspondence/Publication Clerk",
+                "value": "Correspondence/Publication Clerk - 050"
+            },
+            {
+                "label": "Court Clerk/Court Services",
+                "value": "Court Clerk/Court Services - 060"
+            },
+            {
+                "label": "Court Reporter/ Medical Transcriber",
+                "value": "Court Reporter/ Medical Transcriber - 070"
+            },
+            {
+                "label": "Customs, Ship and Other Broker",
+                "value": "Customs, Ship and Other Broker - 080"
+            },
+            {
+                "label": "Data Entry Clerk",
+                "value": "Data Entry Clerk - 090"
+            },
+            {
+                "label": "Desktop Publishing Operator",
+                "value": "Desktop Publishing Operator - 100"
+            },
+            {
+                "label": "Employment Insurance/Revenue Officer",
+                "value": "Employment Insurance/Revenue Officer - 110"
+            },
+            {
+                "label": "General Office Support Worker",
+                "value": "General Office Support Worker - 120"
+            },
+            {
+                "label": "Human Resources Professional",
+                "value": "Human Resources Professional - 140"
+            },
+            {
+                "label": "Human Resources/Recruitment Officer",
+                "value": "Human Resources/Recruitment Officer - 150"
+            },
+            {
+                "label": "Library Assistant/Clerk",
+                "value": "Library Assistant/Clerk - 160"
+            },
+            {
+                "label": "Manger, Advertising/Marketing/PR",
+                "value": "Manger, Advertising/Marketing/PR - 170"
+            },
+            {
+                "label": "Manager, Health Information",
+                "value": "Manager, Health Information - 175"
+            },
+            {
+                "label": "Manager, Human Resources",
+                "value": "Manager, Human Resources - 180"
+            },
+            {
+                "label": "Manager, Purchasing",
+                "value": "Manager, Purchasing - 190"
+            },
+            {
+                "label": "Medical Adminstrative Assistant",
+                "value": "Medical Adminstrative Assistant - 200"
+            },
+            {
+                "label": "Payroll Administrator",
+                "value": "Payroll Administrator - 210"
+            },
+            {
+                "label": "Personnel Clerk",
+                "value": "Personnel Clerk - 220"
+            },
+            {
+                "label": "Procurement/Purchasing Agent",
+                "value": "Procurement/Purchasing Agent - 230"
+            },
+            {
+                "label": "Project/Change Manager-Office Support",
+                "value": "Project/Change Manager-Office Support - 235"
+            },
+            {
+                "label": "Property Administrator",
+                "value": "Property Administrator - 240"
+            },
+            {
+                "label": "Receptionist",
+                "value": "Receptionist - 250"
+            },
+            {
+                "label": "Records Management Technician",
+                "value": "Records Management Technician - 260"
+            },
+            {
+                "label": "Regulatory Clerk",
+                "value": "Regulatory Clerk - 270"
+            },
+            {
+                "label": "Statistical Officer/Research Support",
+                "value": "Statistical Officer/Research Support - 280"
+            },
+            {
+                "label": "Storekeeper/Partsperson",
+                "value": "Storekeeper/Partsperson - 290"
+            },
+            {
+                "label": "Supervisor, General office/Admin/Support",
+                "value": "Supervisor, General office/Admin/Support - 300"
+            },
+            {
+                "label": "Supervisor, Library/Correspondence",
+                "value": "Supervisor, Library/Correspondence - 310"
+            },
+            {
+                "label": "Survey interviewer/Statistical Clerk",
+                "value": "Survey interviewer/Statistical Clerk - 320"
+            },
+            {
+              "label": "Other: Administrative/Clerical",
+              "value": "Other: Administrative/Clerical - 9992"
+           }
+        ]
+    }

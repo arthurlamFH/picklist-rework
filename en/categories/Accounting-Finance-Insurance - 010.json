@@ -1,0 +1,143 @@
+{
+    "label": "Accounting/Finance/Insurance",
+    "value": "Accounting/Finance/Insurance - 010",
+    "listLabel": "Accounting/Finance/Insurance - Description",
+    "list": [
+        {
+           "label": "Accountant",
+           "value": "Accountant - 001"
+        },
+        {
+           "label": "Accounting Consultant",
+           "value": "Accounting Consultant - 002"
+        },
+        {
+           "label": "Accounts Payable/Receivable Clerk",
+           "value": "Accounts Payable/Receivable Clerk - 003"
+        },
+        {
+           "label": "Actuary or Actuarial Analyst",
+           "value": "Actuary or Actuarial Analyst - 004"
+        },
+        {
+           "label": "Insurance Appraiser",
+           "value": "Insurance Appraiser - 005"
+        },
+        {
+           "label": "Auditor",
+           "value": "Auditor - 006"
+        },
+        {
+           "label": "Bookkeeper",
+           "value": "Bookkeeper - 007"
+        },
+        {
+           "label": "Claims Adjuster",
+           "value": "Claims Adjuster - 008"
+        },
+        {
+           "label": "Collections Officer",
+           "value": "Collections Officer - 009"
+        },
+        {
+           "label": "Chief Financial Officer (CFO)",
+           "value": "Chief Financial Officer (CFO) - 010"
+        },
+        {
+           "label": "Corporate Finance Accountant/Analyst",
+           "value": "Corporate Finance Accountant/Analyst - 011"
+        },
+        {
+           "label": "Financial Analyst/Researcher",
+           "value": "Financial Analyst/Researcher - 012"
+        },
+        {
+           "label": "Financial Controller",
+           "value": "Financial Controller - 013"
+        },
+        {
+           "label": "Financial Planner",
+           "value": "Financial Planner - 014"
+        },
+        {
+           "label": "Financial Products Sales Agent/Broker",
+           "value": "Financial Products Sales Agent/Broker - 015"
+        },
+        {
+           "label": "Fund Accountant",
+           "value": "Fund Accountant - 017"
+        },
+        {
+           "label": "Investment Manager",
+           "value": "Investment Manager - 018"
+        },
+        {
+           "label": "Investment Analyst",
+           "value": "Investment Analyst - 019"
+        },
+        {
+           "label": "Investment Broker",
+           "value": "Investment Broker - 020"
+        },
+        {
+           "label": "Stock/Securities Broker",
+           "value": "Stock/Securities Broker - 022"
+        },
+        {
+           "label": "Investment Consultant",
+           "value": "Investment Consultant - 023"
+        },
+        {
+           "label": "Policy Underwriter",
+           "value": "Policy Underwriter - 024"
+        },
+        {
+           "label": "Risk Manager/Compliance Officer",
+           "value": "Risk Manager/Compliance Officer - 025"
+        },
+        {
+           "label": "Securities Analyst/Researcher",
+           "value": "Securities Analyst/Researcher - 026"
+        },
+        {
+           "label": "Tax Accountant",
+           "value": "Tax Accountant - 027"
+        },
+        {
+           "label": "Tax Assessment and Collections Officer",
+           "value": "Tax Assessment and Collections Officer - 028"
+        },
+        {
+           "label": "Assessor/Business Valuator/Appraiser",
+           "value": "Assessor/Business Valuator/Appraiser - 030"
+        },
+        {
+           "label": "Business Management Consultant",
+           "value": "Business Management Consultant - 040"
+        },
+        {
+            "label": "Economist",
+            "value": "Economist - 050"
+        },
+        {
+            "label": "Insurance Agent/Broker",
+            "value": "Insurance Agent/Broker - 060"
+        },
+        {
+            "label": "Manager, Finance",
+            "value": "Manager, Finance - 070"
+        },
+        {
+            "label": "Project/Change Manager-Acctng/Fin/Ins",
+            "value": "Project/Change Manager-Acctng/Fin/Ins - 080"
+        },
+        {
+            "label": "Supervisor, Finance/Insurance Workers",
+            "value": "Supervisor, Finance/Insurance Workers - 090"
+        },
+        {
+           "label": "Other: Accounting/Finance/Insurance",
+           "value": "Other: Accounting/Finance/Insurance - 999"
+        }
+     ]
+ }
