@@ -1,0 +1,148 @@
+{
+    "label": "Art/Culture",
+    "value": "Art/Culture - 025",
+       "listLabel": "Art/Culture - Description",
+       "list":
+[
+    {
+        "label": "actor, comedian and circus performer",
+        "value": "actor, comedian and circus performer - 10"
+    },
+    {
+        "label": "agent, sports/entertainment",
+        "value": "agent, sports/entertainment - 15"
+    },
+    {
+        "label": "announcer/broadcaster",
+        "value": "announcer/broadcaster - 20"
+    },
+    {
+        "label": "archivist",
+        "value": "archivist - 30"
+    },
+    {
+        "label": "artisan/craftsperson",
+        "value": "artisan/craftsperson - 40"
+    },
+    {
+        "label": "audio/video recording technician",
+        "value": "audio/video recording technician - 50"
+    },
+    {
+        "label": "author and writer except technical",
+        "value": "author and writer except technical - 60"
+    },
+    {
+        "label": "broadcast technician",
+        "value": "broadcast technician - 70"
+    },
+    {
+        "label": "conductor/composer/arranger",
+        "value": "conductor/composer/arranger - 80"
+    },
+    {
+        "label": "conservator/curator",
+        "value": "conservator/curator - 90"
+    },
+    {
+        "label": "dancer",
+        "value": "dancer - 100"
+    },
+    {
+        "label": "editor",
+        "value": "editor - 110"
+    },
+    {
+        "label": "film/broadcast assistant and operator",
+        "value": "film/broadcast assistant and operator - 120"
+    },
+    {
+        "label": "film/video camera operator",
+        "value": "film/video camera operator - 130"
+    },
+    {
+        "label": "graphic arts technician",
+        "value": "graphic arts technician - 140"
+    },
+    {
+        "label": "graphic designer/illustrator",
+        "value": "graphic designer/illustrator - 150"
+    },
+    {
+        "label": "influencer/model",
+        "value": "influencer/model - 160"
+    },
+    {
+        "label": "interior designer/interior decorator",
+        "value": "interior designer/interior decorator - 170"
+    },
+    {
+        "label": "journalist",
+        "value": "journalist - 180"
+    },
+    {
+        "label": "librarian",
+        "value": "librarian - 190"
+    },
+    {
+        "label": "library/public archive technician",
+        "value": "library/public archive technician - 200"
+    },
+    {
+        "label": "manager, library/museum/art gallery",
+        "value": "manager, library/museum/art gallery - 210"
+    },
+    {
+        "label": "manager, sports/entertainment",
+        "value": "manager, sports/entertainment - 215"
+    },
+    {
+        "label": "mgr, publishing/film/broadcast/perf arts",
+        "value": "mgr, publishing/film/broadcast/perf arts - 220"
+    },
+    {
+        "label": "museum registrar/restorer/interpreter",
+        "value": "museum registrar/restorer/interpreter - 230"
+    },
+    {
+        "label": "musician/singer",
+        "value": "musician/singer - 240"
+    },
+    {
+        "label": "painter/sculptor/visual artist",
+        "value": "painter/sculptor/visual artist - 250"
+    },
+    {
+        "label": "photographer",
+        "value": "photographer - 260"
+    },
+    {
+        "label": "photography/performing arts worker",
+        "value": "photography/performing arts worker - 270"
+    },
+    {
+        "label": "producer/director/choreographer",
+        "value": "producer/director/choreographer - 280"
+    },
+    {
+        "label": "project/change manager-arts and culture",
+        "value": "project/change manager-arts and culture - 285"
+    },
+    {
+        "label": "technical writer",
+        "value": "technical writer - 290"
+    },
+    {
+        "label": "textile/leather/fur patternmaker",
+        "value": "textile/leather/fur patternmaker - 300"
+    },
+    {
+        "label": "theatre/fashion/exhibit designer",
+        "value": "theatre/fashion/exhibit designer - 310"
+    },
+    {
+        "label": "translator/terminologist/interpreter",
+        "value": "translator/terminologist/interpreter - 320"
+    }
+]
+}
