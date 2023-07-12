@@ -1,7 +1,7 @@
 // script to conver csv data to json picklist, and output to corresponding folder
 const {saveJSON} = require('./saveJSON');
 
-let csvData = require('./data')
+let csvData = require('./convertCsvData')
 
 let trimData = []
 let pickList = {};
