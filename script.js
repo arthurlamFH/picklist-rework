@@ -1,4 +1,6 @@
 // script to conver csv data to json picklist, and output to corresponding folder
+const {saveJSON} = require('./saveJSON');
+
 let data = require('./data')
 
 let trimData = []
@@ -31,10 +33,12 @@ data.forEach(function(ele) {
    return pickList
 })
 
+
+
 function capitalizeFirstLetter(string) {
     return string.replace(new RegExp("(?:\\b|_)([a-z])", "g"), function($1) {
         return $1.toUpperCase();
     });
 }
 
-console.log(pickList)
+saveJSON('./en/categories/Bank-Real Estate-Mortgage Professionals - 030.json', pickList)
