@@ -1,0 +1,27 @@
+{
+    "label": "Casino-Gaming",
+    "value": "Casino/Gaming - 035",
+    "listLabel": "Casino/Gaming - Description",
+    "list": [
+        {
+            "label": "Casino Or Gaming Dealer/Operator",
+            "value": "Casino Or Gaming Dealer/Operator - 010"
+        },
+        {
+            "label": "Casino/Track Cashier",
+            "value": "Casino/Track Cashier - 020"
+        },
+        {
+            "label": "Casino/Track Surveillance Security",
+            "value": "Casino/Track Surveillance Security - 030"
+        },
+        {
+            "label": "Horse Racing/Off Track Betting Operator",
+            "value": "Horse Racing/Off Track Betting Operator - 040"
+        },
+        {
+            "label": "Manager, Gaming/Casino",
+            "value": "Manager, Gaming/Casino - 050"
+        }
+    ]
+}

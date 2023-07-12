@@ -6,34 +6,41 @@ let data = require('./data')
 let trimData = []
 let pickList = {};
 
-data.forEach(function(ele) {
-  let label = capitalizeFirstLetter(ele[0].trim().toLowerCase());
-  let temp = capitalizeFirstLetter(ele[4].trim().toLowerCase());
-  let code = ele[2];
-  
-  if(code <=9) code = '00' + code;
-  if(code <=99) code = '0' + code;
 
-  if(trimData.length === 0) {
-    pickList = {
-        "label": label,
-        "value": `${label} - ${'0' + ele[1].toString()}`,
-        "listLabel": `${label} - Description`,
-        "list": trimData
-    }
-  }
+generatePickList('en', 'Casino-Gaming');
+generatePickList('fr', 'Casino Et Jeux');
 
-  trimData.push(
-    {
-      "label" : temp,
-      "value" : `${temp} - ${code}`
-    }
-   )
-
-   return pickList
-})
-
-
+function generatePickList(language, title) {
+    data.forEach(function(ele) {
+        let label = capitalizeFirstLetter(ele[0].trim().toLowerCase());
+        let temp = (language === 'en') ? capitalizeFirstLetter(ele[4].trim().toLowerCase()) : capitalizeFirstLetter(ele[ele.length - 1].trim().toLowerCase());
+        let categoryCode = ele[1];
+        let occupationCode = ele[2];
+        
+        if(categoryCode <=9) categoryCode = '00' + categoryCode;
+        if(categoryCode <=99) categoryCode = '0' + categoryCode;
+        if(occupationCode <=9) occupationCode = '00' + occupationCode;
+        if(occupationCode <=99) occupationCode = '0' + occupationCode;
+      
+        if(trimData.length === 0) {
+          pickList = {
+              "label": title,
+              "value": `${label} - ${categoryCode}`,
+              "listLabel": `${label} - Description`,
+              "list": trimData
+          }
+        }
+      
+        trimData.push(
+            {
+              "label" : temp,
+              "value" : `${temp} - ${occupationCode}`
+            }
+        )
+      
+        return saveJSON(`./${language}/categories/${title} - ${categoryCode}.json`, pickList)
+    })
+}
 
 function capitalizeFirstLetter(string) {
     return string.replace(new RegExp("(?:\\b|_)([a-z])", "g"), function($1) {
@@ -41,4 +48,4 @@ function capitalizeFirstLetter(string) {
     });
 }
 
-saveJSON('./en/categories/Bank-Real Estate-Mortgage Professionals - 030.json', pickList)
+
