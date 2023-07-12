@@ -1,17 +1,17 @@
 // script to conver csv data to json picklist, and output to corresponding folder
 const {saveJSON} = require('./saveJSON');
 
-let data = require('./data')
+let csvData = require('./data')
 
 let trimData = []
 let pickList = {};
 
 
-generatePickList('en', 'Casino-Gaming');
-generatePickList('fr', 'Casino Et Jeux');
+generatePickList('en', 'Education-Training');
+generatePickList('fr', 'Education-Formation');
 
 function generatePickList(language, title) {
-    data.forEach(function(ele) {
+    csvData.forEach(function(ele) {
         let label = capitalizeFirstLetter(ele[0].trim().toLowerCase());
         let temp = (language === 'en') ? capitalizeFirstLetter(ele[4].trim().toLowerCase()) : capitalizeFirstLetter(ele[ele.length - 1].trim().toLowerCase());
         let categoryCode = ele[1];

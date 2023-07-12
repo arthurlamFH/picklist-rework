@@ -1,0 +1,127 @@
+{
+  "label": "Computer-Information systems",
+  "value": "Computer/Information Systems - 055",
+  "listLabel": "Computer/Information Systems - Description",
+  "list": [
+    {
+      "label": "Business Systems Specialist",
+      "value": "Business Systems Specialist - 010"
+    },
+    {
+      "label": "Computer Engineer Ex. Sftwr Engineer",
+      "value": "Computer Engineer Ex. Sftwr Engineer - 030"
+    },
+    {
+      "label": "Computer Network And Web Technician",
+      "value": "Computer Network And Web Technician - 040"
+    },
+    {
+      "label": "Computer System Developer/Programmer",
+      "value": "Computer System Developer/Programmer - 050"
+    },
+    {
+      "label": "Cybersecurity Specialist",
+      "value": "Cybersecurity Specialist - 060"
+    },
+    {
+      "label": "Database Analyst/Data Administrator",
+      "value": "Database Analyst/Data Administrator - 070"
+    },
+    {
+      "label": "Information Systems Specialist",
+      "value": "Information Systems Specialist - 080"
+    },
+    {
+      "label": "Information Systems Testing Technician",
+      "value": "Information Systems Testing Technician - 090"
+    },
+    {
+      "label": "Manager, Computer/Information Systems",
+      "value": "Manager, Computer/Information Systems - 095"
+    },
+    {
+      "label": "Project/Change Manager-It",
+      "value": "Project/Change Manager-It - 097"
+    },
+    {
+      "label": "Software Developer And Programmer",
+      "value": "Software Developer And Programmer - 100"
+    },
+    {
+      "label": "Software Engineer And Designer",
+      "value": "Software Engineer And Designer - 110"
+    },
+    {
+      "label": "User Support Technician",
+      "value": "User Support Technician - 120"
+    },
+    {
+      "label": "Web Site/App Designer",
+      "value": "Web Site/App Designer - 130"
+    },
+    {
+      "label": "Web Site/App Developer And Programmer",
+      "value": "Web Site/App Developer And Programmer - 140"
+    },
+    {
+      "label": "Specialiste Des Systemes De Gestion",
+      "value": "Specialiste Des Systemes De Gestion - 010"
+    },
+    {
+      "label": "Ingen. Informat., Sauf Ingen. Logiciels",
+      "value": "Ingen. Informat., Sauf Ingen. Logiciels - 030"
+    },
+    {
+      "label": "Technicien, Reseau Informatique Et Web",
+      "value": "Technicien, Reseau Informatique Et Web - 040"
+    },
+    {
+      "label": "Developpeur/Programmeur De Syst. Inform.",
+      "value": "Developpeur/Programmeur De Syst. Inform. - 050"
+    },
+    {
+      "label": "Specialiste De La Cybersecurite",
+      "value": "Specialiste De La Cybersecurite - 060"
+    },
+    {
+      "label": "Analyste/Administrateur Bases De Donnees",
+      "value": "Analyste/Administrateur Bases De Donnees - 070"
+    },
+    {
+      "label": "Specialiste Des Systemes D’Information",
+      "value": "Specialiste Des Systemes D’Information - 080"
+    },
+    {
+      "label": "Evaluateur De Systemes D’Information",
+      "value": "Evaluateur De Systemes D’Information - 090"
+    },
+    {
+      "label": "Dir., Ordinateurs/Systemes D’Information",
+      "value": "Dir., Ordinateurs/Systemes D’Information - 095"
+    },
+    {
+      "label": "Dir. Projet/Changement–Ti",
+      "value": "Dir. Projet/Changement–Ti - 097"
+    },
+    {
+      "label": "Realisateur De Logiciels Et Programmeur",
+      "value": "Realisateur De Logiciels Et Programmeur - 100"
+    },
+    {
+      "label": "Ingenieur Et Concepteur De Logiciels",
+      "value": "Ingenieur Et Concepteur De Logiciels - 110"
+    },
+    {
+      "label": "Agent De Soutien Aux Utilisateurs",
+      "value": "Agent De Soutien Aux Utilisateurs - 120"
+    },
+    {
+      "label": "Concepteur De Sites Web/D’Applications",
+      "value": "Concepteur De Sites Web/D’Applications - 130"
+    },
+    {
+      "label": "Developp. Et Programm. Sites Web/Appli",
+      "value": "Developp. Et Programm. Sites Web/Appli - 140"
+    }
+  ]
+}

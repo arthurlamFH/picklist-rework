@@ -1,0 +1,183 @@
+{
+  "label": "Community-Care",
+  "value": "Community/Care - 045",
+  "listLabel": "Community/Care - Description",
+  "list": [
+    {
+      "label": "Border/Customs/Immigration Officer",
+      "value": "Border/Customs/Immigration Officer - 010"
+    },
+    {
+      "label": "By-Law Enforcement/Regulatory Officer",
+      "value": "By-Law Enforcement/Regulatory Officer - 020"
+    },
+    {
+      "label": "Chief/Senior Firefighting Officer",
+      "value": "Chief/Senior Firefighting Officer - 030"
+    },
+    {
+      "label": "Combat Member Of The Armed Forces",
+      "value": "Combat Member Of The Armed Forces - 040"
+    },
+    {
+      "label": "Commissioned Armed Forces Officer",
+      "value": "Commissioned Armed Forces Officer - 050"
+    },
+    {
+      "label": "Commissioned Police Officer",
+      "value": "Commissioned Police Officer - 060"
+    },
+    {
+      "label": "Correctional Service Officer",
+      "value": "Correctional Service Officer - 070"
+    },
+    {
+      "label": "Firefighter",
+      "value": "Firefighter - 080"
+    },
+    {
+      "label": "Home Child Care Provider",
+      "value": "Home Child Care Provider - 090"
+    },
+    {
+      "label": "Manager, Community/Correctional Service",
+      "value": "Manager, Community/Correctional Service - 110"
+    },
+    {
+      "label": "Operations Member Of The Armed Forces",
+      "value": "Operations Member Of The Armed Forces - 120"
+    },
+    {
+      "label": "Personal/Home Support Worker/Caregiver",
+      "value": "Personal/Home Support Worker/Caregiver - 125"
+    },
+    {
+      "label": "Police Investigator",
+      "value": "Police Investigator - 130"
+    },
+    {
+      "label": "Police Officer Except Commissioned",
+      "value": "Police Officer Except Commissioned - 140"
+    },
+    {
+      "label": "Probation/Parole Officer",
+      "value": "Probation/Parole Officer - 145"
+    },
+    {
+      "label": "Project/Change Manager-Community",
+      "value": "Project/Change Manager-Community - 147"
+    },
+    {
+      "label": "Security Guard/Security Service",
+      "value": "Security Guard/Security Service - 150"
+    },
+    {
+      "label": "Sheriff And Bailiff",
+      "value": "Sheriff And Bailiff - 160"
+    },
+    {
+      "label": "Social And Community Service Worker",
+      "value": "Social And Community Service Worker - 170"
+    },
+    {
+      "label": "Social Service/Social Worker",
+      "value": "Social Service/Social Worker - 180"
+    },
+    {
+      "label": "Specialized Member Of Armed Forces",
+      "value": "Specialized Member Of Armed Forces - 190"
+    },
+    {
+      "label": "Student Monitor/Crossing Guard",
+      "value": "Student Monitor/Crossing Guard - 200"
+    },
+    {
+      "label": "Agent, Serv. Front./Douanes/Immigration",
+      "value": "Agent, Serv. Front./Douanes/Immigration - 010"
+    },
+    {
+      "label": "Policier",
+      "value": "Policier - 020"
+    },
+    {
+      "label": "Chef/Agent Superieur, Serv. D’Incendie",
+      "value": "Chef/Agent Superieur, Serv. D’Incendie - 030"
+    },
+    {
+      "label": "Combattant Des Forces Armees",
+      "value": "Combattant Des Forces Armees - 040"
+    },
+    {
+      "label": "Officier De Direction Des Forces Armees",
+      "value": "Officier De Direction Des Forces Armees - 050"
+    },
+    {
+      "label": "Commissaire",
+      "value": "Commissaire - 060"
+    },
+    {
+      "label": "Agent Des Services Correctionnels",
+      "value": "Agent Des Services Correctionnels - 070"
+    },
+    {
+      "label": "Pompier",
+      "value": "Pompier - 080"
+    },
+    {
+      "label": "Gardien D’Enfants En Milieu Familial",
+      "value": "Gardien D’Enfants En Milieu Familial - 090"
+    },
+    {
+      "label": "Directeur, Serv. Comm/Serv. Correctionn.",
+      "value": "Directeur, Serv. Comm/Serv. Correctionn. - 110"
+    },
+    {
+      "label": "Membre Des Forces Armees, Operations",
+      "value": "Membre Des Forces Armees, Operations - 120"
+    },
+    {
+      "label": "Aide, Soutien A Domicile/Personnel",
+      "value": "Aide, Soutien A Domicile/Personnel - 125"
+    },
+    {
+      "label": "Enqueteur",
+      "value": "Enqueteur - 130"
+    },
+    {
+      "label": "Agent De La Paix, Sauf Commissionnaire",
+      "value": "Agent De La Paix, Sauf Commissionnaire - 140"
+    },
+    {
+      "label": "Agent De Probat./Liberation Condition.",
+      "value": "Agent De Probat./Liberation Condition. - 145"
+    },
+    {
+      "label": "Dir. Projet/Changement–Collectivite",
+      "value": "Dir. Projet/Changement–Collectivite - 147"
+    },
+    {
+      "label": "Agent De Securite",
+      "value": "Agent De Securite - 150"
+    },
+    {
+      "label": "Sherif Et Huissier",
+      "value": "Sherif Et Huissier - 160"
+    },
+    {
+      "label": "Travailleur, Serv. Sociaux Et Communaut.",
+      "value": "Travailleur, Serv. Sociaux Et Communaut. - 170"
+    },
+    {
+      "label": "Travailleur Social",
+      "value": "Travailleur Social - 180"
+    },
+    {
+      "label": "Membre Specialise Des Forces Armees",
+      "value": "Membre Specialise Des Forces Armees - 190"
+    },
+    {
+      "label": "Surveillant D’Eleves/Brigadier",
+      "value": "Surveillant D’Eleves/Brigadier - 200"
+    }
+  ]
+}
