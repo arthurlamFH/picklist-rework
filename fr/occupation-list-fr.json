@@ -1,0 +1,2549 @@
+{
+  "listLabel": "Occupation List",
+  "list": [
+    {
+      "label": "Accounting/Finance/Insurance",
+      "value": "Accounting/Finance/Insurance - 010",
+      "listLabel": "Accounting/Finance/Insurance - Description",
+      "list": [
+        {
+          "label": "Comptable",
+          "value": "Comptable - 001"
+        },
+        {
+          "label": "Conseiller En Comptabilite",
+          "value": "Conseiller En Comptabilite - 002"
+        },
+        {
+          "label": "Commis Aux Comptes Fournisseurs/Clients",
+          "value": "Commis Aux Comptes Fournisseurs/Clients - 003"
+        },
+        {
+          "label": "Actuaire Ou Analyste En Actuariat",
+          "value": "Actuaire Ou Analyste En Actuariat - 004"
+        },
+        {
+          "label": "Auditeur",
+          "value": "Auditeur - 006"
+        },
+        {
+          "label": "Commis Comptable",
+          "value": "Commis Comptable - 007"
+        },
+        {
+          "label": "Expert En Sinistres",
+          "value": "Expert En Sinistres - 008"
+        },
+        {
+          "label": "Agent De Recouvrement",
+          "value": "Agent De Recouvrement - 009"
+        },
+        {
+          "label": "Comptable/Analyste En Finances",
+          "value": "Comptable/Analyste En Finances - 011"
+        },
+        {
+          "label": "Analyste Financier/Chercheur",
+          "value": "Analyste Financier/Chercheur - 012"
+        },
+        {
+          "label": "Controleur Financier",
+          "value": "Controleur Financier - 013"
+        },
+        {
+          "label": "Planificateur Financier",
+          "value": "Planificateur Financier - 014"
+        },
+        {
+          "label": "Representant/Courtier En Prod. Financ.",
+          "value": "Representant/Courtier En Prod. Financ. - 015"
+        },
+        {
+          "label": "Comptable De Fonds",
+          "value": "Comptable De Fonds - 017"
+        },
+        {
+          "label": "Analyste En Placements",
+          "value": "Analyste En Placements - 019"
+        },
+        {
+          "label": "Courtier En Placements",
+          "value": "Courtier En Placements - 020"
+        },
+        {
+          "label": "Courtier En Valeurs Mobilieres",
+          "value": "Courtier En Valeurs Mobilieres - 022"
+        },
+        {
+          "label": "Conseiller En Placement",
+          "value": "Conseiller En Placement - 023"
+        },
+        {
+          "label": "Tarificateur",
+          "value": "Tarificateur - 024"
+        },
+        {
+          "label": "Gestionnaire De Risques/Conformite",
+          "value": "Gestionnaire De Risques/Conformite - 025"
+        },
+        {
+          "label": "Analyste Des Valeurs/Recherchiste",
+          "value": "Analyste Des Valeurs/Recherchiste - 026"
+        },
+        {
+          "label": "Comptable Fiscaliste",
+          "value": "Comptable Fiscaliste - 027"
+        },
+        {
+          "label": "Agent D'Imposition Et De Recouvrement",
+          "value": "Agent D'Imposition Et De Recouvrement - 028"
+        },
+        {
+          "label": "Evaluateur/Evaluateur D’Entreprise",
+          "value": "Evaluateur/Evaluateur D’Entreprise - 030"
+        },
+        {
+          "label": "Conseiller En Gestion Des Affaires",
+          "value": "Conseiller En Gestion Des Affaires - 040"
+        },
+        {
+          "label": "Economiste",
+          "value": "Economiste - 050"
+        },
+        {
+          "label": "Agent/Courtier D’Assurance",
+          "value": "Agent/Courtier D’Assurance - 060"
+        },
+        {
+          "label": "Directeur Financier",
+          "value": "Directeur Financier - 070"
+        },
+        {
+          "label": "Dir. Projet/Changement - Compta/Fin/Ass",
+          "value": "Dir. Projet/Changement - Compta/Fin/Ass - 080"
+        },
+        {
+          "label": "Surveill., Services Finan./Assurances",
+          "value": "Surveill., Services Finan./Assurances - 090"
+        }
+      ]
+    },
+    {
+      "label": "Administrative/Clerical",
+      "value": "Administrative/Clerical - 020",
+      "listLabel": "Administrative/Clerical - Description",
+      "list": [
+        {
+          "label": "Adjoint Administratif",
+          "value": "Adjoint Administratif - 001"
+        },
+        {
+          "label": "Prepose Aux Demandes De Reglement",
+          "value": "Prepose Aux Demandes De Reglement - 003"
+        },
+        {
+          "label": "Adjoint De Direction",
+          "value": "Adjoint De Direction - 005"
+        },
+        {
+          "label": "Agent Administratif",
+          "value": "Agent Administratif - 020"
+        },
+        {
+          "label": "Profess., Publicite/Market./Rel. Pub.",
+          "value": "Profess., Publicite/Market./Rel. Pub. - 030"
+        },
+        {
+          "label": "Planificateur De Conferences/Evenements",
+          "value": "Planificateur De Conferences/Evenements - 040"
+        },
+        {
+          "label": "Commis A La Correspondance/Publications",
+          "value": "Commis A La Correspondance/Publications - 050"
+        },
+        {
+          "label": "Greffier/Agent, Services Juridiques",
+          "value": "Greffier/Agent, Services Juridiques - 060"
+        },
+        {
+          "label": "Steno. Judiciaire/Transcript. Medical",
+          "value": "Steno. Judiciaire/Transcript. Medical - 070"
+        },
+        {
+          "label": "Courtier Douanes, Exped./Autres Court.",
+          "value": "Courtier Douanes, Exped./Autres Court. - 080"
+        },
+        {
+          "label": "Commis A La Saisie De Donnees",
+          "value": "Commis A La Saisie De Donnees - 090"
+        },
+        {
+          "label": "Operateur D’Equipement D’Editique",
+          "value": "Operateur D’Equipement D’Editique - 100"
+        },
+        {
+          "label": "Agent D’Assurance-Emploi/Des Recettes",
+          "value": "Agent D’Assurance-Emploi/Des Recettes - 110"
+        },
+        {
+          "label": "Employes De Soutien De Bureau Generaux",
+          "value": "Employes De Soutien De Bureau Generaux - 120"
+        },
+        {
+          "label": "Professionnels En Ressources Humaines",
+          "value": "Professionnels En Ressources Humaines - 140"
+        },
+        {
+          "label": "Agent En Ressources Humaines/Recrutement",
+          "value": "Agent En Ressources Humaines/Recrutement - 150"
+        },
+        {
+          "label": "Commis De Bibliotheque",
+          "value": "Commis De Bibliotheque - 160"
+        },
+        {
+          "label": "Directeur, Publicite/Market./Rel. Pub.",
+          "value": "Directeur, Publicite/Market./Rel. Pub. - 170"
+        },
+        {
+          "label": "Directeur, Renseignements De Sante",
+          "value": "Directeur, Renseignements De Sante - 175"
+        },
+        {
+          "label": "Directeurs, Ressources Humaines",
+          "value": "Directeurs, Ressources Humaines - 180"
+        },
+        {
+          "label": "Directeur, Achats",
+          "value": "Directeur, Achats - 190"
+        },
+        {
+          "label": "Adjoint Administratif - Medecine",
+          "value": "Adjoint Administratif - Medecine - 200"
+        },
+        {
+          "label": "Administrateur De La Paie",
+          "value": "Administrateur De La Paie - 210"
+        },
+        {
+          "label": "Commis Au Personnel",
+          "value": "Commis Au Personnel - 220"
+        },
+        {
+          "label": "Charge, Passation Des Marches/Acheteur",
+          "value": "Charge, Passation Des Marches/Acheteur - 230"
+        },
+        {
+          "label": "Dir. Projet/Changement–Soutien Au Bureau",
+          "value": "Dir. Projet/Changement–Soutien Au Bureau - 235"
+        },
+        {
+          "label": "Administrateur D’Immeubles",
+          "value": "Administrateur D’Immeubles - 240"
+        },
+        {
+          "label": "Receptionniste",
+          "value": "Receptionniste - 250"
+        },
+        {
+          "label": "Technicien, Gestion De La Documentation",
+          "value": "Technicien, Gestion De La Documentation - 260"
+        },
+        {
+          "label": "Commis Aux Reglements",
+          "value": "Commis Aux Reglements - 270"
+        },
+        {
+          "label": "Agent De Statist./Soutien A La Recherche",
+          "value": "Agent De Statist./Soutien A La Recherche - 280"
+        },
+        {
+          "label": "Magasinier/Commis Aux Pieces",
+          "value": "Magasinier/Commis Aux Pieces - 290"
+        },
+        {
+          "label": "Superviseur, Bureau Gen./Admin./Soutien",
+          "value": "Superviseur, Bureau Gen./Admin./Soutien - 300"
+        },
+        {
+          "label": "Surveillant De Bibliotheque/Du Courrier",
+          "value": "Surveillant De Bibliotheque/Du Courrier - 310"
+        },
+        {
+          "label": "Interview. D’Enquete/Commis Aux Statist.",
+          "value": "Interview. D’Enquete/Commis Aux Statist. - 320"
+        }
+      ]
+    },
+    {
+      "label": "Art/Culture",
+      "value": "Art/Culture - 025",
+      "listLabel": "Art/Culture - Description",
+      "list": [
+        {
+          "label": "Acteur, Comedien Et Interprete De Cirque",
+          "value": "Acteur, Comedien Et Interprete De Cirque - 010"
+        },
+        {
+          "label": "Agent, Sports/Divertissement",
+          "value": "Agent, Sports/Divertissement - 015"
+        },
+        {
+          "label": "Chef D’Antenne/Diffuseur",
+          "value": "Chef D’Antenne/Diffuseur - 020"
+        },
+        {
+          "label": "Archiviste",
+          "value": "Archiviste - 030"
+        },
+        {
+          "label": "Artisan",
+          "value": "Artisan - 040"
+        },
+        {
+          "label": "Technicien, Enregistrements Audio/Video",
+          "value": "Technicien, Enregistrements Audio/Video - 050"
+        },
+        {
+          "label": "Auteur Et Ecrivain, Sauf Technique",
+          "value": "Auteur Et Ecrivain, Sauf Technique - 060"
+        },
+        {
+          "label": "Technicien En Radiotelediffusion",
+          "value": "Technicien En Radiotelediffusion - 070"
+        },
+        {
+          "label": "Chef D’Orchestre/Compositeur/Arrangeur",
+          "value": "Chef D’Orchestre/Compositeur/Arrangeur - 080"
+        },
+        {
+          "label": "Restaurateur/Conservateur",
+          "value": "Restaurateur/Conservateur - 090"
+        },
+        {
+          "label": "Danceur",
+          "value": "Danceur - 100"
+        },
+        {
+          "label": "Editeur",
+          "value": "Editeur - 110"
+        },
+        {
+          "label": "Assist. Et Operateur De Cinema/Telediff.",
+          "value": "Assist. Et Operateur De Cinema/Telediff. - 120"
+        },
+        {
+          "label": "Operateur De Camera",
+          "value": "Operateur De Camera - 130"
+        },
+        {
+          "label": "Technicien En Arts Graphiques",
+          "value": "Technicien En Arts Graphiques - 140"
+        },
+        {
+          "label": "Graphistes/Illustrateur",
+          "value": "Graphistes/Illustrateur - 150"
+        },
+        {
+          "label": "Influenceur/Modele",
+          "value": "Influenceur/Modele - 160"
+        },
+        {
+          "label": "Designer/Decorateur D’Interieur",
+          "value": "Designer/Decorateur D’Interieur - 170"
+        },
+        {
+          "label": "Journaliste",
+          "value": "Journaliste - 180"
+        },
+        {
+          "label": "Bibliothecaire",
+          "value": "Bibliothecaire - 190"
+        },
+        {
+          "label": "Techn. De Biblioth./Archives Publiques",
+          "value": "Techn. De Biblioth./Archives Publiques - 200"
+        },
+        {
+          "label": "Direct. De Biblioth./Musee/Galerie D’Art",
+          "value": "Direct. De Biblioth./Musee/Galerie D’Art - 210"
+        },
+        {
+          "label": "Directeur, Sports/Divertissement",
+          "value": "Directeur, Sports/Divertissement - 215"
+        },
+        {
+          "label": "Direct., Edit./Cinema/Diff./Spectacles",
+          "value": "Direct., Edit./Cinema/Diff./Spectacles - 220"
+        },
+        {
+          "label": "Registraire/Restaurat./Interpr. De Musee",
+          "value": "Registraire/Restaurat./Interpr. De Musee - 230"
+        },
+        {
+          "label": "Musicien/Chanteur",
+          "value": "Musicien/Chanteur - 240"
+        },
+        {
+          "label": "Peintre/Sculpteur/Artiste, Arts Visuels",
+          "value": "Peintre/Sculpteur/Artiste, Arts Visuels - 250"
+        },
+        {
+          "label": "Photographe",
+          "value": "Photographe - 260"
+        },
+        {
+          "label": "Travailleur En Photographie/Spectacles",
+          "value": "Travailleur En Photographie/Spectacles - 270"
+        },
+        {
+          "label": "Producteur/Directeur/Choregraphe",
+          "value": "Producteur/Directeur/Choregraphe - 280"
+        },
+        {
+          "label": "Dir. Projet/Changement–Arts Et Culture",
+          "value": "Dir. Projet/Changement–Arts Et Culture - 285"
+        },
+        {
+          "label": "Redacteur Technique",
+          "value": "Redacteur Technique - 290"
+        },
+        {
+          "label": "Patroniste",
+          "value": "Patroniste - 300"
+        },
+        {
+          "label": "Scenographe/Modeliste/Designer D’Expos.",
+          "value": "Scenographe/Modeliste/Designer D’Expos. - 310"
+        },
+        {
+          "label": "Traducteur/Terminologue/Interprete",
+          "value": "Traducteur/Terminologue/Interprete - 320"
+        }
+      ]
+    },
+    {
+      "label": "Bank/Real Estate/Mortgage Professionals",
+      "value": "Bank/Real Estate/Mortgage Professionals - 030",
+      "listLabel": "Bank/Real Estate/Mortgage Professionals - Description",
+      "list": [
+        {
+          "label": "Caissier De Banque",
+          "value": "Caissier De Banque - 001"
+        },
+        {
+          "label": "Analyste/Verificateur De Credit",
+          "value": "Analyste/Verificateur De Credit - 005"
+        },
+        {
+          "label": "Depositaire Legal",
+          "value": "Depositaire Legal - 008"
+        },
+        {
+          "label": "Representant/Conseiller En Serv. Financ.",
+          "value": "Representant/Conseiller En Serv. Financ. - 009"
+        },
+        {
+          "label": "Banquier D'Affaires",
+          "value": "Banquier D'Affaires - 010"
+        },
+        {
+          "label": "Agent De Prets",
+          "value": "Agent De Prets - 011"
+        },
+        {
+          "label": "Courtier En Prets Hypothecaires",
+          "value": "Courtier En Prets Hypothecaires - 012"
+        },
+        {
+          "label": "Agent Immobilier",
+          "value": "Agent Immobilier - 013"
+        },
+        {
+          "label": "Agent Immobilier - Location/Acquisition",
+          "value": "Agent Immobilier - Location/Acquisition - 014"
+        },
+        {
+          "label": "Evaluateur Immobilier",
+          "value": "Evaluateur Immobilier - 015"
+        },
+        {
+          "label": "Courtier Immobilier",
+          "value": "Courtier Immobilier - 016"
+        },
+        {
+          "label": "Promoteur Immobilier",
+          "value": "Promoteur Immobilier - 017"
+        },
+        {
+          "label": "Souscripteur",
+          "value": "Souscripteur - 020"
+        },
+        {
+          "label": "Directeur De Banque/Instit. Financiere",
+          "value": "Directeur De Banque/Instit. Financiere - 030"
+        },
+        {
+          "label": "Directeur Du Credit",
+          "value": "Directeur Du Credit - 040"
+        },
+        {
+          "label": "Dir. Projet/Changement–Banque/Immobilier",
+          "value": "Dir. Projet/Changement–Banque/Immobilier - 050"
+        },
+        {
+          "label": "Investisseur Immobilier",
+          "value": "Investisseur Immobilier - 060"
+        }
+      ]
+    },
+    {
+      "label": "Casino/Gaming",
+      "value": "Casino/Gaming - 035",
+      "listLabel": "Casino/Gaming - Description",
+      "list": [
+        {
+          "label": "Exploitant De Casino/Croupier",
+          "value": "Exploitant De Casino/Croupier - 010"
+        },
+        {
+          "label": "Caissier De Casino",
+          "value": "Caissier De Casino - 020"
+        },
+        {
+          "label": "Agent De Securite Dans Un Casino",
+          "value": "Agent De Securite Dans Un Casino - 030"
+        },
+        {
+          "label": "Exploit. D’Hippod./Paris Hors Piste",
+          "value": "Exploit. D’Hippod./Paris Hors Piste - 040"
+        },
+        {
+          "label": "Directeur De Jeux/Casino",
+          "value": "Directeur De Jeux/Casino - 050"
+        }
+      ]
+    },
+    {
+      "label": "Community/Care",
+      "value": "Community/Care - 045",
+      "listLabel": "Community/Care - Description",
+      "list": [
+        {
+          "label": "Agent, Serv. Front./Douanes/Immigration",
+          "value": "Agent, Serv. Front./Douanes/Immigration - 010"
+        },
+        {
+          "label": "Policier",
+          "value": "Policier - 020"
+        },
+        {
+          "label": "Chef/Agent Superieur, Serv. D’Incendie",
+          "value": "Chef/Agent Superieur, Serv. D’Incendie - 030"
+        },
+        {
+          "label": "Combattant Des Forces Armees",
+          "value": "Combattant Des Forces Armees - 040"
+        },
+        {
+          "label": "Officier De Direction Des Forces Armees",
+          "value": "Officier De Direction Des Forces Armees - 050"
+        },
+        {
+          "label": "Commissaire",
+          "value": "Commissaire - 060"
+        },
+        {
+          "label": "Agent Des Services Correctionnels",
+          "value": "Agent Des Services Correctionnels - 070"
+        },
+        {
+          "label": "Pompier",
+          "value": "Pompier - 080"
+        },
+        {
+          "label": "Gardien D’Enfants En Milieu Familial",
+          "value": "Gardien D’Enfants En Milieu Familial - 090"
+        },
+        {
+          "label": "Directeur, Serv. Comm/Serv. Correctionn.",
+          "value": "Directeur, Serv. Comm/Serv. Correctionn. - 110"
+        },
+        {
+          "label": "Membre Des Forces Armees, Operations",
+          "value": "Membre Des Forces Armees, Operations - 120"
+        },
+        {
+          "label": "Aide, Soutien A Domicile/Personnel",
+          "value": "Aide, Soutien A Domicile/Personnel - 125"
+        },
+        {
+          "label": "Enqueteur",
+          "value": "Enqueteur - 130"
+        },
+        {
+          "label": "Agent De La Paix, Sauf Commissionnaire",
+          "value": "Agent De La Paix, Sauf Commissionnaire - 140"
+        },
+        {
+          "label": "Agent De Probat./Liberation Condition.",
+          "value": "Agent De Probat./Liberation Condition. - 145"
+        },
+        {
+          "label": "Dir. Projet/Changement–Collectivite",
+          "value": "Dir. Projet/Changement–Collectivite - 147"
+        },
+        {
+          "label": "Agent De Securite",
+          "value": "Agent De Securite - 150"
+        },
+        {
+          "label": "Sherif Et Huissier",
+          "value": "Sherif Et Huissier - 160"
+        },
+        {
+          "label": "Travailleur, Serv. Sociaux Et Communaut.",
+          "value": "Travailleur, Serv. Sociaux Et Communaut. - 170"
+        },
+        {
+          "label": "Travailleur Social",
+          "value": "Travailleur Social - 180"
+        },
+        {
+          "label": "Membre Specialise Des Forces Armees",
+          "value": "Membre Specialise Des Forces Armees - 190"
+        },
+        {
+          "label": "Surveillant D’Eleves/Brigadier",
+          "value": "Surveillant D’Eleves/Brigadier - 200"
+        }
+      ]
+    },
+    {
+      "label": "Computer/Information Systems",
+      "value": "Computer/Information Systems - 055",
+      "listLabel": "Computer/Information Systems - Description",
+      "list": [
+        {
+          "label": "Specialiste Des Systemes De Gestion",
+          "value": "Specialiste Des Systemes De Gestion - 010"
+        },
+        {
+          "label": "Ingen. Informat., Sauf Ingen. Logiciels",
+          "value": "Ingen. Informat., Sauf Ingen. Logiciels - 030"
+        },
+        {
+          "label": "Technicien, Reseau Informatique Et Web",
+          "value": "Technicien, Reseau Informatique Et Web - 040"
+        },
+        {
+          "label": "Developpeur/Programmeur De Syst. Inform.",
+          "value": "Developpeur/Programmeur De Syst. Inform. - 050"
+        },
+        {
+          "label": "Specialiste De La Cybersecurite",
+          "value": "Specialiste De La Cybersecurite - 060"
+        },
+        {
+          "label": "Analyste/Administrateur Bases De Donnees",
+          "value": "Analyste/Administrateur Bases De Donnees - 070"
+        },
+        {
+          "label": "Specialiste Des Systemes D’Information",
+          "value": "Specialiste Des Systemes D’Information - 080"
+        },
+        {
+          "label": "Evaluateur De Systemes D’Information",
+          "value": "Evaluateur De Systemes D’Information - 090"
+        },
+        {
+          "label": "Dir., Ordinateurs/Systemes D’Information",
+          "value": "Dir., Ordinateurs/Systemes D’Information - 095"
+        },
+        {
+          "label": "Dir. Projet/Changement–Ti",
+          "value": "Dir. Projet/Changement–Ti - 097"
+        },
+        {
+          "label": "Realisateur De Logiciels Et Programmeur",
+          "value": "Realisateur De Logiciels Et Programmeur - 100"
+        },
+        {
+          "label": "Ingenieur Et Concepteur De Logiciels",
+          "value": "Ingenieur Et Concepteur De Logiciels - 110"
+        },
+        {
+          "label": "Agent De Soutien Aux Utilisateurs",
+          "value": "Agent De Soutien Aux Utilisateurs - 120"
+        },
+        {
+          "label": "Concepteur De Sites Web/D’Applications",
+          "value": "Concepteur De Sites Web/D’Applications - 130"
+        },
+        {
+          "label": "Developp. Et Programm. Sites Web/Appli",
+          "value": "Developp. Et Programm. Sites Web/Appli - 140"
+        }
+      ]
+    },
+    {
+      "label": "Contractor/Mechanic/Repairer",
+      "value": "Contractor/Mechanic/Repairer - 065",
+      "listLabel": "Contractor/Mechanic/Repairer - Description",
+      "list": [
+        {
+          "label": "Reparateur D’Appareils Menagers",
+          "value": "Reparateur D’Appareils Menagers - 010"
+        },
+        {
+          "label": "Estimateur En Carrosserie",
+          "value": "Estimateur En Carrosserie - 020"
+        },
+        {
+          "label": "Technicien En Reparation De Carrosserie",
+          "value": "Technicien En Reparation De Carrosserie - 030"
+        },
+        {
+          "label": "Mecanicien Automobile",
+          "value": "Mecanicien Automobile - 040"
+        },
+        {
+          "label": "Mecanicien De Chantier De Construction",
+          "value": "Mecanicien De Chantier De Construction - 050"
+        },
+        {
+          "label": "Electromecanicien",
+          "value": "Electromecanicien - 060"
+        },
+        {
+          "label": "Reparateur Electron., Resident./Comm.",
+          "value": "Reparateur Electron., Resident./Comm. - 070"
+        },
+        {
+          "label": "Constructeur Et Mecanicien D’Ascenseurs",
+          "value": "Constructeur Et Mecanicien D’Ascenseurs - 080"
+        },
+        {
+          "label": "Entretien General/Reparateur",
+          "value": "Entretien General/Reparateur - 090"
+        },
+        {
+          "label": "Mecanicien De Materiel Lourd",
+          "value": "Mecanicien De Materiel Lourd - 100"
+        },
+        {
+          "label": "Mecanicien/Technicien, Cvc",
+          "value": "Mecanicien/Technicien, Cvc - 110"
+        },
+        {
+          "label": "Mecanicien Industriel",
+          "value": "Mecanicien Industriel - 120"
+        },
+        {
+          "label": "Directeur, Construction",
+          "value": "Directeur, Construction - 130"
+        },
+        {
+          "label": "Directeur, Construction/Renovation Res.",
+          "value": "Directeur, Construction/Renovation Res. - 140"
+        },
+        {
+          "label": "Mecanicien, Chauff. Mazout Et Comb. Sol.",
+          "value": "Mecanicien, Chauff. Mazout Et Comb. Sol. - 150"
+        },
+        {
+          "label": "Superviseur, Menuiserie",
+          "value": "Superviseur, Menuiserie - 160"
+        },
+        {
+          "label": "Superviseur, Eletricite/Telecommunic.",
+          "value": "Superviseur, Eletricite/Telecommunic. - 170"
+        },
+        {
+          "label": "Superviseur, Usinage/Travail Des Metaux",
+          "value": "Superviseur, Usinage/Travail Des Metaux - 180"
+        },
+        {
+          "label": "Superviseur, Mecanique",
+          "value": "Superviseur, Mecanique - 190"
+        },
+        {
+          "label": "Superviseur, Plomberie",
+          "value": "Superviseur, Plomberie - 200"
+        },
+        {
+          "label": "Install./Reparat. Lignes/Cables Telecom.",
+          "value": "Install./Reparat. Lignes/Cables Telecom. - 210"
+        }
+      ]
+    },
+    {
+      "label": "Education/Training",
+      "value": "Education/Training - 090",
+      "listLabel": "Education/Training - Description",
+      "list": [
+        {
+          "label": "Administrateur D'Ecole Ou De College",
+          "value": "Administrateur D'Ecole Ou De College - 012"
+        },
+        {
+          "label": "Directeur D'Ecole",
+          "value": "Directeur D'Ecole - 013"
+        },
+        {
+          "label": "Orienteur",
+          "value": "Orienteur - 020"
+        },
+        {
+          "label": "Formateur, Collegial Et Professionnel",
+          "value": "Formateur, Collegial Et Professionnel - 030"
+        },
+        {
+          "label": "Moniteur D’Autoecole",
+          "value": "Moniteur D’Autoecole - 040"
+        },
+        {
+          "label": "Educateur/Assistant A La Petite Enfance",
+          "value": "Educateur/Assistant A La Petite Enfance - 050"
+        },
+        {
+          "label": "Conseiller Pedogique",
+          "value": "Conseiller Pedogique - 060"
+        },
+        {
+          "label": "Enseignant Au Primaire/A La Maternelle",
+          "value": "Enseignant Au Primaire/A La Maternelle - 070"
+        },
+        {
+          "label": "Directeur, Enseignement Primaire/Second.",
+          "value": "Directeur, Enseignement Primaire/Second. - 080"
+        },
+        {
+          "label": "Instructeur De Vol",
+          "value": "Instructeur De Vol - 090"
+        },
+        {
+          "label": "Educateur Pour Personnes Handicapees",
+          "value": "Educateur Pour Personnes Handicapees - 100"
+        },
+        {
+          "label": "Adjoint, Enseignement/Recherche Postsec.",
+          "value": "Adjoint, Enseignement/Recherche Postsec. - 110"
+        },
+        {
+          "label": "Dir. Projet/Changement–Formation",
+          "value": "Dir. Projet/Changement–Formation - 115"
+        },
+        {
+          "label": "Enseignant Au Secondaire",
+          "value": "Enseignant Au Secondaire - 120"
+        },
+        {
+          "label": "Professeur A L’Universite",
+          "value": "Professeur A L’Universite - 130"
+        }
+      ]
+    },
+    {
+      "label": "Engineering",
+      "value": "Engineering - 095",
+      "listLabel": "Engineering - Description",
+      "list": [
+        {
+          "label": "Ingenieur En Aerospatiale",
+          "value": "Ingenieur En Aerospatiale - 010"
+        },
+        {
+          "label": "Pilote/Mecanicien De Bord",
+          "value": "Pilote/Mecanicien De Bord - 015"
+        },
+        {
+          "label": "Ingenieur Chimiste",
+          "value": "Ingenieur Chimiste - 020"
+        },
+        {
+          "label": "Ingenieur Civil",
+          "value": "Ingenieur Civil - 030"
+        },
+        {
+          "label": "Ingenieur Electricien/Electronicien",
+          "value": "Ingenieur Electricien/Electronicien - 040"
+        },
+        {
+          "label": "Techncien, Genie Electronique",
+          "value": "Techncien, Genie Electronique - 050"
+        },
+        {
+          "label": "Inspecteur, Ingenierie/Agent Des Reglem.",
+          "value": "Inspecteur, Ingenierie/Agent Des Reglem. - 060"
+        },
+        {
+          "label": "Ingenieur En Geologie",
+          "value": "Ingenieur En Geologie - 080"
+        },
+        {
+          "label": "Technologue/Technicien, Genie Industriel",
+          "value": "Technologue/Technicien, Genie Industriel - 090"
+        },
+        {
+          "label": "Technologue/Technicien, Fabr. Industr.",
+          "value": "Technologue/Technicien, Fabr. Industr. - 100"
+        },
+        {
+          "label": "Ingenieur Industriel/En Fabrication",
+          "value": "Ingenieur Industriel/En Fabrication - 110"
+        },
+        {
+          "label": "Directeur, Ingenierie",
+          "value": "Directeur, Ingenierie - 115"
+        },
+        {
+          "label": "Ingenieur Mecanique",
+          "value": "Ingenieur Mecanique - 120"
+        },
+        {
+          "label": "Technicien En Genie Mecanique",
+          "value": "Technicien En Genie Mecanique - 130"
+        },
+        {
+          "label": "Ingenieur Metallurgiste/En Materiaux",
+          "value": "Ingenieur Metallurgiste/En Materiaux - 140"
+        },
+        {
+          "label": "Ingenieur Minier",
+          "value": "Ingenieur Minier - 150"
+        },
+        {
+          "label": "Ingenieur Petrolier",
+          "value": "Ingenieur Petrolier - 160"
+        },
+        {
+          "label": "Dir. Projet/Changement, Ingenierie",
+          "value": "Dir. Projet/Changement, Ingenierie - 170"
+        },
+        {
+          "label": "Mecanicien De Locom./De Cour De Triage",
+          "value": "Mecanicien De Locom./De Cour De Triage - 180"
+        }
+      ]
+    },
+    {
+      "label": "Executive/Senior Management",
+      "value": "Executive/Senior Management - 105",
+      "listLabel": "Executive/Senior Management - Description",
+      "list": [
+        {
+          "label": "Dirigeant De Banque",
+          "value": "Dirigeant De Banque - 010"
+        },
+        {
+          "label": "Haute Dir./Dir.Principal, Diffusion Org",
+          "value": "Haute Dir./Dir.Principal, Diffusion Org - 020"
+        },
+        {
+          "label": "Haute Dir./Dir. Principal, Construction",
+          "value": "Haute Dir./Dir. Principal, Construction - 030"
+        },
+        {
+          "label": "Haute Dir./Dir.Princ., Educ./Formation",
+          "value": "Haute Dir./Dir.Princ., Educ./Formation - 040"
+        },
+        {
+          "label": "Haute Dir./Dir. Princ., Sante Medecine",
+          "value": "Haute Dir./Dir. Princ., Sante Medecine - 050"
+        },
+        {
+          "label": "Haute Dir./Dir. Princ., Fabrication/Prod",
+          "value": "Haute Dir./Dir. Princ., Fabrication/Prod - 060"
+        },
+        {
+          "label": "Haute Dir./Dir. Princ., Ventes/Services",
+          "value": "Haute Dir./Dir. Princ., Ventes/Services - 070"
+        },
+        {
+          "label": "Haute Dir./Dir. Princ., Org. Comm. Soc.",
+          "value": "Haute Dir./Dir. Princ., Org. Comm. Soc. - 080"
+        },
+        {
+          "label": "Haute Dir./Dir. Princ., Operations",
+          "value": "Haute Dir./Dir. Princ., Operations - 090"
+        },
+        {
+          "label": "Haute Dir./Dir. Princ., Transp./Logist.",
+          "value": "Haute Dir./Dir. Princ., Transp./Logist. - 100"
+        },
+        {
+          "label": "Dirigeant Principal Des Finances",
+          "value": "Dirigeant Principal Des Finances - 110"
+        },
+        {
+          "label": "President/Chef Ou Directeur Principal",
+          "value": "President/Chef Ou Directeur Principal - 120"
+        }
+      ]
+    },
+    {
+      "label": "Food Service",
+      "value": "Food Service - 115",
+      "listLabel": "Food Service - Description",
+      "list": [
+        {
+          "label": "Patissier",
+          "value": "Patissier - 010"
+        },
+        {
+          "label": "Barman",
+          "value": "Barman - 020"
+        },
+        {
+          "label": "Boucher, Commerce De Detail/De Gros",
+          "value": "Boucher, Commerce De Detail/De Gros - 030"
+        },
+        {
+          "label": "Chef Cuisinier",
+          "value": "Chef Cuisinier - 040"
+        },
+        {
+          "label": "Cuisinier",
+          "value": "Cuisinier - 050"
+        },
+        {
+          "label": "Poissonnier, Commerce De Detail/De Gros",
+          "value": "Poissonnier, Commerce De Detail/De Gros - 060"
+        },
+        {
+          "label": "Prepose, Services Alim./Aide-Cuisinier",
+          "value": "Prepose, Services Alim./Aide-Cuisinier - 070"
+        },
+        {
+          "label": "Serveur D’Aliments Et De Boissons",
+          "value": "Serveur D’Aliments Et De Boissons - 080"
+        },
+        {
+          "label": "Directeur De Restaurant/Services Alim.",
+          "value": "Directeur De Restaurant/Services Alim. - 090"
+        },
+        {
+          "label": "Decoupeur De Viande, Comm. Detail/ Gros",
+          "value": "Decoupeur De Viande, Comm. Detail/ Gros - 100"
+        }
+      ]
+    },
+    {
+      "label": "Government/Diplomatic",
+      "value": "Government/Diplomatic - 140",
+      "listLabel": "Government/Diplomatic - Description",
+      "list": [
+        {
+          "label": "Chef De Bande Autochtone",
+          "value": "Chef De Bande Autochtone - 001"
+        },
+        {
+          "label": "Ambassadeur",
+          "value": "Ambassadeur - 002"
+        },
+        {
+          "label": "Membre Du Conseil Executif",
+          "value": "Membre Du Conseil Executif - 005"
+        },
+        {
+          "label": "Chef D'Un Organisme Gouvernemental",
+          "value": "Chef D'Un Organisme Gouvernemental - 006"
+        },
+        {
+          "label": "Chef D'Etat Ou Chef De Gouvernement",
+          "value": "Chef D'Etat Ou Chef De Gouvernement - 007"
+        },
+        {
+          "label": "Chef Ou President D'Un Parti Politique",
+          "value": "Chef Ou President D'Un Parti Politique - 008"
+        },
+        {
+          "label": "Depute",
+          "value": "Depute - 009"
+        },
+        {
+          "label": "President Societe D'Etat/Banque Centrale",
+          "value": "President Societe D'Etat/Banque Centrale - 010"
+        },
+        {
+          "label": "Maire",
+          "value": "Maire - 011"
+        },
+        {
+          "label": "Conseiller Municipal",
+          "value": "Conseiller Municipal - 012"
+        },
+        {
+          "label": "Agent/Recherchiste, Devel. Economique",
+          "value": "Agent/Recherchiste, Devel. Economique - 020"
+        },
+        {
+          "label": "Sous-Ministre Ou Rang Equivalent",
+          "value": "Sous-Ministre Ou Rang Equivalent - 030"
+        },
+        {
+          "label": "Diplomate, Y Compris Attache/Conseiller",
+          "value": "Diplomate, Y Compris Attache/Conseiller - 040"
+        },
+        {
+          "label": "Rech./Agent, Politiques De L’Enseign.",
+          "value": "Rech./Agent, Politiques De L’Enseign. - 060"
+        },
+        {
+          "label": "Gestion. Gouv. Analy. Econ., Elab. Prog.",
+          "value": "Gestion. Gouv. Analy. Econ., Elab. Prog. - 070"
+        },
+        {
+          "label": "Gestion. Gouv. Elab. Prog. D’Enseign.",
+          "value": "Gestion. Gouv. Elab. Prog. D’Enseign. - 080"
+        },
+        {
+          "label": "Gestion. Gouv. Elab. Prog. Sante/Soc.",
+          "value": "Gestion. Gouv. Elab. Prog. Sante/Soc. - 090"
+        },
+        {
+          "label": "Recherch./Agent, Prog. Politiques Sante",
+          "value": "Recherch./Agent, Prog. Politiques Sante - 100"
+        },
+        {
+          "label": "Officier - General Ou Grade Superieur",
+          "value": "Officier - General Ou Grade Superieur - 105"
+        },
+        {
+          "label": "Recherch./Agent, Prog. Et Politiques",
+          "value": "Recherch./Agent, Prog. Et Politiques - 110"
+        },
+        {
+          "label": "Agent De Prog. Propre Au Gouvernement",
+          "value": "Agent De Prog. Propre Au Gouvernement - 120"
+        },
+        {
+          "label": "Dir. Projet/Changement–Org Gouvernement",
+          "value": "Dir. Projet/Changement–Org Gouvernement - 125"
+        },
+        {
+          "label": "Recherch./Agent Prog. Sports Et Loisirs",
+          "value": "Recherch./Agent Prog. Sports Et Loisirs - 130"
+        },
+        {
+          "label": "Prefet",
+          "value": "Prefet - 140"
+        },
+        {
+          "label": "Recherch./Agent Prog. Polit. Sociales",
+          "value": "Recherch./Agent Prog. Polit. Sociales - 150"
+        },
+        {
+          "label": "Dirigeant Organisation Internationale",
+          "value": "Dirigeant Organisation Internationale - 160"
+        }
+      ]
+    },
+    {
+      "label": "Labourer/Assembly Worker",
+      "value": "Labourer/Assembly Worker - 145",
+      "listLabel": "Labourer/Assembly Worker - Description",
+      "list": [
+        {
+          "label": "Monteur Et Verificateur D’Aeronefs",
+          "value": "Monteur Et Verificateur D’Aeronefs - 010"
+        },
+        {
+          "label": "Monteur De Ligne",
+          "value": "Monteur De Ligne - 020"
+        },
+        {
+          "label": "Assembl./Control./Test. De Veh. Auto.",
+          "value": "Assembl./Control./Test. De Veh. Auto. - 030"
+        },
+        {
+          "label": "Journalier/Manoeuvre De La Construction",
+          "value": "Journalier/Manoeuvre De La Construction - 040"
+        },
+        {
+          "label": "Monteur/Controleur, Moteurs Electriques",
+          "value": "Monteur/Controleur, Moteurs Electriques - 050"
+        },
+        {
+          "label": "Monteur/Controleur, App. Electriques",
+          "value": "Monteur/Controleur, App. Electriques - 060"
+        },
+        {
+          "label": "Mont./Contr./Verif., Mat. Electronique",
+          "value": "Mont./Contr./Verif., Mat. Electronique - 070"
+        },
+        {
+          "label": "Monteur/Contr., Meubles Et Accessoires",
+          "value": "Monteur/Contr., Meubles Et Accessoires - 080"
+        },
+        {
+          "label": "Manoeuvre, Traitement Produits Chimiques",
+          "value": "Manoeuvre, Traitement Produits Chimiques - 090"
+        },
+        {
+          "label": "Manoeuvre, Transf. Poiss., Fruits De Mer",
+          "value": "Manoeuvre, Transf. Poiss., Fruits De Mer - 100"
+        },
+        {
+          "label": "Manoeuvre, Transf. Aliments Et Boissons",
+          "value": "Manoeuvre, Transf. Aliments Et Boissons - 110"
+        },
+        {
+          "label": "Manoeuvre En Metallurgie",
+          "value": "Manoeuvre En Metallurgie - 120"
+        },
+        {
+          "label": "Manoeuvre, Traitement Minerais Et Metaux",
+          "value": "Manoeuvre, Traitement Minerais Et Metaux - 130"
+        },
+        {
+          "label": "Manoeuvre, Fabric. Prod. Caoutch./Plast.",
+          "value": "Manoeuvre, Fabric. Prod. Caoutch./Plast. - 140"
+        },
+        {
+          "label": "Manoeuvre, Fabric/Coupe Prod. Du Textile",
+          "value": "Manoeuvre, Fabric/Coupe Prod. Du Textile - 150"
+        },
+        {
+          "label": "Manoeuvre, Trait Patepapier/Transf. Bois",
+          "value": "Manoeuvre, Trait Patepapier/Transf. Bois - 160"
+        },
+        {
+          "label": "Monteur/Controleur De Mat. Mecanique",
+          "value": "Monteur/Controleur De Mat. Mecanique - 170"
+        },
+        {
+          "label": "Monteur/Control., Produits En Plastique",
+          "value": "Monteur/Control., Produits En Plastique - 180"
+        },
+        {
+          "label": "Superveillant, Fabric. De Veh. Auto.",
+          "value": "Superveillant, Fabric. De Veh. Auto. - 190"
+        },
+        {
+          "label": "Monteur/Controleur De Produits En Bois",
+          "value": "Monteur/Controleur De Produits En Bois - 200"
+        }
+      ]
+    },
+    {
+      "label": "Legal",
+      "value": "Legal - 180",
+      "listLabel": "Legal - Description",
+      "list": [
+        {
+          "label": "Avocat/Conseiller Juridique D'Entreprise",
+          "value": "Avocat/Conseiller Juridique D'Entreprise - 001"
+        },
+        {
+          "label": "Avocat Criminaliste",
+          "value": "Avocat Criminaliste - 002"
+        },
+        {
+          "label": "Avocat En Pratique Privee",
+          "value": "Avocat En Pratique Privee - 003"
+        },
+        {
+          "label": "Avocat/Procureur Du Gouvernement",
+          "value": "Avocat/Procureur Du Gouvernement - 004"
+        },
+        {
+          "label": "Avocat Specialise En Contrats",
+          "value": "Avocat Specialise En Contrats - 005"
+        },
+        {
+          "label": "Secretaire Juridique",
+          "value": "Secretaire Juridique - 008"
+        },
+        {
+          "label": "Technicien Juridique",
+          "value": "Technicien Juridique - 009"
+        },
+        {
+          "label": "Avocat En Propriete Intellectuelle",
+          "value": "Avocat En Propriete Intellectuelle - 010"
+        },
+        {
+          "label": "Avocat Specialise En Droit Immobilier",
+          "value": "Avocat Specialise En Droit Immobilier - 011"
+        },
+        {
+          "label": "Avocat Conformite A La Reglementation",
+          "value": "Avocat Conformite A La Reglementation - 012"
+        },
+        {
+          "label": "Avocat Fiscaliste",
+          "value": "Avocat Fiscaliste - 013"
+        },
+        {
+          "label": "Juge",
+          "value": "Juge - 014"
+        },
+        {
+          "label": "Avocat Specialise En Droit Du Travail",
+          "value": "Avocat Specialise En Droit Du Travail - 020"
+        }
+      ]
+    },
+    {
+      "label": "Machine/Equipment Operator",
+      "value": "Machine/Equipment Operator - 185",
+      "listLabel": "Machine/Equipment Operator - Description",
+      "list": [
+        {
+          "label": "Operateur, Machines Reliure Et Finition",
+          "value": "Operateur, Machines Reliure Et Finition - 010"
+        },
+        {
+          "label": "Operateur De Scie A Chaine Et Debusqueur",
+          "value": "Operateur De Scie A Chaine Et Debusqueur - 020"
+        },
+        {
+          "label": "Operateur De Machines - Prod. Chimiques",
+          "value": "Operateur De Machines - Prod. Chimiques - 030"
+        },
+        {
+          "label": "Grutier",
+          "value": "Grutier - 040"
+        },
+        {
+          "label": "Monteur/Controleur De Mat. Electronique",
+          "value": "Monteur/Controleur De Mat. Electronique - 050"
+        },
+        {
+          "label": "Conducteur De Machinerie Agricole",
+          "value": "Conducteur De Machinerie Agricole - 060"
+        },
+        {
+          "label": "Operateur, Machines Aliments Et Boissons",
+          "value": "Operateur, Machines Aliments Et Boissons - 070"
+        },
+        {
+          "label": "Operateur De Machine - Prod. En Verre",
+          "value": "Operateur De Machine - Prod. En Verre - 080"
+        },
+        {
+          "label": "Conducteur D’Equipement Lourd",
+          "value": "Conducteur D’Equipement Lourd - 090"
+        },
+        {
+          "label": "Operateur, Machine A Coudre Industrielle",
+          "value": "Operateur, Machine A Coudre Industrielle - 100"
+        },
+        {
+          "label": "Conducteur D’Engins D’Abattage",
+          "value": "Conducteur D’Engins D’Abattage - 110"
+        },
+        {
+          "label": "Operateur De Machine D’Usinage",
+          "value": "Operateur De Machine D’Usinage - 120"
+        },
+        {
+          "label": "Operateur, Mach., Trav. Metaux/A Forger",
+          "value": "Operateur, Mach., Trav. Metaux/A Forger - 130"
+        },
+        {
+          "label": "Operateur, Mach. - Metaux Et Minerais",
+          "value": "Operateur, Mach. - Metaux Et Minerais - 140"
+        },
+        {
+          "label": "Operateur, Mach. A Faconner Le Papier",
+          "value": "Operateur, Mach. A Faconner Le Papier - 150"
+        },
+        {
+          "label": "Operateur De Mach. - Matieres Plastiques",
+          "value": "Operateur De Mach. - Matieres Plastiques - 160"
+        },
+        {
+          "label": "Operateur, Equip. D’Impress. Sans Plaque",
+          "value": "Operateur, Equip. D’Impress. Sans Plaque - 170"
+        },
+        {
+          "label": "Operateur De Presse A Imprimer",
+          "value": "Operateur De Presse A Imprimer - 180"
+        },
+        {
+          "label": "Conducteur, Materiel D’Entretien Public",
+          "value": "Conducteur, Materiel D’Entretien Public - 190"
+        },
+        {
+          "label": "Operateur, Mach. Papetiere/Fab. Papier",
+          "value": "Operateur, Mach. Papetiere/Fab. Papier - 200"
+        },
+        {
+          "label": "Operateur, Mach. - Transf. Caoutchouc",
+          "value": "Operateur, Mach. - Transf. Caoutchouc - 210"
+        },
+        {
+          "label": "Operateur De Machine De Scierie",
+          "value": "Operateur De Machine De Scierie - 220"
+        },
+        {
+          "label": "Contremaitre D’Operateurs D’Equip. Lourd",
+          "value": "Contremaitre D’Operateurs D’Equip. Lourd - 230"
+        },
+        {
+          "label": "Operat., Mach. Trait. Text., Cuir, Peaux",
+          "value": "Operat., Mach. Trait. Text., Cuir, Peaux - 240"
+        },
+        {
+          "label": "Soudeur",
+          "value": "Soudeur - 250"
+        },
+        {
+          "label": "Operateur, Machine A Travailler Le Bois",
+          "value": "Operateur, Machine A Travailler Le Bois - 260"
+        }
+      ]
+    },
+    {
+      "label": "Manufacturing/Production",
+      "value": "Manufacturing/Production - 195",
+      "listLabel": "Manufacturing/Production - Description",
+      "list": [
+        {
+          "label": "Directeur De La Fabrication",
+          "value": "Directeur De La Fabrication - 010"
+        },
+        {
+          "label": "Photograv.-Clicheur/Photograv.-Reporteur",
+          "value": "Photograv.-Clicheur/Photograv.-Reporteur - 020"
+        },
+        {
+          "label": "Operateur De Mach. - Beton/Argile/Pierre",
+          "value": "Operateur De Mach. - Beton/Argile/Pierre - 030"
+        },
+        {
+          "label": "Ouvrier, Transf. Poisson/Fruits De Mer",
+          "value": "Ouvrier, Transf. Poisson/Fruits De Mer - 040"
+        },
+        {
+          "label": "Echantill./Trieurs Transf. Alim. Boiss.",
+          "value": "Echantill./Trieurs Transf. Alim. Boiss. - 050"
+        },
+        {
+          "label": "Ouvrier De Fonderie",
+          "value": "Ouvrier De Fonderie - 060"
+        },
+        {
+          "label": "Peintre-Finisseur Du Metal",
+          "value": "Peintre-Finisseur Du Metal - 070"
+        },
+        {
+          "label": "Inspecteur/Classeur De Bois Scie",
+          "value": "Inspecteur/Classeur De Bois Scie - 080"
+        },
+        {
+          "label": "Directeur De Services Publics",
+          "value": "Directeur De Services Publics - 090"
+        },
+        {
+          "label": "Oper., Poste Contr. Trait. Miner./Metaux",
+          "value": "Oper., Poste Contr. Trait. Miner./Metaux - 100"
+        },
+        {
+          "label": "Control./Essay., Transf. Miner./Metaux",
+          "value": "Control./Essay., Transf. Miner./Metaux - 110"
+        },
+        {
+          "label": "Operateur, Raff. Petrole/Trait. Du Gaz",
+          "value": "Operateur, Raff. Petrole/Trait. Du Gaz - 120"
+        },
+        {
+          "label": "Prepose, Traitement Films Photo.",
+          "value": "Prepose, Traitement Films Photo. - 130"
+        },
+        {
+          "label": "Mecanicien Centrale/Oper. Reseaux Energ.",
+          "value": "Mecanicien Centrale/Oper. Reseaux Energ. - 140"
+        },
+        {
+          "label": "Dir. Projet/Changement, Fabrication",
+          "value": "Dir. Projet/Changement, Fabrication - 145"
+        },
+        {
+          "label": "Oper., Contr.Fabri. Pate Papier/Couchage",
+          "value": "Oper., Contr.Fabri. Pate Papier/Couchage - 150"
+        },
+        {
+          "label": "Surveillant, Fabric. Mat. Electronique",
+          "value": "Surveillant, Fabric. Mat. Electronique - 160"
+        },
+        {
+          "label": "Surveillant, Transf. Alim. Et Boissons",
+          "value": "Surveillant, Transf. Alim. Et Boissons - 170"
+        },
+        {
+          "label": "Surveillant, Transf. Produits Forestiers",
+          "value": "Surveillant, Transf. Produits Forestiers - 180"
+        },
+        {
+          "label": "Surveillant, Fabric. Meubles Et Access.",
+          "value": "Surveillant, Fabric. Meubles Et Access. - 190"
+        },
+        {
+          "label": "Surveillant, Fabric. Produits Metal.",
+          "value": "Surveillant, Fabric. Produits Metal. - 200"
+        },
+        {
+          "label": "Surveillant, Transf. Metaux Et Minerais",
+          "value": "Surveillant, Transf. Metaux Et Minerais - 210"
+        },
+        {
+          "label": "Surveillant, Produits Petrol./Chimiques",
+          "value": "Surveillant, Produits Petrol./Chimiques - 220"
+        },
+        {
+          "label": "Surveillant, Transf. Produits Textiles",
+          "value": "Surveillant, Transf. Produits Textiles - 230"
+        },
+        {
+          "label": "Surveillant, Prod. Plast./Caoutchouc",
+          "value": "Surveillant, Prod. Plast./Caoutchouc - 240"
+        },
+        {
+          "label": "Controleur/Trieur - Text./Fourr./Cuir",
+          "value": "Controleur/Trieur - Text./Fourr./Cuir - 250"
+        },
+        {
+          "label": "Operateur, Trait. Eau Et Dechets",
+          "value": "Operateur, Trait. Eau Et Dechets - 260"
+        },
+        {
+          "label": "Tisseur Et Tricoteur",
+          "value": "Tisseur Et Tricoteur - 270"
+        }
+      ]
+    },
+    {
+      "label": "Medical Assistant/Technician",
+      "value": "Medical Assistant/Technician - 205",
+      "listLabel": "Medical Assistant/Technician - Description",
+      "list": [
+        {
+          "label": "Technologue En Cardiologie",
+          "value": "Technologue En Cardiologie - 010"
+        },
+        {
+          "label": "Assistant Dentaire/De Lab. Dentaire",
+          "value": "Assistant Dentaire/De Lab. Dentaire - 020"
+        },
+        {
+          "label": "Technologue/Technicien Dentaire",
+          "value": "Technologue/Technicien Dentaire - 030"
+        },
+        {
+          "label": "Massotherapeut/Masseur",
+          "value": "Massotherapeut/Masseur - 040"
+        },
+        {
+          "label": "Assistant/Technicien De Lab. Medical",
+          "value": "Assistant/Technicien De Lab. Medical - 050"
+        },
+        {
+          "label": "Technologue De Laboratoire Medical",
+          "value": "Technologue De Laboratoire Medical - 060"
+        },
+        {
+          "label": "Technologue En Radiation Medicale",
+          "value": "Technologue En Radiation Medicale - 070"
+        },
+        {
+          "label": "Aide-Infirmier/Prep. Aux Beneficiaires",
+          "value": "Aide-Infirmier/Prep. Aux Beneficiaires - 080"
+        },
+        {
+          "label": "Assistant En-Pharmacie",
+          "value": "Assistant En-Pharmacie - 090"
+        },
+        {
+          "label": "Technicien En Pharmacie",
+          "value": "Technicien En Pharmacie - 100"
+        },
+        {
+          "label": "Adjoint Au Medecin Ou Sage-Femme",
+          "value": "Adjoint Au Medecin Ou Sage-Femme - 110"
+        },
+        {
+          "label": "Inhalotherapeute",
+          "value": "Inhalotherapeute - 120"
+        },
+        {
+          "label": "Technicien Veterinaire",
+          "value": "Technicien Veterinaire - 130"
+        }
+      ]
+    },
+    {
+      "label": "Medical Practitioner",
+      "value": "Medical Practitioner - 215",
+      "listLabel": "Medical Practitioner - Description",
+      "list": [
+        {
+          "label": "Audiologiste/Orthophoniste",
+          "value": "Audiologiste/Orthophoniste - 010"
+        },
+        {
+          "label": "Chiropraticien",
+          "value": "Chiropraticien - 020"
+        },
+        {
+          "label": "Specialiste En Medecine Clinique/De Lab.",
+          "value": "Specialiste En Medecine Clinique/De Lab. - 030"
+        },
+        {
+          "label": "Hygieniste Dentaire/Therapeute Dentaire",
+          "value": "Hygieniste Dentaire/Therapeute Dentaire - 040"
+        },
+        {
+          "label": "Dentistes",
+          "value": "Dentistes - 050"
+        },
+        {
+          "label": "Denturologiste",
+          "value": "Denturologiste - 060"
+        },
+        {
+          "label": "Dietetiste/Nutritionniste",
+          "value": "Dietetiste/Nutritionniste - 070"
+        },
+        {
+          "label": "Technicien Ambulancier Paramedical",
+          "value": "Technicien Ambulancier Paramedical - 080"
+        },
+        {
+          "label": "Omnipraticien/Medecin De Famille",
+          "value": "Omnipraticien/Medecin De Famille - 090"
+        },
+        {
+          "label": "Kinesiologue",
+          "value": "Kinesiologue - 100"
+        },
+        {
+          "label": "Infirmier Auxiliaire Autorise",
+          "value": "Infirmier Auxiliaire Autorise - 110"
+        },
+        {
+          "label": "Gestionnaire En Soins De Sante",
+          "value": "Gestionnaire En Soins De Sante - 120"
+        },
+        {
+          "label": "Professionnel Medical",
+          "value": "Professionnel Medical - 130"
+        },
+        {
+          "label": "Echographiste Medical",
+          "value": "Echographiste Medical - 140"
+        },
+        {
+          "label": "Naturopathe",
+          "value": "Naturopathe - 150"
+        },
+        {
+          "label": "Infirmier Praticien",
+          "value": "Infirmier Praticien - 160"
+        },
+        {
+          "label": "Ergotherapeute",
+          "value": "Ergotherapeute - 170"
+        },
+        {
+          "label": "Opticien",
+          "value": "Opticien - 180"
+        },
+        {
+          "label": "Optometriste",
+          "value": "Optometriste - 190"
+        },
+        {
+          "label": "Orthodontie",
+          "value": "Orthodontie - 195"
+        },
+        {
+          "label": "Pharmacien",
+          "value": "Pharmacien - 200"
+        },
+        {
+          "label": "Physiotherapeute",
+          "value": "Physiotherapeute - 210"
+        },
+        {
+          "label": "Psychiatre",
+          "value": "Psychiatre - 215"
+        },
+        {
+          "label": "Psychologue",
+          "value": "Psychologue - 220"
+        },
+        {
+          "label": "Infirmier Autorise/Infirmier Psychiat.",
+          "value": "Infirmier Autorise/Infirmier Psychiat. - 230"
+        },
+        {
+          "label": "Chirurgien",
+          "value": "Chirurgien - 240"
+        },
+        {
+          "label": "Surperviseur/Coordonn. Soins Inf.",
+          "value": "Surperviseur/Coordonn. Soins Inf. - 250"
+        },
+        {
+          "label": "Therapeute En Counseling",
+          "value": "Therapeute En Counseling - 260"
+        },
+        {
+          "label": "Acupuncteur/Med. Trad. Chinoise",
+          "value": "Acupuncteur/Med. Trad. Chinoise - 270"
+        },
+        {
+          "label": "Veterinaire",
+          "value": "Veterinaire - 280"
+        }
+      ]
+    },
+    {
+      "label": "Natural Resources/Agriculture",
+      "value": "Natural Resources/Agriculture - 225",
+      "listLabel": "Natural Resources/Agriculture - Description",
+      "list": [
+        {
+          "label": "Manoeuvres, Aquaculture Et Mariculture",
+          "value": "Manoeuvres, Aquaculture Et Mariculture - 010"
+        },
+        {
+          "label": "Surveillant/Entrepr., Serv. Agricoles",
+          "value": "Surveillant/Entrepr., Serv. Agricoles - 020"
+        },
+        {
+          "label": "Pecheur",
+          "value": "Pecheur - 030"
+        },
+        {
+          "label": "Capitaine/Officier De Bateau De Peche",
+          "value": "Capitaine/Officier De Bateau De Peche - 040"
+        },
+        {
+          "label": "Matelot De Pont Sur Bateau De Peche",
+          "value": "Matelot De Pont Sur Bateau De Peche - 050"
+        },
+        {
+          "label": "Manoeuvre A La Recolte",
+          "value": "Manoeuvre A La Recolte - 060"
+        },
+        {
+          "label": "Manoeuvre En Amen. Pays./Entr. Terrains",
+          "value": "Manoeuvre En Amen. Pays./Entr. Terrains - 070"
+        },
+        {
+          "label": "Manoeuvre Aux Soins Du Betail",
+          "value": "Manoeuvre Aux Soins Du Betail - 080"
+        },
+        {
+          "label": "Manoeuvre En Expl. Forestiere/Foresterie",
+          "value": "Manoeuvre En Expl. Forestiere/Foresterie - 090"
+        },
+        {
+          "label": "Gestionnaire En Agriculture",
+          "value": "Gestionnaire En Agriculture - 100"
+        },
+        {
+          "label": "Gestionnaire En Aquaculture",
+          "value": "Gestionnaire En Aquaculture - 110"
+        },
+        {
+          "label": "Gestionnaire En Horticulture",
+          "value": "Gestionnaire En Horticulture - 120"
+        },
+        {
+          "label": "Directeur, Expl. Ress. Naturelles/Peche",
+          "value": "Directeur, Expl. Ress. Naturelles/Peche - 130"
+        },
+        {
+          "label": "Manoeuvre De Mines",
+          "value": "Manoeuvre De Mines - 140"
+        },
+        {
+          "label": "Ouvrier De Serre Et De Pepiniere",
+          "value": "Ouvrier De Serre Et De Pepiniere - 150"
+        },
+        {
+          "label": "Manoeuvre, Forage/Entr. Puits Petr./Gaz",
+          "value": "Manoeuvre, Forage/Entr. Puits Petr./Gaz - 160"
+        },
+        {
+          "label": "Profess., Forage/Entr. Puits Petr./Gaz",
+          "value": "Profess., Forage/Entr. Puits Petr./Gaz - 170"
+        },
+        {
+          "label": "Foreur/ Verif, Extrac. De Petr. Et Gaz",
+          "value": "Foreur/ Verif, Extrac. De Petr. Et Gaz - 180"
+        },
+        {
+          "label": "Operateur, Forage/Entr. Puits Petr./Gaz",
+          "value": "Operateur, Forage/Entr. Puits Petr./Gaz - 190"
+        },
+        {
+          "label": "Dir. Projet/Changement–Ress. Nat.",
+          "value": "Dir. Projet/Changement–Ress. Nat. - 195"
+        },
+        {
+          "label": "Ouvrier, Sylviculture/Expl.Forestiere",
+          "value": "Ouvrier, Sylviculture/Expl.Forestiere - 200"
+        },
+        {
+          "label": "Ouvrier Specialise, Elevage Du Betail",
+          "value": "Ouvrier Specialise, Elevage Du Betail - 210"
+        },
+        {
+          "label": "Surveillant, Amen. Pays. Et Horticulture",
+          "value": "Surveillant, Amen. Pays. Et Horticulture - 220"
+        },
+        {
+          "label": "Superveillant, Exploitation Forestiere",
+          "value": "Superveillant, Exploitation Forestiere - 230"
+        },
+        {
+          "label": "Superveillant,Exploit. Mines/Carrieres",
+          "value": "Superveillant,Exploit. Mines/Carrieres - 240"
+        },
+        {
+          "label": "Trappeur/Chasseur",
+          "value": "Trappeur/Chasseur - 250"
+        },
+        {
+          "label": "Employe Entret./Soutien, Mines Souterr.",
+          "value": "Employe Entret./Soutien, Mines Souterr. - 260"
+        },
+        {
+          "label": "Mineur D’Extract. /Prep. Mines Souterr.",
+          "value": "Mineur D’Extract. /Prep. Mines Souterr. - 270"
+        }
+      ]
+    },
+    {
+      "label": "Natural/Applied Sciences",
+      "value": "Natural/Applied Sciences - 235",
+      "listLabel": "Natural/Applied Sciences - Description",
+      "list": [
+        {
+          "label": "Inspecteur, Produits Agric./De La Peche",
+          "value": "Inspecteur, Produits Agric./De La Peche - 010"
+        },
+        {
+          "label": "Agronome, Consult., Special. Agriculture",
+          "value": "Agronome, Consult., Special. Agriculture - 020"
+        },
+        {
+          "label": "Technicien/Controleur, Instr. D’Aeronefs",
+          "value": "Technicien/Controleur, Instr. D’Aeronefs - 030"
+        },
+        {
+          "label": "Architecte",
+          "value": "Architecte - 040"
+        },
+        {
+          "label": "Technologue/Technicien En Architecture",
+          "value": "Technologue/Technicien En Architecture - 050"
+        },
+        {
+          "label": "Technologue/Technicien En Biologie",
+          "value": "Technologue/Technicien En Biologie - 070"
+        },
+        {
+          "label": "Biologiste",
+          "value": "Biologiste - 080"
+        },
+        {
+          "label": "Technologue Et Technicien En Chimie",
+          "value": "Technologue Et Technicien En Chimie - 090"
+        },
+        {
+          "label": "Chimiste",
+          "value": "Chimiste - 100"
+        },
+        {
+          "label": "Technologue/Technicien En Genie Civil",
+          "value": "Technologue/Technicien En Genie Civil - 110"
+        },
+        {
+          "label": "Tecnicien, Milieu Naturel Et Peche",
+          "value": "Tecnicien, Milieu Naturel Et Peche - 120"
+        },
+        {
+          "label": "Inspecteur En Construction/D’Infrastr.",
+          "value": "Inspecteur En Construction/D’Infrastr. - 130"
+        },
+        {
+          "label": "Evaluateur En Construct./Expert-Metreur",
+          "value": "Evaluateur En Construct./Expert-Metreur - 140"
+        },
+        {
+          "label": "Scientifique De Donnees",
+          "value": "Scientifique De Donnees - 150"
+        },
+        {
+          "label": "Technologue/Technicien En Dessin",
+          "value": "Technologue/Technicien En Dessin - 160"
+        },
+        {
+          "label": "Agent, Sante, Securite, Environnement",
+          "value": "Agent, Sante, Securite, Environnement - 170"
+        },
+        {
+          "label": "Professionnel Des Sciences Forestieres",
+          "value": "Professionnel Des Sciences Forestieres - 180"
+        },
+        {
+          "label": "Technologue/Technicien, Sciences Forest.",
+          "value": "Technologue/Technicien, Sciences Forest. - 190"
+        },
+        {
+          "label": "Technol./Technicien, Geologie/Mineral.",
+          "value": "Technol./Technicien, Geologie/Mineral. - 200"
+        },
+        {
+          "label": "Geoscientifique Et Oceanographe",
+          "value": "Geoscientifique Et Oceanographe - 210"
+        },
+        {
+          "label": "Technicien/Mecanic. D’Instrum. Industr.",
+          "value": "Technicien/Mecanic. D’Instrum. Industr. - 220"
+        },
+        {
+          "label": "Dessinateur Industriel/De Produits",
+          "value": "Dessinateur Industriel/De Produits - 230"
+        },
+        {
+          "label": "Technologue/Technicien En Arpentage",
+          "value": "Technologue/Technicien En Arpentage - 240"
+        },
+        {
+          "label": "Arpenteur-Geometre",
+          "value": "Arpenteur-Geometre - 250"
+        },
+        {
+          "label": "Architecte Paysager",
+          "value": "Architecte Paysager - 260"
+        },
+        {
+          "label": "Tech/Specialiste, Amen. Pays./Horticult.",
+          "value": "Tech/Specialiste, Amen. Pays./Horticult. - 270"
+        },
+        {
+          "label": "Directeur, Architecture Et Sciences",
+          "value": "Directeur, Architecture Et Sciences - 275"
+        },
+        {
+          "label": "Mathematicien, Statisticien, Actuaire",
+          "value": "Mathematicien, Statisticien, Actuaire - 280"
+        },
+        {
+          "label": "Meteorologiste/Climatologue",
+          "value": "Meteorologiste/Climatologue - 290"
+        },
+        {
+          "label": "Verificat./Essayeur, Essais Non Destruc.",
+          "value": "Verificat./Essayeur, Essais Non Destruc. - 300"
+        },
+        {
+          "label": "Prof., Hygiene Et Securite Au Travail",
+          "value": "Prof., Hygiene Et Securite Au Travail - 310"
+        },
+        {
+          "label": "Physicien/Astronome",
+          "value": "Physicien/Astronome - 320"
+        },
+        {
+          "label": "Dir. Projet/Changement-Sc. Appliquees",
+          "value": "Dir. Projet/Changement-Sc. Appliquees - 325"
+        },
+        {
+          "label": "Sociologue/Antropologue",
+          "value": "Sociologue/Antropologue - 330"
+        },
+        {
+          "label": "Poste Techn., Geomatique/Meteorologie",
+          "value": "Poste Techn., Geomatique/Meteorologie - 340"
+        },
+        {
+          "label": "Urbaniste/Planific., Utilisation Sols",
+          "value": "Urbaniste/Planific., Utilisation Sols - 350"
+        }
+      ]
+    },
+    {
+      "label": "Recreation/Sport",
+      "value": "Recreation/Sport - 245",
+      "listLabel": "Recreation/Sport - Description",
+      "list": [
+        {
+          "label": "Athlete",
+          "value": "Athlete - 010"
+        },
+        {
+          "label": "Entraineur",
+          "value": "Entraineur - 020"
+        },
+        {
+          "label": "Directeur De Progr., Sports/Cond. Phys.",
+          "value": "Directeur De Progr., Sports/Cond. Phys. - 030"
+        },
+        {
+          "label": "Animateur De Progr., Loisirs Et Sports",
+          "value": "Animateur De Progr., Loisirs Et Sports - 040"
+        },
+        {
+          "label": "Arbitres/Officiel De Sports",
+          "value": "Arbitres/Officiel De Sports - 050"
+        },
+        {
+          "label": "Dirigeant Organisation Sportive Intrl",
+          "value": "Dirigeant Organisation Sportive Intrl - 060"
+        }
+      ]
+    },
+    {
+      "label": "Religious Professionals",
+      "value": "Religious Professionals - 260",
+      "listLabel": "Religious Professionals - Description",
+      "list": [
+        {
+          "label": "Chef Religieux",
+          "value": "Chef Religieux - 001"
+        },
+        {
+          "label": "Missionnaire/Travailleur Humanitaire",
+          "value": "Missionnaire/Travailleur Humanitaire - 002"
+        },
+        {
+          "label": "Religieux",
+          "value": "Religieux - 003"
+        }
+      ]
+    },
+    {
+      "label": "Sales",
+      "value": "Sales - 265",
+      "listLabel": "Sales - Description",
+      "list": [
+        {
+          "label": "Agent De Billeterie/De Services Aeriens",
+          "value": "Agent De Billeterie/De Services Aeriens - 010"
+        },
+        {
+          "label": "Fleuriste",
+          "value": "Fleuriste - 020"
+        },
+        {
+          "label": "Agent, Billeterie, Transp. Terr./Marit.",
+          "value": "Agent, Billeterie, Transp. Terr./Marit. - 030"
+        },
+        {
+          "label": "Bijoutier/Courtier En Metaux Precieux",
+          "value": "Bijoutier/Courtier En Metaux Precieux - 040"
+        },
+        {
+          "label": "Directeur, Ventes Aux Entreprises",
+          "value": "Directeur, Ventes Aux Entreprises - 045"
+        },
+        {
+          "label": "Directeur De Commerce De Detail/De Gros",
+          "value": "Directeur De Commerce De Detail/De Gros - 047"
+        },
+        {
+          "label": "Vendeur/Etalagiste, Comm. De Detail",
+          "value": "Vendeur/Etalagiste, Comm. De Detail - 050"
+        },
+        {
+          "label": "Acheteur, Comm. De Detail/De Gros",
+          "value": "Acheteur, Comm. De Detail/De Gros - 060"
+        },
+        {
+          "label": "Agent De Soutien Aux Ventes",
+          "value": "Agent De Soutien Aux Ventes - 080"
+        },
+        {
+          "label": "Rep. Ventes/Comptes, Comm. De Gros",
+          "value": "Rep. Ventes/Comptes, Comm. De Gros - 090"
+        },
+        {
+          "label": "Superviseur Des Ventes, Comm. De Detail",
+          "value": "Superviseur Des Ventes, Comm. De Detail - 100"
+        },
+        {
+          "label": "Specialiste Des Ventes, Comm. De Gros",
+          "value": "Specialiste Des Ventes, Comm. De Gros - 110"
+        },
+        {
+          "label": "Televendeur",
+          "value": "Televendeur - 120"
+        }
+      ]
+    },
+    {
+      "label": "Service",
+      "value": "Service - 275",
+      "listLabel": "Service - Description",
+      "list": [
+        {
+          "label": "Prepose, Sports, Loisirs, Parcs Attract.",
+          "value": "Prepose, Sports, Loisirs, Parcs Attract. - 010"
+        },
+        {
+          "label": "Agent De Centre D’Appels",
+          "value": "Agent De Centre D’Appels - 020"
+        },
+        {
+          "label": "Representant, Service En Matiere De Fret",
+          "value": "Representant, Service En Matiere De Fret - 030"
+        },
+        {
+          "label": "Caissier",
+          "value": "Caissier - 040"
+        },
+        {
+          "label": "Coursier/Messager",
+          "value": "Coursier/Messager - 045"
+        },
+        {
+          "label": "Repr., Serv. Clientele Institut. Financ.",
+          "value": "Repr., Serv. Clientele Institut. Financ. - 050"
+        },
+        {
+          "label": "Blanchisseur",
+          "value": "Blanchisseur - 060"
+        },
+        {
+          "label": "Estheticien/Fourn. De Traitements Esth.",
+          "value": "Estheticien/Fourn. De Traitements Esth. - 070"
+        },
+        {
+          "label": "Gouvernant Principal",
+          "value": "Gouvernant Principal - 080"
+        },
+        {
+          "label": "Directeur Funeraire Et Embaumeur",
+          "value": "Directeur Funeraire Et Embaumeur - 090"
+        },
+        {
+          "label": "Coiffeur/Barbier",
+          "value": "Coiffeur/Barbier - 100"
+        },
+        {
+          "label": "Conseiller Imag., Mondain Et Soins Pers.",
+          "value": "Conseiller Imag., Mondain Et Soins Pers. - 110"
+        },
+        {
+          "label": "Prepose Aux Services D’Information",
+          "value": "Prepose Aux Services D’Information - 120"
+        },
+        {
+          "label": "Concierge/Nettoyeur, Gros Travaux",
+          "value": "Concierge/Nettoyeur, Gros Travaux - 130"
+        },
+        {
+          "label": "Facteur",
+          "value": "Facteur - 135"
+        },
+        {
+          "label": "Nettoyeur, Travaux Legers",
+          "value": "Nettoyeur, Travaux Legers - 140"
+        },
+        {
+          "label": "Trieur Du Courrier Et Des Colis",
+          "value": "Trieur Du Courrier Et Des Colis - 145"
+        },
+        {
+          "label": "Maitre D’Hotel/Hote",
+          "value": "Maitre D’Hotel/Hote - 150"
+        },
+        {
+          "label": "Directeur, Serv. Clientele/Serv. Pers.",
+          "value": "Directeur, Serv. Clientele/Serv. Pers. - 160"
+        },
+        {
+          "label": "Directeur, Services Postaux/Messagerie",
+          "value": "Directeur, Services Postaux/Messagerie - 170"
+        },
+        {
+          "label": "Demenageur",
+          "value": "Demenageur - 175"
+        },
+        {
+          "label": "Preteur Ou Preteuse Sur Gage",
+          "value": "Preteur Ou Preteuse Sur Gage - 177"
+        },
+        {
+          "label": "Soigneur Et Travail., Soins Des Animaux",
+          "value": "Soigneur Et Travail., Soins Des Animaux - 180"
+        },
+        {
+          "label": "Agent Des Services Postaux",
+          "value": "Agent Des Services Postaux - 190"
+        },
+        {
+          "label": "Commissaire Et Agent De Bord",
+          "value": "Commissaire Et Agent De Bord - 200"
+        },
+        {
+          "label": "Rep., Serv. Clientele, Etabl. Detail",
+          "value": "Rep., Serv. Clientele, Etabl. Detail - 210"
+        },
+        {
+          "label": "Retoucheur/Tailleur/Fourreur/Modiste",
+          "value": "Retoucheur/Tailleur/Fourreur/Modiste - 220"
+        },
+        {
+          "label": "Prepose De Station-Service",
+          "value": "Prepose De Station-Service - 230"
+        },
+        {
+          "label": "Cordonnier/Fabricant De Chaussures",
+          "value": "Cordonnier/Fabricant De Chaussures - 240"
+        },
+        {
+          "label": "Nettoyeur Specialise",
+          "value": "Nettoyeur Specialise - 250"
+        },
+        {
+          "label": "Garniss. De Tabl./Commis/Prep. Commandes",
+          "value": "Garniss. De Tabl./Commis/Prep. Commandes - 260"
+        },
+        {
+          "label": "Surveillant Du Nettoyage",
+          "value": "Surveillant Du Nettoyage - 270"
+        },
+        {
+          "label": "Surveillant, Service Clientele/D’Info",
+          "value": "Surveillant, Service Clientele/D’Info - 280"
+        },
+        {
+          "label": "Superveillant, Services Alimentaires",
+          "value": "Superveillant, Services Alimentaires - 290"
+        },
+        {
+          "label": "Maitre De Poste",
+          "value": "Maitre De Poste - 300"
+        },
+        {
+          "label": "Agent Technique, Service Clientele",
+          "value": "Agent Technique, Service Clientele - 310"
+        }
+      ]
+    },
+    {
+      "label": "Tourism/Lodging",
+      "value": "Tourism/Lodging - 285",
+      "listLabel": "Tourism/Lodging - Description",
+      "list": [
+        {
+          "label": "Prepose, Hebergement Et Bagages",
+          "value": "Prepose, Hebergement Et Bagages - 010"
+        },
+        {
+          "label": "Travailleur, Montage D’Installations",
+          "value": "Travailleur, Montage D’Installations - 020"
+        },
+        {
+          "label": "Commis A La Reception D’Hotel",
+          "value": "Commis A La Reception D’Hotel - 030"
+        },
+        {
+          "label": "Directeur, Services D’Hebergement",
+          "value": "Directeur, Services D’Hebergement - 040"
+        },
+        {
+          "label": "Guide, Sports Et Loisirs De Plein Air",
+          "value": "Guide, Sports Et Loisirs De Plein Air - 050"
+        },
+        {
+          "label": "Dir. Projet/Changement, Tourisme",
+          "value": "Dir. Projet/Changement, Tourisme - 055"
+        },
+        {
+          "label": "Superviseur, Serv. De Voyages/Tourisme",
+          "value": "Superviseur, Serv. De Voyages/Tourisme - 060"
+        },
+        {
+          "label": "Guide Touristique/Itinerant",
+          "value": "Guide Touristique/Itinerant - 070"
+        },
+        {
+          "label": "Conseiller En Voyages",
+          "value": "Conseiller En Voyages - 080"
+        }
+      ]
+    },
+    {
+      "label": "Trades",
+      "value": "Trades - 295",
+      "listLabel": "Trades - Description",
+      "list": [
+        {
+          "label": "Chaudronnier",
+          "value": "Chaudronnier - 010"
+        },
+        {
+          "label": "Briqueteur",
+          "value": "Briqueteur - 020"
+        },
+        {
+          "label": "Ebeniste",
+          "value": "Ebeniste - 030"
+        },
+        {
+          "label": "Charpentier",
+          "value": "Charpentier - 040"
+        },
+        {
+          "label": "Finisseur De Beton",
+          "value": "Finisseur De Beton - 050"
+        },
+        {
+          "label": "Foreur Et Boutefeu",
+          "value": "Foreur Et Boutefeu - 070"
+        },
+        {
+          "label": "Monteur, Lignes Electriques Et Cables",
+          "value": "Monteur, Lignes Electriques Et Cables - 080"
+        },
+        {
+          "label": "Electricien, Autre Qu’Industriel",
+          "value": "Electricien, Autre Qu’Industriel - 090"
+        },
+        {
+          "label": "Poseur De Revetements De Sol",
+          "value": "Poseur De Revetements De Sol - 100"
+        },
+        {
+          "label": "Monteur D’Installations Au Gaz",
+          "value": "Monteur D’Installations Au Gaz - 110"
+        },
+        {
+          "label": "Vitrier",
+          "value": "Vitrier - 120"
+        },
+        {
+          "label": "Electricien Industriel",
+          "value": "Electricien Industriel - 130"
+        },
+        {
+          "label": "Calorifugeur",
+          "value": "Calorifugeur - 140"
+        },
+        {
+          "label": "Peintre D’Interieur/D’Exterieur",
+          "value": "Peintre D’Interieur/D’Exterieur - 150"
+        },
+        {
+          "label": "Ferronnier",
+          "value": "Ferronnier - 160"
+        },
+        {
+          "label": "Serrurier",
+          "value": "Serrurier - 170"
+        },
+        {
+          "label": "Ajusteur De Machine",
+          "value": "Ajusteur De Machine - 180"
+        },
+        {
+          "label": "Machiniste/Verif., Usinage Et Outillage",
+          "value": "Machiniste/Verif., Usinage Et Outillage - 190"
+        },
+        {
+          "label": "Directeur, Exploit./Entretien D’Install.",
+          "value": "Directeur, Exploit./Entretien D’Install. - 210"
+        },
+        {
+          "label": "Manutentionnaire",
+          "value": "Manutentionnaire - 220"
+        },
+        {
+          "label": "Fumigateur/ Prep., Controle Vermine",
+          "value": "Fumigateur/ Prep., Controle Vermine - 230"
+        },
+        {
+          "label": "Tuyauteur/Install. De Gicleurs",
+          "value": "Tuyauteur/Install. De Gicleurs - 240"
+        },
+        {
+          "label": "Platrier, Poseur, Clois. Seches/Latteur",
+          "value": "Platrier, Poseur, Clois. Seches/Latteur - 250"
+        },
+        {
+          "label": "Plombier",
+          "value": "Plombier - 260"
+        },
+        {
+          "label": "Electricien De Reseau Electrique",
+          "value": "Electricien De Reseau Electrique - 270"
+        },
+        {
+          "label": "Couvreur Et Poseur De Bardeaux",
+          "value": "Couvreur Et Poseur De Bardeaux - 280"
+        },
+        {
+          "label": "Ferblantier",
+          "value": "Ferblantier - 290"
+        },
+        {
+          "label": "Assemb./Ajusteur, Plaq. - Charp. Metal",
+          "value": "Assemb./Ajusteur, Plaq. - Charp. Metal - 300"
+        },
+        {
+          "label": "Surintendant/Prepose Entretien General",
+          "value": "Surintendant/Prepose Entretien General - 310"
+        },
+        {
+          "label": "Suveillant, Impression Et Reliure",
+          "value": "Suveillant, Impression Et Reliure - 330"
+        },
+        {
+          "label": "Carreleur",
+          "value": "Carreleur - 340"
+        },
+        {
+          "label": "Outilleur-Ajusteur",
+          "value": "Outilleur-Ajusteur - 350"
+        },
+        {
+          "label": "Rembourreur",
+          "value": "Rembourreur - 360"
+        },
+        {
+          "label": "Ouvrier, Entret. Install. Serv. Pub.",
+          "value": "Ouvrier, Entret. Install. Serv. Pub. - 370"
+        },
+        {
+          "label": "Foreur De Puits D’Eau",
+          "value": "Foreur De Puits D’Eau - 380"
+        }
+      ]
+    },
+    {
+      "label": "Transport/Logistics",
+      "value": "Transport/Logistics - 305",
+      "listLabel": "Transport/Logistics - Description",
+      "list": [
+        {
+          "label": "Controleur Aerien",
+          "value": "Controleur Aerien - 020"
+        },
+        {
+          "label": "Agent De Piste, Transport Aerien",
+          "value": "Agent De Piste, Transport Aerien - 030"
+        },
+        {
+          "label": "Mecanicien Et Controleur D’Aeronefs",
+          "value": "Mecanicien Et Controleur D’Aeronefs - 040"
+        },
+        {
+          "label": "Oper., Bateaux A Moteur Et Bac A Cable",
+          "value": "Oper., Bateaux A Moteur Et Bac A Cable - 050"
+        },
+        {
+          "label": "Officier De Pont, Transport Maritime",
+          "value": "Officier De Pont, Transport Maritime - 060"
+        },
+        {
+          "label": "Chauffeur-Livreur",
+          "value": "Chauffeur-Livreur - 070"
+        },
+        {
+          "label": "Repartiteur",
+          "value": "Repartiteur - 080"
+        },
+        {
+          "label": "Officier Mecanicien, Transport Maritime",
+          "value": "Officier Mecanicien, Transport Maritime - 090"
+        },
+        {
+          "label": "Chauffeur De Limousine",
+          "value": "Chauffeur De Limousine - 100"
+        },
+        {
+          "label": "Debardeur",
+          "value": "Debardeur - 110"
+        },
+        {
+          "label": "Gestionnaire, Transport",
+          "value": "Gestionnaire, Transport - 120"
+        },
+        {
+          "label": "Commis, Logistique De La Production",
+          "value": "Commis, Logistique De La Production - 130"
+        },
+        {
+          "label": "Coord. Logistique Production/Transport",
+          "value": "Coord. Logistique Production/Transport - 140"
+        },
+        {
+          "label": "Dir. Projet/Changement–Logistique",
+          "value": "Dir. Projet/Changement–Logistique - 145"
+        },
+        {
+          "label": "Operateur, Vehicule De Transp. En Commun",
+          "value": "Operateur, Vehicule De Transp. En Commun - 150"
+        },
+        {
+          "label": "Commis Aux Achats/Au Controle Des Stocks",
+          "value": "Commis Aux Achats/Au Controle Des Stocks - 160"
+        },
+        {
+          "label": "Manoeuvre, Transp. Ferror. Et Routier",
+          "value": "Manoeuvre, Transp. Ferror. Et Routier - 170"
+        },
+        {
+          "label": "Inspecteur/Reparateur De Wagons",
+          "value": "Inspecteur/Reparateur De Wagons - 180"
+        },
+        {
+          "label": "Chefs De Train/Serre-Freins",
+          "value": "Chefs De Train/Serre-Freins - 190"
+        },
+        {
+          "label": "Controleur De La Circulation Ferroviaire",
+          "value": "Controleur De La Circulation Ferroviaire - 200"
+        },
+        {
+          "label": "Manoeuvre De Gare De Triage",
+          "value": "Manoeuvre De Gare De Triage - 210"
+        },
+        {
+          "label": "Expediteur/Receptionnaire",
+          "value": "Expediteur/Receptionnaire - 230"
+        },
+        {
+          "label": "Surveillant, Transport Routier",
+          "value": "Surveillant, Transport Routier - 240"
+        },
+        {
+          "label": "Surveillant, Expl. Transp. Ferroviaire",
+          "value": "Surveillant, Expl. Transp. Ferroviaire - 250"
+        },
+        {
+          "label": "Superviseur, Chaine D’Approv./Horaire",
+          "value": "Superviseur, Chaine D’Approv./Horaire - 260"
+        },
+        {
+          "label": "Chauffeur De Taxi",
+          "value": "Chauffeur De Taxi - 270"
+        },
+        {
+          "label": "Conducteur De Camion",
+          "value": "Conducteur De Camion - 280"
+        },
+        {
+          "label": "Horairiste De Trajet Et D’Equipage",
+          "value": "Horairiste De Trajet Et D’Equipage - 290"
+        },
+        {
+          "label": "Matelot De Pont/Salle Des Machines",
+          "value": "Matelot De Pont/Salle Des Machines - 300"
+        }
+      ]
+    }
+  ]
+}

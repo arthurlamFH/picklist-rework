@@ -1,0 +1,2549 @@
+{
+  "listLabel": "Occupation List",
+  "list": [
+    {
+      "label": "Accounting/Finance/Insurance",
+      "value": "Accounting/Finance/Insurance - 010",
+      "listLabel": "Accounting/Finance/Insurance - Description",
+      "list": [
+        {
+          "label": "Accountant",
+          "value": "Accountant - 001"
+        },
+        {
+          "label": "Accounting Consultant",
+          "value": "Accounting Consultant - 002"
+        },
+        {
+          "label": "Accounts Payable/Receivable Clerk",
+          "value": "Accounts Payable/Receivable Clerk - 003"
+        },
+        {
+          "label": "Actuary Or Actuarial Analyst",
+          "value": "Actuary Or Actuarial Analyst - 004"
+        },
+        {
+          "label": "Auditor",
+          "value": "Auditor - 006"
+        },
+        {
+          "label": "Bookkeeper",
+          "value": "Bookkeeper - 007"
+        },
+        {
+          "label": "Claims Adjuster",
+          "value": "Claims Adjuster - 008"
+        },
+        {
+          "label": "Collections Officer",
+          "value": "Collections Officer - 009"
+        },
+        {
+          "label": "Corporate Finance Accountant/Analyst",
+          "value": "Corporate Finance Accountant/Analyst - 011"
+        },
+        {
+          "label": "Financial Analyst/Researcher",
+          "value": "Financial Analyst/Researcher - 012"
+        },
+        {
+          "label": "Financial Controller",
+          "value": "Financial Controller - 013"
+        },
+        {
+          "label": "Financial Planner",
+          "value": "Financial Planner - 014"
+        },
+        {
+          "label": "Financial Products Sales Agent/Broker",
+          "value": "Financial Products Sales Agent/Broker - 015"
+        },
+        {
+          "label": "Fund Accountant",
+          "value": "Fund Accountant - 017"
+        },
+        {
+          "label": "Investment Analyst",
+          "value": "Investment Analyst - 019"
+        },
+        {
+          "label": "Investment Broker",
+          "value": "Investment Broker - 020"
+        },
+        {
+          "label": "Stock/Securities Broker",
+          "value": "Stock/Securities Broker - 022"
+        },
+        {
+          "label": "Investment Consultant",
+          "value": "Investment Consultant - 023"
+        },
+        {
+          "label": "Policy Underwriter",
+          "value": "Policy Underwriter - 024"
+        },
+        {
+          "label": "Risk Manager/Compliance Officer",
+          "value": "Risk Manager/Compliance Officer - 025"
+        },
+        {
+          "label": "Securities Analyst/Researcher",
+          "value": "Securities Analyst/Researcher - 026"
+        },
+        {
+          "label": "Tax Accountant",
+          "value": "Tax Accountant - 027"
+        },
+        {
+          "label": "Tax Assessment And Collections Officer",
+          "value": "Tax Assessment And Collections Officer - 028"
+        },
+        {
+          "label": "Assessor/Business Valuator/Appraiser",
+          "value": "Assessor/Business Valuator/Appraiser - 030"
+        },
+        {
+          "label": "Business Management Consultant",
+          "value": "Business Management Consultant - 040"
+        },
+        {
+          "label": "Economist",
+          "value": "Economist - 050"
+        },
+        {
+          "label": "Insurance Agent/Broker",
+          "value": "Insurance Agent/Broker - 060"
+        },
+        {
+          "label": "Manager, Finance",
+          "value": "Manager, Finance - 070"
+        },
+        {
+          "label": "Project/Change Manager-Acctng/Fin/Ins",
+          "value": "Project/Change Manager-Acctng/Fin/Ins - 080"
+        },
+        {
+          "label": "Supervisor, Finance/Insurance Workers",
+          "value": "Supervisor, Finance/Insurance Workers - 090"
+        }
+      ]
+    },
+    {
+      "label": "Administrative/Clerical",
+      "value": "Administrative/Clerical - 020",
+      "listLabel": "Administrative/Clerical - Description",
+      "list": [
+        {
+          "label": "Administrative Assistant",
+          "value": "Administrative Assistant - 001"
+        },
+        {
+          "label": "Claims Processor",
+          "value": "Claims Processor - 003"
+        },
+        {
+          "label": "Executive Assistant",
+          "value": "Executive Assistant - 005"
+        },
+        {
+          "label": "Administrative Officer",
+          "value": "Administrative Officer - 020"
+        },
+        {
+          "label": "Advertising/Marketing/Pr, Professional",
+          "value": "Advertising/Marketing/Pr, Professional - 030"
+        },
+        {
+          "label": "Conference/Event Planner",
+          "value": "Conference/Event Planner - 040"
+        },
+        {
+          "label": "Correspondence/Publication Clerk",
+          "value": "Correspondence/Publication Clerk - 050"
+        },
+        {
+          "label": "Court Clerk/Court Services",
+          "value": "Court Clerk/Court Services - 060"
+        },
+        {
+          "label": "Court Reporter/Medical Transcriber",
+          "value": "Court Reporter/Medical Transcriber - 070"
+        },
+        {
+          "label": "Customs, Ship And Other Broker",
+          "value": "Customs, Ship And Other Broker - 080"
+        },
+        {
+          "label": "Data Entry Clerk",
+          "value": "Data Entry Clerk - 090"
+        },
+        {
+          "label": "Desktop Publishing Operator",
+          "value": "Desktop Publishing Operator - 100"
+        },
+        {
+          "label": "Employment Insurance/Revenue Officer",
+          "value": "Employment Insurance/Revenue Officer - 110"
+        },
+        {
+          "label": "General Office Support Worker",
+          "value": "General Office Support Worker - 120"
+        },
+        {
+          "label": "Human Resources Professional",
+          "value": "Human Resources Professional - 140"
+        },
+        {
+          "label": "Human Resources/Recruitment Officer",
+          "value": "Human Resources/Recruitment Officer - 150"
+        },
+        {
+          "label": "Library Assistant/Clerk",
+          "value": "Library Assistant/Clerk - 160"
+        },
+        {
+          "label": "Manager, Advertising/Marketing/Pr",
+          "value": "Manager, Advertising/Marketing/Pr - 170"
+        },
+        {
+          "label": "Manager, Health Information",
+          "value": "Manager, Health Information - 175"
+        },
+        {
+          "label": "Manager, Human Resources",
+          "value": "Manager, Human Resources - 180"
+        },
+        {
+          "label": "Manager, Purchasing",
+          "value": "Manager, Purchasing - 190"
+        },
+        {
+          "label": "Medical Administrative Assistant",
+          "value": "Medical Administrative Assistant - 200"
+        },
+        {
+          "label": "Payroll Administrator",
+          "value": "Payroll Administrator - 210"
+        },
+        {
+          "label": "Personnel Clerk",
+          "value": "Personnel Clerk - 220"
+        },
+        {
+          "label": "Procurement/Purchasing Agent",
+          "value": "Procurement/Purchasing Agent - 230"
+        },
+        {
+          "label": "Project/Change Manager-Office Support",
+          "value": "Project/Change Manager-Office Support - 235"
+        },
+        {
+          "label": "Property Administrator",
+          "value": "Property Administrator - 240"
+        },
+        {
+          "label": "Receptionist",
+          "value": "Receptionist - 250"
+        },
+        {
+          "label": "Records Management Technician",
+          "value": "Records Management Technician - 260"
+        },
+        {
+          "label": "Regulatory Clerk",
+          "value": "Regulatory Clerk - 270"
+        },
+        {
+          "label": "Statistical Officer/Research Support",
+          "value": "Statistical Officer/Research Support - 280"
+        },
+        {
+          "label": "Storekeeper/Partsperson",
+          "value": "Storekeeper/Partsperson - 290"
+        },
+        {
+          "label": "Supervisor, General Office/Admin/Support",
+          "value": "Supervisor, General Office/Admin/Support - 300"
+        },
+        {
+          "label": "Supervisor, Library/Correspondence",
+          "value": "Supervisor, Library/Correspondence - 310"
+        },
+        {
+          "label": "Survey Interviewer/Statistical Clerk",
+          "value": "Survey Interviewer/Statistical Clerk - 320"
+        }
+      ]
+    },
+    {
+      "label": "Art/Culture",
+      "value": "Art/Culture - 025",
+      "listLabel": "Art/Culture - Description",
+      "list": [
+        {
+          "label": "Actor, Comedian And Circus Performer",
+          "value": "Actor, Comedian And Circus Performer - 010"
+        },
+        {
+          "label": "Agent, Sports/Entertainment",
+          "value": "Agent, Sports/Entertainment - 015"
+        },
+        {
+          "label": "Announcer/Broadcaster",
+          "value": "Announcer/Broadcaster - 020"
+        },
+        {
+          "label": "Archivist",
+          "value": "Archivist - 030"
+        },
+        {
+          "label": "Artisan/Craftsperson",
+          "value": "Artisan/Craftsperson - 040"
+        },
+        {
+          "label": "Audio/Video Recording Technician",
+          "value": "Audio/Video Recording Technician - 050"
+        },
+        {
+          "label": "Author And Writer Except Technical",
+          "value": "Author And Writer Except Technical - 060"
+        },
+        {
+          "label": "Broadcast Technician",
+          "value": "Broadcast Technician - 070"
+        },
+        {
+          "label": "Conductor/Composer/Arranger",
+          "value": "Conductor/Composer/Arranger - 080"
+        },
+        {
+          "label": "Conservator/Curator",
+          "value": "Conservator/Curator - 090"
+        },
+        {
+          "label": "Dancer",
+          "value": "Dancer - 100"
+        },
+        {
+          "label": "Editor",
+          "value": "Editor - 110"
+        },
+        {
+          "label": "Film/Broadcast Assistant And Operator",
+          "value": "Film/Broadcast Assistant And Operator - 120"
+        },
+        {
+          "label": "Film/Video Camera Operator",
+          "value": "Film/Video Camera Operator - 130"
+        },
+        {
+          "label": "Graphic Arts Technician",
+          "value": "Graphic Arts Technician - 140"
+        },
+        {
+          "label": "Graphic Designer/Illustrator",
+          "value": "Graphic Designer/Illustrator - 150"
+        },
+        {
+          "label": "Influencer/Model",
+          "value": "Influencer/Model - 160"
+        },
+        {
+          "label": "Interior Designer/Interior Decorator",
+          "value": "Interior Designer/Interior Decorator - 170"
+        },
+        {
+          "label": "Journalist",
+          "value": "Journalist - 180"
+        },
+        {
+          "label": "Librarian",
+          "value": "Librarian - 190"
+        },
+        {
+          "label": "Library/Public Archive Technician",
+          "value": "Library/Public Archive Technician - 200"
+        },
+        {
+          "label": "Manager, Library/Museum/Art Gallery",
+          "value": "Manager, Library/Museum/Art Gallery - 210"
+        },
+        {
+          "label": "Manager, Sports/Entertainment",
+          "value": "Manager, Sports/Entertainment - 215"
+        },
+        {
+          "label": "Mgr, Publishing/Film/Broadcast/Perf Arts",
+          "value": "Mgr, Publishing/Film/Broadcast/Perf Arts - 220"
+        },
+        {
+          "label": "Museum Registrar/Restorer/Interpreter",
+          "value": "Museum Registrar/Restorer/Interpreter - 230"
+        },
+        {
+          "label": "Musician/Singer",
+          "value": "Musician/Singer - 240"
+        },
+        {
+          "label": "Painter/Sculptor/Visual Artist",
+          "value": "Painter/Sculptor/Visual Artist - 250"
+        },
+        {
+          "label": "Photographer",
+          "value": "Photographer - 260"
+        },
+        {
+          "label": "Photography/Performing Arts Worker",
+          "value": "Photography/Performing Arts Worker - 270"
+        },
+        {
+          "label": "Producer/Director/Choreographer",
+          "value": "Producer/Director/Choreographer - 280"
+        },
+        {
+          "label": "Project/Change Manager-Arts And Culture",
+          "value": "Project/Change Manager-Arts And Culture - 285"
+        },
+        {
+          "label": "Technical Writer",
+          "value": "Technical Writer - 290"
+        },
+        {
+          "label": "Textile/Leather/Fur Patternmaker",
+          "value": "Textile/Leather/Fur Patternmaker - 300"
+        },
+        {
+          "label": "Theatre/Fashion/Exhibit Designer",
+          "value": "Theatre/Fashion/Exhibit Designer - 310"
+        },
+        {
+          "label": "Translator/Terminologist/Interpreter",
+          "value": "Translator/Terminologist/Interpreter - 320"
+        }
+      ]
+    },
+    {
+      "label": "Bank/Real Estate/Mortgage Professionals",
+      "value": "Bank/Real Estate/Mortgage Professionals - 030",
+      "listLabel": "Bank/Real Estate/Mortgage Professionals - Description",
+      "list": [
+        {
+          "label": "Bank Teller",
+          "value": "Bank Teller - 001"
+        },
+        {
+          "label": "Credit Reviewer/Analyst",
+          "value": "Credit Reviewer/Analyst - 005"
+        },
+        {
+          "label": "Escrow Officer/Manager",
+          "value": "Escrow Officer/Manager - 008"
+        },
+        {
+          "label": "Financial Services Rep/Advisor",
+          "value": "Financial Services Rep/Advisor - 009"
+        },
+        {
+          "label": "Investment Banker",
+          "value": "Investment Banker - 010"
+        },
+        {
+          "label": "Loan Officer/Originator",
+          "value": "Loan Officer/Originator - 011"
+        },
+        {
+          "label": "Mortgage Broker",
+          "value": "Mortgage Broker - 012"
+        },
+        {
+          "label": "Real Estate Agent",
+          "value": "Real Estate Agent - 013"
+        },
+        {
+          "label": "Real Estate Agent Leasing/Acquisition",
+          "value": "Real Estate Agent Leasing/Acquisition - 014"
+        },
+        {
+          "label": "Real Estate Appraiser",
+          "value": "Real Estate Appraiser - 015"
+        },
+        {
+          "label": "Real Estate Broker",
+          "value": "Real Estate Broker - 016"
+        },
+        {
+          "label": "Real Estate Developer",
+          "value": "Real Estate Developer - 017"
+        },
+        {
+          "label": "Underwriter",
+          "value": "Underwriter - 020"
+        },
+        {
+          "label": "Manager, Bank/Financial Institution",
+          "value": "Manager, Bank/Financial Institution - 030"
+        },
+        {
+          "label": "Manager, Credit",
+          "value": "Manager, Credit - 040"
+        },
+        {
+          "label": "Project/Change Manager-Bank/Real Estate",
+          "value": "Project/Change Manager-Bank/Real Estate - 050"
+        },
+        {
+          "label": "Real Estate Investor",
+          "value": "Real Estate Investor - 060"
+        }
+      ]
+    },
+    {
+      "label": "Casino/Gaming",
+      "value": "Casino/Gaming - 035",
+      "listLabel": "Casino/Gaming - Description",
+      "list": [
+        {
+          "label": "Casino Or Gaming Dealer/Operator",
+          "value": "Casino Or Gaming Dealer/Operator - 010"
+        },
+        {
+          "label": "Casino/Track Cashier",
+          "value": "Casino/Track Cashier - 020"
+        },
+        {
+          "label": "Casino/Track Surveillance Security",
+          "value": "Casino/Track Surveillance Security - 030"
+        },
+        {
+          "label": "Horse Racing/Off Track Betting Operator",
+          "value": "Horse Racing/Off Track Betting Operator - 040"
+        },
+        {
+          "label": "Manager, Gaming/Casino",
+          "value": "Manager, Gaming/Casino - 050"
+        }
+      ]
+    },
+    {
+      "label": "Community/Care",
+      "value": "Community/Care - 045",
+      "listLabel": "Community/Care - Description",
+      "list": [
+        {
+          "label": "Border/Customs/Immigration Officer",
+          "value": "Border/Customs/Immigration Officer - 010"
+        },
+        {
+          "label": "By-Law Enforcement/Regulatory Officer",
+          "value": "By-Law Enforcement/Regulatory Officer - 020"
+        },
+        {
+          "label": "Chief/Senior Firefighting Officer",
+          "value": "Chief/Senior Firefighting Officer - 030"
+        },
+        {
+          "label": "Combat Member Of The Armed Forces",
+          "value": "Combat Member Of The Armed Forces - 040"
+        },
+        {
+          "label": "Commissioned Armed Forces Officer",
+          "value": "Commissioned Armed Forces Officer - 050"
+        },
+        {
+          "label": "Commissioned Police Officer",
+          "value": "Commissioned Police Officer - 060"
+        },
+        {
+          "label": "Correctional Service Officer",
+          "value": "Correctional Service Officer - 070"
+        },
+        {
+          "label": "Firefighter",
+          "value": "Firefighter - 080"
+        },
+        {
+          "label": "Home Child Care Provider",
+          "value": "Home Child Care Provider - 090"
+        },
+        {
+          "label": "Manager, Community/Correctional Service",
+          "value": "Manager, Community/Correctional Service - 110"
+        },
+        {
+          "label": "Operations Member Of The Armed Forces",
+          "value": "Operations Member Of The Armed Forces - 120"
+        },
+        {
+          "label": "Personal/Home Support Worker/Caregiver",
+          "value": "Personal/Home Support Worker/Caregiver - 125"
+        },
+        {
+          "label": "Police Investigator",
+          "value": "Police Investigator - 130"
+        },
+        {
+          "label": "Police Officer Except Commissioned",
+          "value": "Police Officer Except Commissioned - 140"
+        },
+        {
+          "label": "Probation/Parole Officer",
+          "value": "Probation/Parole Officer - 145"
+        },
+        {
+          "label": "Project/Change Manager-Community",
+          "value": "Project/Change Manager-Community - 147"
+        },
+        {
+          "label": "Security Guard/Security Service",
+          "value": "Security Guard/Security Service - 150"
+        },
+        {
+          "label": "Sheriff And Bailiff",
+          "value": "Sheriff And Bailiff - 160"
+        },
+        {
+          "label": "Social And Community Service Worker",
+          "value": "Social And Community Service Worker - 170"
+        },
+        {
+          "label": "Social Service/Social Worker",
+          "value": "Social Service/Social Worker - 180"
+        },
+        {
+          "label": "Specialized Member Of Armed Forces",
+          "value": "Specialized Member Of Armed Forces - 190"
+        },
+        {
+          "label": "Student Monitor/Crossing Guard",
+          "value": "Student Monitor/Crossing Guard - 200"
+        }
+      ]
+    },
+    {
+      "label": "Computer/Information Systems",
+      "value": "Computer/Information Systems - 055",
+      "listLabel": "Computer/Information Systems - Description",
+      "list": [
+        {
+          "label": "Business Systems Specialist",
+          "value": "Business Systems Specialist - 010"
+        },
+        {
+          "label": "Computer Engineer Ex. Sftwr Engineer",
+          "value": "Computer Engineer Ex. Sftwr Engineer - 030"
+        },
+        {
+          "label": "Computer Network And Web Technician",
+          "value": "Computer Network And Web Technician - 040"
+        },
+        {
+          "label": "Computer System Developer/Programmer",
+          "value": "Computer System Developer/Programmer - 050"
+        },
+        {
+          "label": "Cybersecurity Specialist",
+          "value": "Cybersecurity Specialist - 060"
+        },
+        {
+          "label": "Database Analyst/Data Administrator",
+          "value": "Database Analyst/Data Administrator - 070"
+        },
+        {
+          "label": "Information Systems Specialist",
+          "value": "Information Systems Specialist - 080"
+        },
+        {
+          "label": "Information Systems Testing Technician",
+          "value": "Information Systems Testing Technician - 090"
+        },
+        {
+          "label": "Manager, Computer/Information Systems",
+          "value": "Manager, Computer/Information Systems - 095"
+        },
+        {
+          "label": "Project/Change Manager-It",
+          "value": "Project/Change Manager-It - 097"
+        },
+        {
+          "label": "Software Developer And Programmer",
+          "value": "Software Developer And Programmer - 100"
+        },
+        {
+          "label": "Software Engineer And Designer",
+          "value": "Software Engineer And Designer - 110"
+        },
+        {
+          "label": "User Support Technician",
+          "value": "User Support Technician - 120"
+        },
+        {
+          "label": "Web Site/App Designer",
+          "value": "Web Site/App Designer - 130"
+        },
+        {
+          "label": "Web Site/App Developer And Programmer",
+          "value": "Web Site/App Developer And Programmer - 140"
+        }
+      ]
+    },
+    {
+      "label": "Contractor/Mechanic/Repairer",
+      "value": "Contractor/Mechanic/Repairer - 065",
+      "listLabel": "Contractor/Mechanic/Repairer - Description",
+      "list": [
+        {
+          "label": "Appliance Servicer And Repairer",
+          "value": "Appliance Servicer And Repairer - 010"
+        },
+        {
+          "label": "Auto Body Collision Repair Estimator",
+          "value": "Auto Body Collision Repair Estimator - 020"
+        },
+        {
+          "label": "Auto Body Collision Technician",
+          "value": "Auto Body Collision Technician - 030"
+        },
+        {
+          "label": "Automotive Mechanic",
+          "value": "Automotive Mechanic - 040"
+        },
+        {
+          "label": "Construction Millwright",
+          "value": "Construction Millwright - 050"
+        },
+        {
+          "label": "Electrical Mechanic",
+          "value": "Electrical Mechanic - 060"
+        },
+        {
+          "label": "Electronic Serv. Tech - House/Biz Equip",
+          "value": "Electronic Serv. Tech - House/Biz Equip - 070"
+        },
+        {
+          "label": "Elevator Constructor And Mechanic",
+          "value": "Elevator Constructor And Mechanic - 080"
+        },
+        {
+          "label": "General Maintenance/Repairer",
+          "value": "General Maintenance/Repairer - 090"
+        },
+        {
+          "label": "Heavy-Duty Equipment Mechanic",
+          "value": "Heavy-Duty Equipment Mechanic - 100"
+        },
+        {
+          "label": "Hvac Mechanic/Technician",
+          "value": "Hvac Mechanic/Technician - 110"
+        },
+        {
+          "label": "Industrial Mechanic",
+          "value": "Industrial Mechanic - 120"
+        },
+        {
+          "label": "Manager, Construction",
+          "value": "Manager, Construction - 130"
+        },
+        {
+          "label": "Manager, Home Building/Renovation",
+          "value": "Manager, Home Building/Renovation - 140"
+        },
+        {
+          "label": "Oil And Solid Fuel Heating Mechanic",
+          "value": "Oil And Solid Fuel Heating Mechanic - 150"
+        },
+        {
+          "label": "Supervisor, Carpentry Trades",
+          "value": "Supervisor, Carpentry Trades - 160"
+        },
+        {
+          "label": "Supervisor, Electrical Trade/Telecomm",
+          "value": "Supervisor, Electrical Trade/Telecomm - 170"
+        },
+        {
+          "label": "Supervisor, Machining/Metal Work",
+          "value": "Supervisor, Machining/Metal Work - 180"
+        },
+        {
+          "label": "Supervisor, Mechanic Trades",
+          "value": "Supervisor, Mechanic Trades - 190"
+        },
+        {
+          "label": "Supervisor, Pipefitting",
+          "value": "Supervisor, Pipefitting - 200"
+        },
+        {
+          "label": "Telecomm Line/Cable Installer/Repairer",
+          "value": "Telecomm Line/Cable Installer/Repairer - 210"
+        }
+      ]
+    },
+    {
+      "label": "Education/Training",
+      "value": "Education/Training - 090",
+      "listLabel": "Education/Training - Description",
+      "list": [
+        {
+          "label": "School/College Administrator",
+          "value": "School/College Administrator - 012"
+        },
+        {
+          "label": "School Principal",
+          "value": "School Principal - 013"
+        },
+        {
+          "label": "Career Development And Career Counsellor",
+          "value": "Career Development And Career Counsellor - 020"
+        },
+        {
+          "label": "College And Vocational Instructor",
+          "value": "College And Vocational Instructor - 030"
+        },
+        {
+          "label": "Driving Instructor",
+          "value": "Driving Instructor - 040"
+        },
+        {
+          "label": "Early Childhood Educator/ Assistant",
+          "value": "Early Childhood Educator/ Assistant - 050"
+        },
+        {
+          "label": "Educational Counsellor",
+          "value": "Educational Counsellor - 060"
+        },
+        {
+          "label": "Elementary/Kindergarten Teacher",
+          "value": "Elementary/Kindergarten Teacher - 070"
+        },
+        {
+          "label": "Elementary/Secondary School Teacher Asst",
+          "value": "Elementary/Secondary School Teacher Asst - 080"
+        },
+        {
+          "label": "Flying Instructor",
+          "value": "Flying Instructor - 090"
+        },
+        {
+          "label": "Instructor Of Persons With Disabilities",
+          "value": "Instructor Of Persons With Disabilities - 100"
+        },
+        {
+          "label": "Post Secondary Teaching/Research Asst.",
+          "value": "Post Secondary Teaching/Research Asst. - 110"
+        },
+        {
+          "label": "Project/Change Manager-Education",
+          "value": "Project/Change Manager-Education - 115"
+        },
+        {
+          "label": "Secondary School Teacher",
+          "value": "Secondary School Teacher - 120"
+        },
+        {
+          "label": "University Professor/Lecturer",
+          "value": "University Professor/Lecturer - 130"
+        }
+      ]
+    },
+    {
+      "label": "Engineering",
+      "value": "Engineering - 095",
+      "listLabel": "Engineering - Description",
+      "list": [
+        {
+          "label": "Aerospace Engineer",
+          "value": "Aerospace Engineer - 010"
+        },
+        {
+          "label": "Air Pilot/Flight Engineer",
+          "value": "Air Pilot/Flight Engineer - 015"
+        },
+        {
+          "label": "Chemical Engineer",
+          "value": "Chemical Engineer - 020"
+        },
+        {
+          "label": "Civil Engineer",
+          "value": "Civil Engineer - 030"
+        },
+        {
+          "label": "Electrical/Electronics Engineer",
+          "value": "Electrical/Electronics Engineer - 040"
+        },
+        {
+          "label": "Electronical/Electronic Engineering Tech",
+          "value": "Electronical/Electronic Engineering Tech - 050"
+        },
+        {
+          "label": "Engineer Inspector/Regulatory Officer",
+          "value": "Engineer Inspector/Regulatory Officer - 060"
+        },
+        {
+          "label": "Geological Engineer",
+          "value": "Geological Engineer - 080"
+        },
+        {
+          "label": "Industrial Eng Technologist/Technician",
+          "value": "Industrial Eng Technologist/Technician - 090"
+        },
+        {
+          "label": "Industrial Mftg Technologist/Technician",
+          "value": "Industrial Mftg Technologist/Technician - 100"
+        },
+        {
+          "label": "Industrial/Manufacturing Engineer",
+          "value": "Industrial/Manufacturing Engineer - 110"
+        },
+        {
+          "label": "Manager, Engineering",
+          "value": "Manager, Engineering - 115"
+        },
+        {
+          "label": "Mechanical Engineer",
+          "value": "Mechanical Engineer - 120"
+        },
+        {
+          "label": "Mechanical Engineering Tech",
+          "value": "Mechanical Engineering Tech - 130"
+        },
+        {
+          "label": "Metallurgical/Materials Engineer",
+          "value": "Metallurgical/Materials Engineer - 140"
+        },
+        {
+          "label": "Mining Engineer",
+          "value": "Mining Engineer - 150"
+        },
+        {
+          "label": "Petroleum Engineer",
+          "value": "Petroleum Engineer - 160"
+        },
+        {
+          "label": "Project/Change Manager-Engineering",
+          "value": "Project/Change Manager-Engineering - 170"
+        },
+        {
+          "label": "Railway/Yard Locomotive Engineer",
+          "value": "Railway/Yard Locomotive Engineer - 180"
+        }
+      ]
+    },
+    {
+      "label": "Executive/Senior Management",
+      "value": "Executive/Senior Management - 105",
+      "listLabel": "Executive/Senior Management - Description",
+      "list": [
+        {
+          "label": "Bank Executive",
+          "value": "Bank Executive - 010"
+        },
+        {
+          "label": "C Suite/Sr Manager, Broadcasting Org",
+          "value": "C Suite/Sr Manager, Broadcasting Org - 020"
+        },
+        {
+          "label": "C Suite/Sr Manager, Construction",
+          "value": "C Suite/Sr Manager, Construction - 030"
+        },
+        {
+          "label": "C Suite/Sr Manager, Education/Training",
+          "value": "C Suite/Sr Manager, Education/Training - 040"
+        },
+        {
+          "label": "C Suite/Sr Manager, Health And Medical",
+          "value": "C Suite/Sr Manager, Health And Medical - 050"
+        },
+        {
+          "label": "C Suite/Sr Manager, Manufacturing/Prodn",
+          "value": "C Suite/Sr Manager, Manufacturing/Prodn - 060"
+        },
+        {
+          "label": "C Suite/Sr Manager, Sales/Serv Industry",
+          "value": "C Suite/Sr Manager, Sales/Serv Industry - 070"
+        },
+        {
+          "label": "C Suite/Sr Manager, Social Community Org",
+          "value": "C Suite/Sr Manager, Social Community Org - 080"
+        },
+        {
+          "label": "C Suite/Sr Manager, Trades Industry",
+          "value": "C Suite/Sr Manager, Trades Industry - 090"
+        },
+        {
+          "label": "C Suite/Sr Manager, Transport/Logistic",
+          "value": "C Suite/Sr Manager, Transport/Logistic - 100"
+        },
+        {
+          "label": "Chief Financial Officer Cfo",
+          "value": "Chief Financial Officer Cfo - 110"
+        },
+        {
+          "label": "President/Chief Or Senior Executive",
+          "value": "President/Chief Or Senior Executive - 120"
+        }
+      ]
+    },
+    {
+      "label": "Food Service",
+      "value": "Food Service - 115",
+      "listLabel": "Food Service - Description",
+      "list": [
+        {
+          "label": "Baker",
+          "value": "Baker - 010"
+        },
+        {
+          "label": "Bartender",
+          "value": "Bartender - 020"
+        },
+        {
+          "label": "Butcher, Retail/Wholesale",
+          "value": "Butcher, Retail/Wholesale - 030"
+        },
+        {
+          "label": "Chef",
+          "value": "Chef - 040"
+        },
+        {
+          "label": "Cook",
+          "value": "Cook - 050"
+        },
+        {
+          "label": "Fishmonger, Retail/Wholesale",
+          "value": "Fishmonger, Retail/Wholesale - 060"
+        },
+        {
+          "label": "Food Counter Attendant/Kitchen Helper",
+          "value": "Food Counter Attendant/Kitchen Helper - 070"
+        },
+        {
+          "label": "Food/Beverage Server",
+          "value": "Food/Beverage Server - 080"
+        },
+        {
+          "label": "Manager, Restaurant/Food Service",
+          "value": "Manager, Restaurant/Food Service - 090"
+        },
+        {
+          "label": "Meat Cutter, Retail/Wholesale",
+          "value": "Meat Cutter, Retail/Wholesale - 100"
+        }
+      ]
+    },
+    {
+      "label": "Government/Diplomatic",
+      "value": "Government/Diplomatic - 140",
+      "listLabel": "Government/Diplomatic - Description",
+      "list": [
+        {
+          "label": "Aboriginal Band Chief",
+          "value": "Aboriginal Band Chief - 001"
+        },
+        {
+          "label": "Ambassador",
+          "value": "Ambassador - 002"
+        },
+        {
+          "label": "Executive Council Member Of Government",
+          "value": "Executive Council Member Of Government - 005"
+        },
+        {
+          "label": "Head Of A Government Agency",
+          "value": "Head Of A Government Agency - 006"
+        },
+        {
+          "label": "Head Of State/Government",
+          "value": "Head Of State/Government - 007"
+        },
+        {
+          "label": "Leader/President Of Political Party",
+          "value": "Leader/President Of Political Party - 008"
+        },
+        {
+          "label": "Member Of Legislature/Parliament",
+          "value": "Member Of Legislature/Parliament - 009"
+        },
+        {
+          "label": "President Of State-Owned Company/Bank",
+          "value": "President Of State-Owned Company/Bank - 010"
+        },
+        {
+          "label": "Mayor",
+          "value": "Mayor - 011"
+        },
+        {
+          "label": "City/Town Councillor",
+          "value": "City/Town Councillor - 012"
+        },
+        {
+          "label": "Business Dev. Officer/Market Researcher",
+          "value": "Business Dev. Officer/Market Researcher - 020"
+        },
+        {
+          "label": "Deputy Minister Or Equivalent Rank",
+          "value": "Deputy Minister Or Equivalent Rank - 030"
+        },
+        {
+          "label": "Diplomat Incl. Attache/Counselor",
+          "value": "Diplomat Incl. Attache/Counselor - 040"
+        },
+        {
+          "label": "Education Policy Resrchr/Prog Officer",
+          "value": "Education Policy Resrchr/Prog Officer - 060"
+        },
+        {
+          "label": "Govt Mgr In Econ Analysis Policy Devel",
+          "value": "Govt Mgr In Econ Analysis Policy Devel - 070"
+        },
+        {
+          "label": "Govt Mgr In Education Policy Devel",
+          "value": "Govt Mgr In Education Policy Devel - 080"
+        },
+        {
+          "label": "Govt Mgr In Health/Social Policy Devel",
+          "value": "Govt Mgr In Health/Social Policy Devel - 090"
+        },
+        {
+          "label": "Health Policy Researcher/Program Officer",
+          "value": "Health Policy Researcher/Program Officer - 100"
+        },
+        {
+          "label": "Military Officer Rank General Or Above",
+          "value": "Military Officer Rank General Or Above - 105"
+        },
+        {
+          "label": "Policy Researcher And Program Officer",
+          "value": "Policy Researcher And Program Officer - 110"
+        },
+        {
+          "label": "Program Officer Unique To Government",
+          "value": "Program Officer Unique To Government - 120"
+        },
+        {
+          "label": "Project/Change Manager-Government Org",
+          "value": "Project/Change Manager-Government Org - 125"
+        },
+        {
+          "label": "Recreation Policy Resrchr/Prog Officer",
+          "value": "Recreation Policy Resrchr/Prog Officer - 130"
+        },
+        {
+          "label": "Reeve",
+          "value": "Reeve - 140"
+        },
+        {
+          "label": "Social Policy Researcher/Program Officer",
+          "value": "Social Policy Researcher/Program Officer - 150"
+        },
+        {
+          "label": "Head Of International Organization",
+          "value": "Head Of International Organization - 160"
+        }
+      ]
+    },
+    {
+      "label": "Labourer/Assembly Worker",
+      "value": "Labourer/Assembly Worker - 145",
+      "listLabel": "Labourer/Assembly Worker - Description",
+      "list": [
+        {
+          "label": "Aircraft Assembler And Inspector",
+          "value": "Aircraft Assembler And Inspector - 010"
+        },
+        {
+          "label": "Assembly/Assembly Line Worker",
+          "value": "Assembly/Assembly Line Worker - 020"
+        },
+        {
+          "label": "Car Assembler/Inspector/Tester",
+          "value": "Car Assembler/Inspector/Tester - 030"
+        },
+        {
+          "label": "Construction Trades Helper/Labourer",
+          "value": "Construction Trades Helper/Labourer - 040"
+        },
+        {
+          "label": "Electric Motor Assembler/Inspector",
+          "value": "Electric Motor Assembler/Inspector - 050"
+        },
+        {
+          "label": "Electrical Appliance Assembler/Inspector",
+          "value": "Electrical Appliance Assembler/Inspector - 060"
+        },
+        {
+          "label": "Electronic Assembler/Inspector/Tester",
+          "value": "Electronic Assembler/Inspector/Tester - 070"
+        },
+        {
+          "label": "Furniture And Fixture Maker/Inspector",
+          "value": "Furniture And Fixture Maker/Inspector - 080"
+        },
+        {
+          "label": "Labourer In Chemical Products Processing",
+          "value": "Labourer In Chemical Products Processing - 090"
+        },
+        {
+          "label": "Labourer In Fish And Seafood Processing",
+          "value": "Labourer In Fish And Seafood Processing - 100"
+        },
+        {
+          "label": "Labourer In Food And Beverage Processing",
+          "value": "Labourer In Food And Beverage Processing - 110"
+        },
+        {
+          "label": "Labourer In Metal Fabrication",
+          "value": "Labourer In Metal Fabrication - 120"
+        },
+        {
+          "label": "Labourer In Mineral And Metal Processing",
+          "value": "Labourer In Mineral And Metal Processing - 130"
+        },
+        {
+          "label": "Labourer In Rubber/Plastic Fabricating",
+          "value": "Labourer In Rubber/Plastic Fabricating - 140"
+        },
+        {
+          "label": "Labourer In Textile Processing/Cutting",
+          "value": "Labourer In Textile Processing/Cutting - 150"
+        },
+        {
+          "label": "Labourer In Wood, Pulp And Papermaking",
+          "value": "Labourer In Wood, Pulp And Papermaking - 160"
+        },
+        {
+          "label": "Mechanical Assembler And Inspector",
+          "value": "Mechanical Assembler And Inspector - 170"
+        },
+        {
+          "label": "Plastic Products Assembler/Inspector",
+          "value": "Plastic Products Assembler/Inspector - 180"
+        },
+        {
+          "label": "Supervisor, Motor Vehicle Assembling",
+          "value": "Supervisor, Motor Vehicle Assembling - 190"
+        },
+        {
+          "label": "Wood Products Assembler/Inspector",
+          "value": "Wood Products Assembler/Inspector - 200"
+        }
+      ]
+    },
+    {
+      "label": "Legal",
+      "value": "Legal - 180",
+      "listLabel": "Legal - Description",
+      "list": [
+        {
+          "label": "Corporate Attorney/Lawyer",
+          "value": "Corporate Attorney/Lawyer - 001"
+        },
+        {
+          "label": "Criminal Lawyer",
+          "value": "Criminal Lawyer - 002"
+        },
+        {
+          "label": "Private Practice Attorney/Lawyer",
+          "value": "Private Practice Attorney/Lawyer - 003"
+        },
+        {
+          "label": "Government Attorney/Lawyer",
+          "value": "Government Attorney/Lawyer - 004"
+        },
+        {
+          "label": "Contracts Administration Lawyer",
+          "value": "Contracts Administration Lawyer - 005"
+        },
+        {
+          "label": "Legal Secretary",
+          "value": "Legal Secretary - 008"
+        },
+        {
+          "label": "Paralegal",
+          "value": "Paralegal - 009"
+        },
+        {
+          "label": "Patent/Ip Lawyer",
+          "value": "Patent/Ip Lawyer - 010"
+        },
+        {
+          "label": "Real Estate Lawyer",
+          "value": "Real Estate Lawyer - 011"
+        },
+        {
+          "label": "Regulatory/Compliance Lawyer",
+          "value": "Regulatory/Compliance Lawyer - 012"
+        },
+        {
+          "label": "Tax Lawyer",
+          "value": "Tax Lawyer - 013"
+        },
+        {
+          "label": "Judge",
+          "value": "Judge - 014"
+        },
+        {
+          "label": "Labour And Employment Lawyer",
+          "value": "Labour And Employment Lawyer - 020"
+        }
+      ]
+    },
+    {
+      "label": "Machine/Equipment Operator",
+      "value": "Machine/Equipment Operator - 185",
+      "listLabel": "Machine/Equipment Operator - Description",
+      "list": [
+        {
+          "label": "Binding And Finishing Machine Operator",
+          "value": "Binding And Finishing Machine Operator - 010"
+        },
+        {
+          "label": "Chain Saw And Skidder Operator",
+          "value": "Chain Saw And Skidder Operator - 020"
+        },
+        {
+          "label": "Chemical Plant Machine Operator",
+          "value": "Chemical Plant Machine Operator - 030"
+        },
+        {
+          "label": "Crane Operator",
+          "value": "Crane Operator - 040"
+        },
+        {
+          "label": "Electrical Parts Fabricator/Inspector",
+          "value": "Electrical Parts Fabricator/Inspector - 050"
+        },
+        {
+          "label": "Farm Machinery Operator",
+          "value": "Farm Machinery Operator - 060"
+        },
+        {
+          "label": "Food And Beverage Machine Operator",
+          "value": "Food And Beverage Machine Operator - 070"
+        },
+        {
+          "label": "Glass Making Machine Operator",
+          "value": "Glass Making Machine Operator - 080"
+        },
+        {
+          "label": "Heavy Equipment Operator",
+          "value": "Heavy Equipment Operator - 090"
+        },
+        {
+          "label": "Industrial Sewing Machine Operator",
+          "value": "Industrial Sewing Machine Operator - 100"
+        },
+        {
+          "label": "Logging Machinery Operator",
+          "value": "Logging Machinery Operator - 110"
+        },
+        {
+          "label": "Machining Tool Operator",
+          "value": "Machining Tool Operator - 120"
+        },
+        {
+          "label": "Metalworking/Forging Machine Operator",
+          "value": "Metalworking/Forging Machine Operator - 130"
+        },
+        {
+          "label": "Mineral And Metal Machine Operator",
+          "value": "Mineral And Metal Machine Operator - 140"
+        },
+        {
+          "label": "Paper Converting Machine Operator",
+          "value": "Paper Converting Machine Operator - 150"
+        },
+        {
+          "label": "Plastics Processing Machine Operator",
+          "value": "Plastics Processing Machine Operator - 160"
+        },
+        {
+          "label": "Plateless Printing Equipment Operator",
+          "value": "Plateless Printing Equipment Operator - 170"
+        },
+        {
+          "label": "Printing Press Operator",
+          "value": "Printing Press Operator - 180"
+        },
+        {
+          "label": "Public Works Maintenance Equip Operator",
+          "value": "Public Works Maintenance Equip Operator - 190"
+        },
+        {
+          "label": "Pulp Mill, Papermaking Machine Operator",
+          "value": "Pulp Mill, Papermaking Machine Operator - 200"
+        },
+        {
+          "label": "Rubber Processing Machine Operator",
+          "value": "Rubber Processing Machine Operator - 210"
+        },
+        {
+          "label": "Sawmill Machine Operator",
+          "value": "Sawmill Machine Operator - 220"
+        },
+        {
+          "label": "Supervisor, Heavy Equip Operator Crews",
+          "value": "Supervisor, Heavy Equip Operator Crews - 230"
+        },
+        {
+          "label": "Textile/Hide/Pelt Machine Operator",
+          "value": "Textile/Hide/Pelt Machine Operator - 240"
+        },
+        {
+          "label": "Welder",
+          "value": "Welder - 250"
+        },
+        {
+          "label": "Woodworking Machine Operator",
+          "value": "Woodworking Machine Operator - 260"
+        }
+      ]
+    },
+    {
+      "label": "Manufacturing/Production",
+      "value": "Manufacturing/Production - 195",
+      "listLabel": "Manufacturing/Production - Description",
+      "list": [
+        {
+          "label": "Manager, Manufacturing",
+          "value": "Manager, Manufacturing - 010"
+        },
+        {
+          "label": "Camera, Platemaking Worker",
+          "value": "Camera, Platemaking Worker - 020"
+        },
+        {
+          "label": "Concrete/Clay/Stone Forming Operator",
+          "value": "Concrete/Clay/Stone Forming Operator - 030"
+        },
+        {
+          "label": "Fish And Seafood Plant Worker",
+          "value": "Fish And Seafood Plant Worker - 040"
+        },
+        {
+          "label": "Food And Beverage Tester/Grader",
+          "value": "Food And Beverage Tester/Grader - 050"
+        },
+        {
+          "label": "Foundry Worker",
+          "value": "Foundry Worker - 060"
+        },
+        {
+          "label": "Industrial Painters And Metal Finisher",
+          "value": "Industrial Painters And Metal Finisher - 070"
+        },
+        {
+          "label": "Lumber Inspector/Grader",
+          "value": "Lumber Inspector/Grader - 080"
+        },
+        {
+          "label": "Manager, Utilities",
+          "value": "Manager, Utilities - 090"
+        },
+        {
+          "label": "Mineral And Metal Control/Process Ops",
+          "value": "Mineral And Metal Control/Process Ops - 100"
+        },
+        {
+          "label": "Mineral And Metal Inspector/Tester",
+          "value": "Mineral And Metal Inspector/Tester - 110"
+        },
+        {
+          "label": "Petroleum/Gas Control/Process Operator",
+          "value": "Petroleum/Gas Control/Process Operator - 120"
+        },
+        {
+          "label": "Photographic And Film Processor",
+          "value": "Photographic And Film Processor - 130"
+        },
+        {
+          "label": "Power Engineer And Power System Operator",
+          "value": "Power Engineer And Power System Operator - 140"
+        },
+        {
+          "label": "Project/Change Manager-Manufacturing",
+          "value": "Project/Change Manager-Manufacturing - 145"
+        },
+        {
+          "label": "Pulping/Papermaking Control Operator",
+          "value": "Pulping/Papermaking Control Operator - 150"
+        },
+        {
+          "label": "Supervisor, Electronics Manufacturing",
+          "value": "Supervisor, Electronics Manufacturing - 160"
+        },
+        {
+          "label": "Supervisor, Food And Beverage Processing",
+          "value": "Supervisor, Food And Beverage Processing - 170"
+        },
+        {
+          "label": "Supervisor, Forest Products Processing",
+          "value": "Supervisor, Forest Products Processing - 180"
+        },
+        {
+          "label": "Supervisor, Furniture And Fixture Making",
+          "value": "Supervisor, Furniture And Fixture Making - 190"
+        },
+        {
+          "label": "Supervisor, Metal Products Manufacturing",
+          "value": "Supervisor, Metal Products Manufacturing - 200"
+        },
+        {
+          "label": "Supervisor, Mineral And Metal Processing",
+          "value": "Supervisor, Mineral And Metal Processing - 210"
+        },
+        {
+          "label": "Supervisor, Petroleum/Chemical Making",
+          "value": "Supervisor, Petroleum/Chemical Making - 220"
+        },
+        {
+          "label": "Supervisor, Textile Product Processing",
+          "value": "Supervisor, Textile Product Processing - 230"
+        },
+        {
+          "label": "Supervisor. Plastic And Rubber Products",
+          "value": "Supervisor. Plastic And Rubber Products - 240"
+        },
+        {
+          "label": "Textile/Fur/Leather Inspector/Grader",
+          "value": "Textile/Fur/Leather Inspector/Grader - 250"
+        },
+        {
+          "label": "Water/Waste Treatment Plant Operator",
+          "value": "Water/Waste Treatment Plant Operator - 260"
+        },
+        {
+          "label": "Weaver And Knitter",
+          "value": "Weaver And Knitter - 270"
+        }
+      ]
+    },
+    {
+      "label": "Medical Assistant/Technician",
+      "value": "Medical Assistant/Technician - 205",
+      "listLabel": "Medical Assistant/Technician - Description",
+      "list": [
+        {
+          "label": "Cardiology Technologist",
+          "value": "Cardiology Technologist - 010"
+        },
+        {
+          "label": "Dental Assistant/Dental Lab Assistant",
+          "value": "Dental Assistant/Dental Lab Assistant - 020"
+        },
+        {
+          "label": "Dental Technologist/Technician",
+          "value": "Dental Technologist/Technician - 030"
+        },
+        {
+          "label": "Massage Therapist/Masseuse",
+          "value": "Massage Therapist/Masseuse - 040"
+        },
+        {
+          "label": "Medical Lab Assistant/Technician",
+          "value": "Medical Lab Assistant/Technician - 050"
+        },
+        {
+          "label": "Medical Laboratory Technologist",
+          "value": "Medical Laboratory Technologist - 060"
+        },
+        {
+          "label": "Medical Radiation Technologist",
+          "value": "Medical Radiation Technologist - 070"
+        },
+        {
+          "label": "Nurse Aid And Patient Service Assoc.",
+          "value": "Nurse Aid And Patient Service Assoc. - 080"
+        },
+        {
+          "label": "Pharmacy Assistant",
+          "value": "Pharmacy Assistant - 090"
+        },
+        {
+          "label": "Pharmacy Technician",
+          "value": "Pharmacy Technician - 100"
+        },
+        {
+          "label": "Physician Assistant Or Midwife",
+          "value": "Physician Assistant Or Midwife - 110"
+        },
+        {
+          "label": "Respiratory Therapist/Technician",
+          "value": "Respiratory Therapist/Technician - 120"
+        },
+        {
+          "label": "Veterinary Technician",
+          "value": "Veterinary Technician - 130"
+        }
+      ]
+    },
+    {
+      "label": "Medical Practitioner",
+      "value": "Medical Practitioner - 215",
+      "listLabel": "Medical Practitioner - Description",
+      "list": [
+        {
+          "label": "Audiologist/Speech Pathologist",
+          "value": "Audiologist/Speech Pathologist - 010"
+        },
+        {
+          "label": "Chiropractor",
+          "value": "Chiropractor - 020"
+        },
+        {
+          "label": "Clinical/Laboratory Medicine Specialist",
+          "value": "Clinical/Laboratory Medicine Specialist - 030"
+        },
+        {
+          "label": "Dental Hygienist/Dental Therapist",
+          "value": "Dental Hygienist/Dental Therapist - 040"
+        },
+        {
+          "label": "Dentist",
+          "value": "Dentist - 050"
+        },
+        {
+          "label": "Denturist",
+          "value": "Denturist - 060"
+        },
+        {
+          "label": "Dietitian/Nutritionist",
+          "value": "Dietitian/Nutritionist - 070"
+        },
+        {
+          "label": "Emt/Paramedic",
+          "value": "Emt/Paramedic - 080"
+        },
+        {
+          "label": "General Practitioner/Family Physician",
+          "value": "General Practitioner/Family Physician - 090"
+        },
+        {
+          "label": "Kinesiologist",
+          "value": "Kinesiologist - 100"
+        },
+        {
+          "label": "Licensed Practical Nurse",
+          "value": "Licensed Practical Nurse - 110"
+        },
+        {
+          "label": "Manager, Health Care",
+          "value": "Manager, Health Care - 120"
+        },
+        {
+          "label": "Medical Professional",
+          "value": "Medical Professional - 130"
+        },
+        {
+          "label": "Medical Sonographer",
+          "value": "Medical Sonographer - 140"
+        },
+        {
+          "label": "Naturopath",
+          "value": "Naturopath - 150"
+        },
+        {
+          "label": "Nurse Practitioner",
+          "value": "Nurse Practitioner - 160"
+        },
+        {
+          "label": "Occupational Therapist",
+          "value": "Occupational Therapist - 170"
+        },
+        {
+          "label": "Optician",
+          "value": "Optician - 180"
+        },
+        {
+          "label": "Optometrist",
+          "value": "Optometrist - 190"
+        },
+        {
+          "label": "Orthodontist",
+          "value": "Orthodontist - 195"
+        },
+        {
+          "label": "Pharmacist",
+          "value": "Pharmacist - 200"
+        },
+        {
+          "label": "Physiotherapist",
+          "value": "Physiotherapist - 210"
+        },
+        {
+          "label": "Psychiatrist",
+          "value": "Psychiatrist - 215"
+        },
+        {
+          "label": "Psychologist",
+          "value": "Psychologist - 220"
+        },
+        {
+          "label": "Registered Nurse/Psychiatric Nurse",
+          "value": "Registered Nurse/Psychiatric Nurse - 230"
+        },
+        {
+          "label": "Specialist, Surgery",
+          "value": "Specialist, Surgery - 240"
+        },
+        {
+          "label": "Supervisor/Coordinator, Nursing",
+          "value": "Supervisor/Coordinator, Nursing - 250"
+        },
+        {
+          "label": "Therapist In Counselling",
+          "value": "Therapist In Counselling - 260"
+        },
+        {
+          "label": "Traditional Chinese Med/Acupuncturist",
+          "value": "Traditional Chinese Med/Acupuncturist - 270"
+        },
+        {
+          "label": "Veterinarian",
+          "value": "Veterinarian - 280"
+        }
+      ]
+    },
+    {
+      "label": "Natural Resources/Agriculture",
+      "value": "Natural Resources/Agriculture - 225",
+      "listLabel": "Natural Resources/Agriculture - Description",
+      "list": [
+        {
+          "label": "Aquaculture And Marine Harvest Labourer",
+          "value": "Aquaculture And Marine Harvest Labourer - 010"
+        },
+        {
+          "label": "Contractor/Supervisor, Agric. Service",
+          "value": "Contractor/Supervisor, Agric. Service - 020"
+        },
+        {
+          "label": "Fishermen/Women",
+          "value": "Fishermen/Women - 030"
+        },
+        {
+          "label": "Fishing Master/Officer",
+          "value": "Fishing Master/Officer - 040"
+        },
+        {
+          "label": "Fishing Vessel Deckhand",
+          "value": "Fishing Vessel Deckhand - 050"
+        },
+        {
+          "label": "Harvesting Labourer",
+          "value": "Harvesting Labourer - 060"
+        },
+        {
+          "label": "Landscape And Grounds Maint Labourer",
+          "value": "Landscape And Grounds Maint Labourer - 070"
+        },
+        {
+          "label": "Livestock Labourer",
+          "value": "Livestock Labourer - 080"
+        },
+        {
+          "label": "Logging And Forestry Labourer",
+          "value": "Logging And Forestry Labourer - 090"
+        },
+        {
+          "label": "Manager, Agriculture",
+          "value": "Manager, Agriculture - 100"
+        },
+        {
+          "label": "Manager, Aquaculture",
+          "value": "Manager, Aquaculture - 110"
+        },
+        {
+          "label": "Manager, Horticulture",
+          "value": "Manager, Horticulture - 120"
+        },
+        {
+          "label": "Mgr, Natural Resrc Production/Fishing",
+          "value": "Mgr, Natural Resrc Production/Fishing - 130"
+        },
+        {
+          "label": "Mine Labourer",
+          "value": "Mine Labourer - 140"
+        },
+        {
+          "label": "Nursery And Greenhouse Labourer",
+          "value": "Nursery And Greenhouse Labourer - 150"
+        },
+        {
+          "label": "Oil And Gas Drilling, Servicing Labourer",
+          "value": "Oil And Gas Drilling, Servicing Labourer - 160"
+        },
+        {
+          "label": "Oil/Gas Drilling Services Professional",
+          "value": "Oil/Gas Drilling Services Professional - 170"
+        },
+        {
+          "label": "Oil/Gas Well Driller, Servicer, Tester",
+          "value": "Oil/Gas Well Driller, Servicer, Tester - 180"
+        },
+        {
+          "label": "Oil/Gas Well Drilling Service Operator",
+          "value": "Oil/Gas Well Drilling Service Operator - 190"
+        },
+        {
+          "label": "Project/Change Manager-Natural Resources",
+          "value": "Project/Change Manager-Natural Resources - 195"
+        },
+        {
+          "label": "Silviculture And Forestry Worker",
+          "value": "Silviculture And Forestry Worker - 200"
+        },
+        {
+          "label": "Specialized Livestock Worker",
+          "value": "Specialized Livestock Worker - 210"
+        },
+        {
+          "label": "Supervisor, Landscape And Horticulture",
+          "value": "Supervisor, Landscape And Horticulture - 220"
+        },
+        {
+          "label": "Supervisor, Logging And Forestry",
+          "value": "Supervisor, Logging And Forestry - 230"
+        },
+        {
+          "label": "Supervisor, Mining And Quarrying",
+          "value": "Supervisor, Mining And Quarrying - 240"
+        },
+        {
+          "label": "Trapper And Hunter",
+          "value": "Trapper And Hunter - 250"
+        },
+        {
+          "label": "Underground Mine Service/Support Worker",
+          "value": "Underground Mine Service/Support Worker - 260"
+        },
+        {
+          "label": "Underground Production And Devlpmt Miner",
+          "value": "Underground Production And Devlpmt Miner - 270"
+        }
+      ]
+    },
+    {
+      "label": "Natural/Applied Sciences",
+      "value": "Natural/Applied Sciences - 235",
+      "listLabel": "Natural/Applied Sciences - Description",
+      "list": [
+        {
+          "label": "Agricultural And Fish Products Inspector",
+          "value": "Agricultural And Fish Products Inspector - 010"
+        },
+        {
+          "label": "Agricultural Rep, Consultant, Specialist",
+          "value": "Agricultural Rep, Consultant, Specialist - 020"
+        },
+        {
+          "label": "Aircraft Instrument Tech And Inspector",
+          "value": "Aircraft Instrument Tech And Inspector - 030"
+        },
+        {
+          "label": "Architect",
+          "value": "Architect - 040"
+        },
+        {
+          "label": "Architectural Technologist/Technician",
+          "value": "Architectural Technologist/Technician - 050"
+        },
+        {
+          "label": "Biological Technologist/Technician",
+          "value": "Biological Technologist/Technician - 070"
+        },
+        {
+          "label": "Biologist",
+          "value": "Biologist - 080"
+        },
+        {
+          "label": "Chemical Technologist And Technician",
+          "value": "Chemical Technologist And Technician - 090"
+        },
+        {
+          "label": "Chemist",
+          "value": "Chemist - 100"
+        },
+        {
+          "label": "Civil Eng Technologist/Technician",
+          "value": "Civil Eng Technologist/Technician - 110"
+        },
+        {
+          "label": "Conservation And Fishery Officer",
+          "value": "Conservation And Fishery Officer - 120"
+        },
+        {
+          "label": "Construction/Infrastructure Inspector",
+          "value": "Construction/Infrastructure Inspector - 130"
+        },
+        {
+          "label": "Construction Estimator/Quantity Surveyor",
+          "value": "Construction Estimator/Quantity Surveyor - 140"
+        },
+        {
+          "label": "Data Scientist",
+          "value": "Data Scientist - 150"
+        },
+        {
+          "label": "Drafting Technologist/Technician",
+          "value": "Drafting Technologist/Technician - 160"
+        },
+        {
+          "label": "Enviro Health And Safety Officer",
+          "value": "Enviro Health And Safety Officer - 170"
+        },
+        {
+          "label": "Forestry Management/Harvest Professional",
+          "value": "Forestry Management/Harvest Professional - 180"
+        },
+        {
+          "label": "Forestry Technologist/Technician",
+          "value": "Forestry Technologist/Technician - 190"
+        },
+        {
+          "label": "Geo And Mineral Technologist/Technician",
+          "value": "Geo And Mineral Technologist/Technician - 200"
+        },
+        {
+          "label": "Geoscientist And Oceanographer",
+          "value": "Geoscientist And Oceanographer - 210"
+        },
+        {
+          "label": "Industrial Instrument Tech /Mechanic",
+          "value": "Industrial Instrument Tech /Mechanic - 220"
+        },
+        {
+          "label": "Industrial/Product Designer",
+          "value": "Industrial/Product Designer - 230"
+        },
+        {
+          "label": "Land Survey Technologist/Technician",
+          "value": "Land Survey Technologist/Technician - 240"
+        },
+        {
+          "label": "Land Surveyor",
+          "value": "Land Surveyor - 250"
+        },
+        {
+          "label": "Landscape Architect",
+          "value": "Landscape Architect - 260"
+        },
+        {
+          "label": "Landscape, Horticulture Tech/Specialist",
+          "value": "Landscape, Horticulture Tech/Specialist - 270"
+        },
+        {
+          "label": "Manager, Architecture And Science",
+          "value": "Manager, Architecture And Science - 275"
+        },
+        {
+          "label": "Mathematician, Statistician, Actuary",
+          "value": "Mathematician, Statistician, Actuary - 280"
+        },
+        {
+          "label": "Meteorologist/Climatologist",
+          "value": "Meteorologist/Climatologist - 290"
+        },
+        {
+          "label": "Non-Destructive Tester And Inspector",
+          "value": "Non-Destructive Tester And Inspector - 300"
+        },
+        {
+          "label": "Occupational Health/Safety Professional",
+          "value": "Occupational Health/Safety Professional - 310"
+        },
+        {
+          "label": "Physicist/Astronomer",
+          "value": "Physicist/Astronomer - 320"
+        },
+        {
+          "label": "Project/Change Manager-Applied Sciences",
+          "value": "Project/Change Manager-Applied Sciences - 325"
+        },
+        {
+          "label": "Sociologist/Anthropologist",
+          "value": "Sociologist/Anthropologist - 330"
+        },
+        {
+          "label": "Technical Role In Geomatics/Meteorology",
+          "value": "Technical Role In Geomatics/Meteorology - 340"
+        },
+        {
+          "label": "Urban/Land Use Planner",
+          "value": "Urban/Land Use Planner - 350"
+        }
+      ]
+    },
+    {
+      "label": "Recreation/Sport",
+      "value": "Recreation/Sport - 245",
+      "listLabel": "Recreation/Sport - Description",
+      "list": [
+        {
+          "label": "Athlete",
+          "value": "Athlete - 010"
+        },
+        {
+          "label": "Coach",
+          "value": "Coach - 020"
+        },
+        {
+          "label": "Program Director, Sports/Fitness",
+          "value": "Program Director, Sports/Fitness - 030"
+        },
+        {
+          "label": "Recreation/Sport Program Instructor",
+          "value": "Recreation/Sport Program Instructor - 040"
+        },
+        {
+          "label": "Sports Official/Referee",
+          "value": "Sports Official/Referee - 050"
+        },
+        {
+          "label": "Head Of International Sports Org",
+          "value": "Head Of International Sports Org - 060"
+        }
+      ]
+    },
+    {
+      "label": "Religious Professionals",
+      "value": "Religious Professionals - 260",
+      "listLabel": "Religious Professionals - Description",
+      "list": [
+        {
+          "label": "Religious Leader",
+          "value": "Religious Leader - 001"
+        },
+        {
+          "label": "Missionary/Aid Worker",
+          "value": "Missionary/Aid Worker - 002"
+        },
+        {
+          "label": "Religious Practitioner",
+          "value": "Religious Practitioner - 003"
+        }
+      ]
+    },
+    {
+      "label": "Sales",
+      "value": "Sales - 265",
+      "listLabel": "Sales - Description",
+      "list": [
+        {
+          "label": "Airline Ticket And Service Agent",
+          "value": "Airline Ticket And Service Agent - 010"
+        },
+        {
+          "label": "Florist",
+          "value": "Florist - 020"
+        },
+        {
+          "label": "Ground, Water Transport Ticket Agent",
+          "value": "Ground, Water Transport Ticket Agent - 030"
+        },
+        {
+          "label": "Jeweller/Precious Metals Dealer",
+          "value": "Jeweller/Precious Metals Dealer - 040"
+        },
+        {
+          "label": "Manager, Corporate Sales",
+          "value": "Manager, Corporate Sales - 045"
+        },
+        {
+          "label": "Manager, Retail/Wholesale Trade",
+          "value": "Manager, Retail/Wholesale Trade - 047"
+        },
+        {
+          "label": "Retail Salesperson/Visual Merchandiser",
+          "value": "Retail Salesperson/Visual Merchandiser - 050"
+        },
+        {
+          "label": "Retail/Wholesale Buyer",
+          "value": "Retail/Wholesale Buyer - 060"
+        },
+        {
+          "label": "Sales Support/Assistance Agent",
+          "value": "Sales Support/Assistance Agent - 080"
+        },
+        {
+          "label": "Sales/Acct Rep Non-Tech - Wholesale",
+          "value": "Sales/Acct Rep Non-Tech - Wholesale - 090"
+        },
+        {
+          "label": "Supervisor, Retail Sales",
+          "value": "Supervisor, Retail Sales - 100"
+        },
+        {
+          "label": "Technical Sales Specialist - Wholesale",
+          "value": "Technical Sales Specialist - Wholesale - 110"
+        },
+        {
+          "label": "Telemarketer",
+          "value": "Telemarketer - 120"
+        }
+      ]
+    },
+    {
+      "label": "Service",
+      "value": "Service - 275",
+      "listLabel": "Service - Description",
+      "list": [
+        {
+          "label": "Amusement, Recreation, Sport Attendant",
+          "value": "Amusement, Recreation, Sport Attendant - 010"
+        },
+        {
+          "label": "Call Center Agent",
+          "value": "Call Center Agent - 020"
+        },
+        {
+          "label": "Cargo Service Representative",
+          "value": "Cargo Service Representative - 030"
+        },
+        {
+          "label": "Cashier",
+          "value": "Cashier - 040"
+        },
+        {
+          "label": "Courier/Messenger",
+          "value": "Courier/Messenger - 045"
+        },
+        {
+          "label": "Customer Service Rep - Finl Institution",
+          "value": "Customer Service Rep - Finl Institution - 050"
+        },
+        {
+          "label": "Dry-Cleaning, Laundry Worker",
+          "value": "Dry-Cleaning, Laundry Worker - 060"
+        },
+        {
+          "label": "Esthetician/Beauty Treatment Operator",
+          "value": "Esthetician/Beauty Treatment Operator - 070"
+        },
+        {
+          "label": "Executive Housekeeper",
+          "value": "Executive Housekeeper - 080"
+        },
+        {
+          "label": "Funeral Director And Embalmer",
+          "value": "Funeral Director And Embalmer - 090"
+        },
+        {
+          "label": "Hairstylist/Barber",
+          "value": "Hairstylist/Barber - 100"
+        },
+        {
+          "label": "Image, Social And Personal Consultant",
+          "value": "Image, Social And Personal Consultant - 110"
+        },
+        {
+          "label": "Information Services Rep",
+          "value": "Information Services Rep - 120"
+        },
+        {
+          "label": "Janitor, Caretaker, Heavy-Duty Cleaner",
+          "value": "Janitor, Caretaker, Heavy-Duty Cleaner - 130"
+        },
+        {
+          "label": "Letter Carrier",
+          "value": "Letter Carrier - 135"
+        },
+        {
+          "label": "Light Duty Cleaner",
+          "value": "Light Duty Cleaner - 140"
+        },
+        {
+          "label": "Mail And Parcel Sorter",
+          "value": "Mail And Parcel Sorter - 145"
+        },
+        {
+          "label": "Maitres D'Hotel/Host/Hostess",
+          "value": "Maitres D'Hotel/Host/Hostess - 150"
+        },
+        {
+          "label": "Manager, Customer/Personal Services",
+          "value": "Manager, Customer/Personal Services - 160"
+        },
+        {
+          "label": "Manager, Postal And Courier Services",
+          "value": "Manager, Postal And Courier Services - 170"
+        },
+        {
+          "label": "Mover",
+          "value": "Mover - 175"
+        },
+        {
+          "label": "Pawnbroker Owner/Operator",
+          "value": "Pawnbroker Owner/Operator - 177"
+        },
+        {
+          "label": "Pet Groomer And Animal Care Worker",
+          "value": "Pet Groomer And Animal Care Worker - 180"
+        },
+        {
+          "label": "Postal Services Representative",
+          "value": "Postal Services Representative - 190"
+        },
+        {
+          "label": "Purser And Flight Attendant",
+          "value": "Purser And Flight Attendant - 200"
+        },
+        {
+          "label": "Retail Customer Service Rep",
+          "value": "Retail Customer Service Rep - 210"
+        },
+        {
+          "label": "Seamstress/Tailor, Furrier, Milliner",
+          "value": "Seamstress/Tailor, Furrier, Milliner - 220"
+        },
+        {
+          "label": "Service Station Attendant",
+          "value": "Service Station Attendant - 230"
+        },
+        {
+          "label": "Shoe Repairer/Shoemaker",
+          "value": "Shoe Repairer/Shoemaker - 240"
+        },
+        {
+          "label": "Specialized Cleaner",
+          "value": "Specialized Cleaner - 250"
+        },
+        {
+          "label": "Store Shelf Stocker, Clerk, Order Filler",
+          "value": "Store Shelf Stocker, Clerk, Order Filler - 260"
+        },
+        {
+          "label": "Supervisor, Cleaning",
+          "value": "Supervisor, Cleaning - 270"
+        },
+        {
+          "label": "Supervisor, Customer/Info Services",
+          "value": "Supervisor, Customer/Info Services - 280"
+        },
+        {
+          "label": "Supervisor, Food Service",
+          "value": "Supervisor, Food Service - 290"
+        },
+        {
+          "label": "Supervisor, Mail/Message Distribution",
+          "value": "Supervisor, Mail/Message Distribution - 300"
+        },
+        {
+          "label": "Technical Customer Service Agent",
+          "value": "Technical Customer Service Agent - 310"
+        }
+      ]
+    },
+    {
+      "label": "Tourism/Lodging",
+      "value": "Tourism/Lodging - 285",
+      "listLabel": "Tourism/Lodging - Description",
+      "list": [
+        {
+          "label": "Accommodation And Luggage Attendant",
+          "value": "Accommodation And Luggage Attendant - 010"
+        },
+        {
+          "label": "Facilities Set-Up Worker",
+          "value": "Facilities Set-Up Worker - 020"
+        },
+        {
+          "label": "Hotel Front Desk Clerk",
+          "value": "Hotel Front Desk Clerk - 030"
+        },
+        {
+          "label": "Manager, Accommodation Service",
+          "value": "Manager, Accommodation Service - 040"
+        },
+        {
+          "label": "Outdoor Sport/Recreational Guide",
+          "value": "Outdoor Sport/Recreational Guide - 050"
+        },
+        {
+          "label": "Project/Change Manager-Tourism",
+          "value": "Project/Change Manager-Tourism - 055"
+        },
+        {
+          "label": "Supervisor, Travel/Tourism Services",
+          "value": "Supervisor, Travel/Tourism Services - 060"
+        },
+        {
+          "label": "Tour/Travel Guide",
+          "value": "Tour/Travel Guide - 070"
+        },
+        {
+          "label": "Travel Counsellor",
+          "value": "Travel Counsellor - 080"
+        }
+      ]
+    },
+    {
+      "label": "Trades",
+      "value": "Trades - 295",
+      "listLabel": "Trades - Description",
+      "list": [
+        {
+          "label": "Boilermaker",
+          "value": "Boilermaker - 010"
+        },
+        {
+          "label": "Bricklayer",
+          "value": "Bricklayer - 020"
+        },
+        {
+          "label": "Cabinetmaker",
+          "value": "Cabinetmaker - 030"
+        },
+        {
+          "label": "Carpenter",
+          "value": "Carpenter - 040"
+        },
+        {
+          "label": "Concrete Finisher",
+          "value": "Concrete Finisher - 050"
+        },
+        {
+          "label": "Driller And Blaster",
+          "value": "Driller And Blaster - 070"
+        },
+        {
+          "label": "Electrical Power Line And Cable Worker",
+          "value": "Electrical Power Line And Cable Worker - 080"
+        },
+        {
+          "label": "Electrician Non-Industrial",
+          "value": "Electrician Non-Industrial - 090"
+        },
+        {
+          "label": "Floor Covering Installer",
+          "value": "Floor Covering Installer - 100"
+        },
+        {
+          "label": "Gas Fitter",
+          "value": "Gas Fitter - 110"
+        },
+        {
+          "label": "Glazier",
+          "value": "Glazier - 120"
+        },
+        {
+          "label": "Industrial Electrician",
+          "value": "Industrial Electrician - 130"
+        },
+        {
+          "label": "Insulator",
+          "value": "Insulator - 140"
+        },
+        {
+          "label": "Interior/Exterior Painter",
+          "value": "Interior/Exterior Painter - 150"
+        },
+        {
+          "label": "Ironworker",
+          "value": "Ironworker - 160"
+        },
+        {
+          "label": "Locksmith",
+          "value": "Locksmith - 170"
+        },
+        {
+          "label": "Machine Fitter",
+          "value": "Machine Fitter - 180"
+        },
+        {
+          "label": "Machinist/Machining/Tooling Inspector",
+          "value": "Machinist/Machining/Tooling Inspector - 190"
+        },
+        {
+          "label": "Manager, Facility Operation/Maintenance",
+          "value": "Manager, Facility Operation/Maintenance - 210"
+        },
+        {
+          "label": "Material Handler",
+          "value": "Material Handler - 220"
+        },
+        {
+          "label": "Pest Controller And Fumigator",
+          "value": "Pest Controller And Fumigator - 230"
+        },
+        {
+          "label": "Pipefitter/Sprinkler System Installer",
+          "value": "Pipefitter/Sprinkler System Installer - 240"
+        },
+        {
+          "label": "Plasterer, Drywall Installer And Lather",
+          "value": "Plasterer, Drywall Installer And Lather - 250"
+        },
+        {
+          "label": "Plumber",
+          "value": "Plumber - 260"
+        },
+        {
+          "label": "Power System Electrician",
+          "value": "Power System Electrician - 270"
+        },
+        {
+          "label": "Roofer And Shingler",
+          "value": "Roofer And Shingler - 280"
+        },
+        {
+          "label": "Sheet Metal Worker",
+          "value": "Sheet Metal Worker - 290"
+        },
+        {
+          "label": "Structural Metal Fabricator/Fitter",
+          "value": "Structural Metal Fabricator/Fitter - 300"
+        },
+        {
+          "label": "Superintendent/Building Maint Worker",
+          "value": "Superintendent/Building Maint Worker - 310"
+        },
+        {
+          "label": "Supervisor, Printing And Binding",
+          "value": "Supervisor, Printing And Binding - 330"
+        },
+        {
+          "label": "Tilesetter",
+          "value": "Tilesetter - 340"
+        },
+        {
+          "label": "Tool And Die Maker",
+          "value": "Tool And Die Maker - 350"
+        },
+        {
+          "label": "Upholsterer",
+          "value": "Upholsterer - 360"
+        },
+        {
+          "label": "Utility Maintenance Worker",
+          "value": "Utility Maintenance Worker - 370"
+        },
+        {
+          "label": "Water Well Driller",
+          "value": "Water Well Driller - 380"
+        }
+      ]
+    },
+    {
+      "label": "Transport/Logistics",
+      "value": "Transport/Logistics - 305",
+      "listLabel": "Transport/Logistics - Description",
+      "list": [
+        {
+          "label": "Air Traffic Controller",
+          "value": "Air Traffic Controller - 020"
+        },
+        {
+          "label": "Air Transport Ramp Attendant",
+          "value": "Air Transport Ramp Attendant - 030"
+        },
+        {
+          "label": "Aircraft Mechanic And Inspector",
+          "value": "Aircraft Mechanic And Inspector - 040"
+        },
+        {
+          "label": "Boat And Cable Ferry Operator",
+          "value": "Boat And Cable Ferry Operator - 050"
+        },
+        {
+          "label": "Deck Officer Of Water Transport",
+          "value": "Deck Officer Of Water Transport - 060"
+        },
+        {
+          "label": "Delivery Service Driver",
+          "value": "Delivery Service Driver - 070"
+        },
+        {
+          "label": "Dispatcher",
+          "value": "Dispatcher - 080"
+        },
+        {
+          "label": "Engineer Officer Of Water Transport",
+          "value": "Engineer Officer Of Water Transport - 090"
+        },
+        {
+          "label": "Limousine Driver And Chauffeur",
+          "value": "Limousine Driver And Chauffeur - 100"
+        },
+        {
+          "label": "Longshore Worker",
+          "value": "Longshore Worker - 110"
+        },
+        {
+          "label": "Manager, Transportation",
+          "value": "Manager, Transportation - 120"
+        },
+        {
+          "label": "Production Logistics Worker",
+          "value": "Production Logistics Worker - 130"
+        },
+        {
+          "label": "Production/Transportation Coordinator",
+          "value": "Production/Transportation Coordinator - 140"
+        },
+        {
+          "label": "Project/Change Manager-Logistics",
+          "value": "Project/Change Manager-Logistics - 145"
+        },
+        {
+          "label": "Public Transit Transportation Operator",
+          "value": "Public Transit Transportation Operator - 150"
+        },
+        {
+          "label": "Purchasing/Inventory Control Worker",
+          "value": "Purchasing/Inventory Control Worker - 160"
+        },
+        {
+          "label": "Railway And Motor Transport Labourer",
+          "value": "Railway And Motor Transport Labourer - 170"
+        },
+        {
+          "label": "Railway Car Inspector/Mechanic",
+          "value": "Railway Car Inspector/Mechanic - 180"
+        },
+        {
+          "label": "Railway Conductor/Brakemen/Women",
+          "value": "Railway Conductor/Brakemen/Women - 190"
+        },
+        {
+          "label": "Railway Traffic Controller",
+          "value": "Railway Traffic Controller - 200"
+        },
+        {
+          "label": "Railway Yard/Track Maintenance Worker",
+          "value": "Railway Yard/Track Maintenance Worker - 210"
+        },
+        {
+          "label": "Shipper/Receiver",
+          "value": "Shipper/Receiver - 230"
+        },
+        {
+          "label": "Supervisor, Motor Transport",
+          "value": "Supervisor, Motor Transport - 240"
+        },
+        {
+          "label": "Supervisor, Railway Transport Operation",
+          "value": "Supervisor, Railway Transport Operation - 250"
+        },
+        {
+          "label": "Supervisor, Supply Chain/Scheduling",
+          "value": "Supervisor, Supply Chain/Scheduling - 260"
+        },
+        {
+          "label": "Taxi Driver",
+          "value": "Taxi Driver - 270"
+        },
+        {
+          "label": "Transport Truck Driver",
+          "value": "Transport Truck Driver - 280"
+        },
+        {
+          "label": "Transportation Route/Crew Scheduler",
+          "value": "Transportation Route/Crew Scheduler - 290"
+        },
+        {
+          "label": "Water Transport Deck/Engine Room Crew",
+          "value": "Water Transport Deck/Engine Room Crew - 300"
+        }
+      ]
+    }
+  ]
+}
